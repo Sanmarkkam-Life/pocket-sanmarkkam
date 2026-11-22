@@ -114,6 +114,7 @@ export const audiobooks: { book: string; title: string; note?: string; src: stri
   { book: "siru-vyakhyanangal", title: "Classical Expositions and Minor Commentaries (Siru Vyakhyanangal)", src: up("2026/11/Classical-Expositions-and-Minor-Commentaries-audiobook.mp3") },
   { book: "thirumugangal", title: "The Sacred Letters of Vallalar (Thirumugangal)", src: up("2026/11/The-Sacred-Letters-of-Vallalar-audiobook.mp3") },
   { book: "azhaippugal", title: "Invitations, Announcements and Sacred Directives (Azhaippugal, Arivippugal, Kattalaigal)", src: up("2026/11/Invitations-Announcements-and-Sacred-Directives-audiobook.mp3") },
+  { book: "personal-conduct", title: "Personal Conduct and Daily Discipline (Nithya Karma Vidhi)", src: up("2026/11/Nithya-Karma-Vidhi-Vallalars-Rules-for-Daily-Practice-audiobook.mp3") },
   { book: "manu-murai", title: "The Justice of King Manu (Manu Murai Kanda Vasagam)", src: up("2026/10/The-Justice-of-King-Manu-audiobook.mp3") },
   { book: "maruthuva", title: "The Medical and Herbal Writings of Vallalar (Maruthuva Paguthi)", note: "Introductions, herbs and notes; the herb table is not read.", src: up("2026/11/The-Medical-and-Herbal-Writings-of-Vallalar-audiobook.mp3") },
 ];

@@ -8768,6 +8768,1229 @@
      ]
     }
    ]
+  },
+  {
+   "id": "personal-conduct",
+   "collection": "Urainaidai Paguthi",
+   "title": "Personal Conduct and Daily Discipline",
+   "short": "Personal Conduct",
+   "tamilTitle": "நித்திய கரும விதி",
+   "romanTitle": "Nithya Karma Vidhi",
+   "page": "https://sanmarkkamlife.org/nithya-karma-vidhi/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 137,
+   "hasIntro": true,
+   "glossary": 342,
+   "toc": [
+    {
+     "id": "1",
+     "title": "Part One",
+     "translit": "THE DISCIPLINE OF DAILY LIFE",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "translit": "",
+       "tamil": "",
+       "count": 0
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "title": "Rules of Daily Conduct",
+     "translit": "Nithya Karma Vidhi",
+     "tamil": "நித்திய கரும விதி",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "Rules of Daily Conduct",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "Ordinary Rules",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "Thiru Chitrambalam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "Waking Before Sunrise",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "Morning Betel and Elimination",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "Cleansing and the Morning Herbal Milk",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "Morning Sun, Light Exercise and Bath",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "The Midday Meal",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "What to Eat and What to Avoid",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "After the Midday Meal",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "11",
+       "title": "The Evening Walk",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "12",
+       "title": "Evening, the Night Meal and Night Milk",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "13",
+       "title": "Married Union and Night Sleep",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "14",
+       "title": "Fear, Temper and the Vital Breath",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "15",
+       "number": "15",
+       "title": "Oil Bath, Intoxicants and Bodily Urges",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "16",
+       "number": "16",
+       "title": "The Lamp of Grace Between the Brows",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "17",
+       "number": "17",
+       "title": "General Rules",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "18",
+       "number": "18",
+       "title": "Periodic Cleansing",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "19",
+       "number": "19",
+       "title": "Eye Salve",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "20",
+       "number": "20",
+       "title": "Measure in Married Union",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "21",
+       "number": "21",
+       "title": "The Oil Bath",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "22",
+       "number": "22",
+       "title": "Protection from the Weather",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "23",
+       "number": "23",
+       "title": "Faults of Body, Senses and Mind",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "24",
+       "number": "24",
+       "title": "Foods to Give Up",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "25",
+       "number": "25",
+       "title": "Special Rules",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "26",
+       "number": "26",
+       "title": "Rising Two Hours Before Sunrise",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "27",
+       "number": "27",
+       "title": "Silent Elimination",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "28",
+       "number": "28",
+       "title": "Cleaning the Teeth with Herbs",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "29",
+       "number": "29",
+       "title": "Solitary Meditation Until Sunrise",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "30",
+       "number": "30",
+       "title": "Morning Practice and the Morning Fast",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "31",
+       "number": "31",
+       "title": "The Morning Herbal Powder",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "32",
+       "number": "32",
+       "title": "Eating by the Balance",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "33",
+       "number": "33",
+       "title": "The Special Diet and Its Spices",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "34",
+       "number": "34",
+       "title": "The Quiet Afternoon",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "35",
+       "number": "35",
+       "title": "Water with the Meal",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "36",
+       "number": "36",
+       "title": "Midday Contemplation",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "37",
+       "number": "37",
+       "title": "No Untimely Union or Meals",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "38",
+       "number": "38",
+       "title": "Evening Meditation",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "39",
+       "number": "39",
+       "title": "The Night Meal",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "40",
+       "number": "40",
+       "title": "Night Meditation",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "41",
+       "number": "41",
+       "title": "Sleep from Midnight to Three",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "42",
+       "number": "42",
+       "title": "The Four Measures",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "43",
+       "number": "43",
+       "title": "Thiru Chitrambalam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "44",
+       "number": "44",
+       "title": "Here Ends the Nithya Karma Vidhi",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "3",
+     "title": "Notes to the Rules of Daily Conduct",
+     "translit": "Pathippasiriyar Kurippugal",
+     "tamil": "பதிப்பாசிரியர் குறிப்புகள்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "Note 1: Waking at Dawn",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "Note 2: How to Take Betel",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "Note 3: Twigs for Cleaning the Teeth",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "Note 4: The Herbs of Wisdom",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "Note 5: Delay and Haste",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "Note 6: The One Tuber Allowed",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "Note 7: Less Salt, Tamarind and Chilli",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "Note 8: Rest After the Midday Meal",
+       "translit": "",
+       "tamil": "",
+       "count": 2
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "Note 9: More Lime at Noon",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "Note 10: Half a Meal at Night",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "11",
+       "title": "Note 11: No Curd at Night",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "12",
+       "title": "Note 12: More Leaf at Night",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "13",
+       "title": "Note 13: Lying on the Left Side",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "14",
+       "title": "Note 14: Hours of Sleep",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "15",
+       "number": "15",
+       "title": "Note 15: Not Holding Back the Urges",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "16",
+       "number": "16",
+       "title": "Notes 16 to 18: Purge, Emetic and Nasal Treatment",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "17",
+       "number": "17",
+       "title": "Note 19: Rising Two Hours Before Sunrise",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "18",
+       "number": "18",
+       "title": "Note 20: The Hours of Night Sleep",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "19",
+       "number": "",
+       "title": "The Householder's Day (Ordinary Rules)",
+       "translit": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "20",
+       "number": "",
+       "title": "The Full-time Seeker's Day (Special Rules)",
+       "translit": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "21",
+       "number": "",
+       "title": "Modern Substitutions and Safety",
+       "translit": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "22",
+       "number": "",
+       "title": "Where to Find Herbs & Foods",
+       "translit": "",
+       "tamil": "",
+       "count": 0
+      }
+     ]
+    },
+    {
+     "id": "4",
+     "title": "The Path of Grace",
+     "translit": "Arulneri",
+     "tamil": "அருள்நெறி",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "The Path of Grace",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "Thiru Chitrambalam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "Grace Through Compassion",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "The Nature of Grace",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "How Grace Shines in the Body and the Universe",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "The Means to Grace",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "Good and Evil",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "The Twelve Kinds of Merit and Sin",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "Removing Sins Done Knowingly",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "Sins Done Unknowingly",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "11",
+       "title": "The Fate of Unexpiated Sin",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "12",
+       "title": "The Vedantins' Claim and Those Freed in This Life",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "13",
+       "title": "The Body That Becomes Knowledge",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "14",
+       "title": "Thiru Chitrambalam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "15",
+       "number": "15",
+       "title": "Here Ends Arulneri",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "5",
+     "title": "The True Word of Grace",
+     "translit": "Thiruvarun Meymozhi",
+     "tamil": "திருவருண் மெய்ம்மொழி",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "The True Word of Grace",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "The True Conduct of the Great Path",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "The One True God",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "Lives Wasted in Imaginings",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "The Hall of Wisdom and the Coming of Grace",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "The Four Conducts",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "The Conduct of the Senses",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "The Conduct of the Inner Faculties",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "The Conduct Towards All People",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "The Conduct of the Soul",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "11",
+       "title": "Our Effort and the Help of Grace",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "12",
+       "title": "Good Practices",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "13",
+       "title": "The Religions and Their Rites",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "14",
+       "title": "Waiting for His Coming",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "15",
+       "number": "15",
+       "title": "The Promise",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "16",
+       "number": "16",
+       "title": "The Summary of the True Word",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "17",
+       "number": "17",
+       "title": "Arut Perum Jothi, Thani Perum Karunai",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "18",
+       "number": "18",
+       "title": "Thiru Chitrambalam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "19",
+       "number": "19",
+       "title": "Here Ends Thiruvarun Meymozhi",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "6",
+     "title": "Part Two",
+     "translit": "EARLY WRITINGS",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "7",
+     "title": "The Rule of Daily Worship",
+     "translit": "Anushtana Vidhi",
+     "tamil": "அனுஷ்டான விதி",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "The Rule of Daily Worship",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "Thiru Chitrambalam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "Salutation to Ganapathi and the Guru",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "The Worship of the Water Pot",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "Sipping the Water and Touching the Twelve Places",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "The Sacred Ash, the Offerings and the Day's Worship",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "Thiru Chitrambalam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "Editor's Note",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "8",
+     "title": "The Worship of Ganapathi",
+     "translit": "Ganapathi Pooja Vidhi",
+     "tamil": "கணபதி பூஜா விதி",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "The Worship of Ganapathi",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "Thiru Chitrambalam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "The Bathing of the Image",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "The Bath, the Adornment and the Offerings",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "The Worship in the Mind",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "Thiru Chitrambalam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "9",
+     "title": "The Tuesday Fast",
+     "translit": "Chevvaikkizhamai Viratha Murai",
+     "tamil": "செவ்வாய்க்கிழமை விரத முறை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "The Tuesday Fast",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "Thiru Chitrambalam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "The Order of the Day",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "Thiru Chitrambalam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "Editor's Notes",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "10",
+     "title": "The Meaning of Subramaniyam",
+     "translit": "Subramaniyam",
+     "tamil": "சுப்பிரமணியம்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "Subramaniyam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "Thiru Chitrambalam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "What Subramaniyam Is",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "Feet, Hands and Weapons",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "The Victory Over Sura",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "One, Three, Four and Six Faces",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "The Snake Under the Peacock",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "The Six Abodes",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "Brahma in Prison",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "The Teaching to Isvara",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "11",
+       "title": "The Birth Among the Reeds",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "12",
+       "title": "The Milk of the Karttikai Mothers",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "13",
+       "title": "Six Children Made One",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "14",
+       "title": "Why Temples and Scriptures Exist",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "15",
+       "number": "15",
+       "title": "Holy Days, Kavadi, Six Letters and Temple",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "16",
+       "number": "16",
+       "title": "The Temple of Inquiry",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "17",
+       "number": "17",
+       "title": "Editor's Note",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "18",
+       "number": "18",
+       "title": "The Great Devotees",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "19",
+       "number": "19",
+       "title": "Thiru Chitrambalam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "20",
+       "number": "20",
+       "title": "Here Ends Subramaniyam",
+       "translit": "",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    }
+   ]
   }
  ]
 }

@@ -18,9 +18,9 @@ Source: `..\04 Publications` (read only). Output: `public\data\`.
 - **Invitations, Announcements and Sacred Directives** (Edition 1.0, November 2026): 18 work(s), 90 sections, 71 passages, 0 tables, 66 glossary entries, 1 intro(s), 133 KB. Without translation: 0, without commentary: 17, without Tamil: 0.
 - **The Medical and Herbal Writings of Vallalar** (Edition 1.0, November 2026): 3 work(s), 12 sections, 11 passages, 1 tables, 39 glossary entries, 3 intro(s), 99 KB. Without translation: 0, without commentary: 0, without Tamil: 0.
 - **The Justice of King Manu** (Edition 1.0, November 2026): 9 work(s), 63 sections, 63 passages, 0 tables, 106 glossary entries, 1 intro(s), 405 KB. Without translation: 1, without commentary: 63, without Tamil: 0.
-- **Personal Conduct and Daily Discipline**: SKIPPED (pending: Publications session (2026-11-22): EXCLUDE for now. Its notes record only the 0.9 Review Draft, under 'not approved'; it does not know this Vallalars-Rules-for-Daily-Practice file. It asked the user and will tell us if the book is approved.)
+- **Personal Conduct and Daily Discipline** (Edition 1.0, November 2026): 10 work(s), 141 sections, 137 passages, 2 tables, 342 glossary entries, 8 intro(s), 345 KB. Without translation: 1, without commentary: 22, without Tamil: 0.
 
-Verse-of-the-day pool: 366 passages. Search index: 6342 passages, 6663 KB.
+Verse-of-the-day pool: 366 passages. Search index: 6479 passages, 6874 KB.
 
 Left out on purpose (books.json "excluded"):
 - Songs of Grace, Book VI: Draft. Goes in when approved.
