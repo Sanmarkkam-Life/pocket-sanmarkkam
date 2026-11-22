@@ -178,7 +178,19 @@ def split_heading(text):
     text = text.replace("–", "-").strip()
     text = re.sub(r"\s*-\s*INTRODUCTION\s*$", "", text, flags=re.I)
     parts = [x.strip() for x in re.split(r"\s+-\s+", text) if x.strip()]
-    tamil = " ".join(x for x in parts if TAMIL.search(x))
+    # Tamil in brackets inside an English part: "4. DWELLING IN IGNORANCE (அஞ்ஞானத்திற் பயின்று)"
+    bracketed = []
+    for i, x in enumerate(parts):
+        m = re.search(r"\s*\(([^)]*[஀-௿][^)]*)\)\s*$", x)
+        if m and LATIN.search(x[: m.start()]):
+            bracketed.append(m.group(1).strip())
+            parts[i] = x[: m.start()].strip()
+    # "PART I - TITLE" and "SONGS OF GRACE - BOOK III" belong together
+    if len(parts) > 1 and re.fullmatch(r"PART [IVXLC]+", parts[0], re.I):
+        parts[0:2] = [f"{title_case(parts[0])}: {title_case(parts[1])}"]
+    elif len(parts) > 1 and re.match(r"SONGS OF GRACE$", parts[0], re.I) and re.match(r"BOOK [IVX]+$", parts[1], re.I):
+        parts[0:2] = [f"Songs of Grace, Book {parts[1].split()[-1].upper()}"]
+    tamil = " ".join([x for x in parts if TAMIL.search(x)] + bracketed)
     rest = [x for x in parts if not TAMIL.search(x)]
     number = ""
     if rest:
@@ -487,8 +499,8 @@ def main():
 
         toc = []
         for w in book.works:
-            toc.append({"id": w["id"], "title": w["title"], "tamil": w["tamil"],
-                        "sections": [{"id": s["id"], "number": s["number"], "title": s["title"], "tamil": s["tamil"],
+            toc.append({"id": w["id"], "title": w["title"], "translit": w["translit"], "tamil": w["tamil"],
+                        "sections": [{"id": s["id"], "number": s["number"], "title": s["title"], "translit": s["translit"], "tamil": s["tamil"],
                                       "count": sum(1 for b in s["blocks"] if b["type"] == "passage")} for s in w["sections"]]})
         catalog.append({k: data[k] for k in ("id", "collection", "title", "short", "tamilTitle", "romanTitle", "page", "edition")}
                        | {"passages": stats["passages"], "hasIntro": bool(book.intro), "glossary": len(book.glossary), "toc": toc})

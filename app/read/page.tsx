@@ -76,7 +76,7 @@ function Reader() {
 
   return (
     <>
-      <Header title={meta.short} back={`/book?b=${meta.id}`} sub={here ? (many ? here.wk.title : meta.title) : undefined} />
+      <Header title={meta.short} back={`/book?b=${meta.id}`} sub={here ? (many ? `${here.wk.title}${here.wk.translit ? " · " + here.wk.translit : ""}` : meta.romanTitle) : undefined} />
       <div className="sticky top-[57px] z-10 border-b border-line bg-page/95 backdrop-blur">
         <div className="mx-auto max-w-2xl px-4 py-2">
           <LayerToggles compact />

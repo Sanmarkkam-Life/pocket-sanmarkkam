@@ -34,10 +34,11 @@ function BookContents() {
       <Header title={book.short} back="/books" sub={book.edition} />
       <main className="mx-auto max-w-2xl px-4 pt-4">
         <h2 className="text-2xl font-extrabold leading-tight">{book.title}</h2>
+        <p className="font-read text-lg italic text-gold">{book.romanTitle}</p>
         <p className="font-tamil text-lg text-muted" lang="ta">
           {book.tamilTitle}
         </p>
-        <p className="text-sm text-muted">{book.romanTitle} · Vallalar (Ramalinga Adigal)</p>
+        <p className="text-sm text-muted">Vallalar (Ramalinga Adigal)</p>
 
         <div className="mt-4 flex flex-wrap gap-2">
           {book.hasIntro && (
@@ -65,6 +66,7 @@ function BookContents() {
             {many && (
               <h3 className="mb-2 font-extrabold">
                 {w.title}
+                {w.translit && <span className="block font-read text-sm font-normal italic text-gold">{w.translit}</span>}
                 {w.tamil && (
                   <span className="block font-tamil text-sm font-normal text-muted" lang="ta">
                     {w.tamil}
@@ -79,6 +81,7 @@ function BookContents() {
                     {s.number && <span className="w-9 shrink-0 text-right text-sm font-bold text-gold">{s.number.replace(/^0+/, "")}</span>}
                     <span className="min-w-0 flex-1">
                       <span className="block leading-snug">{s.title}</span>
+                      {s.translit && <span className="block truncate font-read text-xs italic text-gold">{s.translit}</span>}
                       {s.tamil && (
                         <span className="block truncate font-tamil text-xs text-muted" lang="ta">
                           {s.tamil}

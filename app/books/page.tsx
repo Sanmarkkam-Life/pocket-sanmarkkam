@@ -36,11 +36,12 @@ export default function Books() {
                     <Link href={`/book?b=${b.id}`} className="card flex items-center gap-3 p-4 text-ink no-underline">
                       <div className="min-w-0 flex-1">
                         <div className="font-bold leading-snug">{b.title}</div>
+                        <div className="font-read italic text-gold">{b.romanTitle}</div>
                         <div className="font-tamil text-sm text-muted" lang="ta">
                           {b.tamilTitle}
                         </div>
                         <div className="mt-1 text-xs text-muted">
-                          {b.romanTitle} · {b.edition.replace(/, .*/, "")} · {b.passages.toLocaleString()} {c === "Thiru Arutpa" ? "verses" : "passages"}
+                          {b.edition.replace(/, .*/, "")} · {b.passages.toLocaleString()} {c === "Thiru Arutpa" ? "verses" : "passages"}
                         </div>
                       </div>
                       <Icon name="next" className="h-5 w-5 shrink-0 text-muted" />

@@ -43,12 +43,12 @@ export type Book = {
   glossary: { term: string; tamil: string; def: string }[];
 };
 
-export type TocSection = { id: string; number: string; title: string; tamil: string; count: number };
+export type TocSection = { id: string; number: string; title: string; translit: string; tamil: string; count: number };
 export type CatalogBook = Omit<Book, "intro" | "works" | "glossary" | "exported"> & {
   passages: number;
   hasIntro: boolean;
   glossary: number;
-  toc: { id: string; title: string; tamil: string; sections: TocSection[] }[];
+  toc: { id: string; title: string; translit: string; tamil: string; sections: TocSection[] }[];
 };
 
 export type DailyVerse = {
