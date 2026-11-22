@@ -20,6 +20,7 @@ const paths: Record<string, string> = {
   close: "M6 6l12 12M18 6 6 18",
   download: "M12 3v12M7 10l5 5 5-5M5 21h14",
   list: "M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01",
+  chat: "M4 5h16v11H9l-5 4zM8 9h8M8 12h5",
 };
 
 export default function Icon({ name, className = "h-5 w-5", filled = false }: { name: string; className?: string; filled?: boolean }) {

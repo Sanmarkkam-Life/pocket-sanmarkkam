@@ -11,6 +11,7 @@ const tabs = [
   { href: "/audio", label: "Audio", icon: "audio", match: (p: string) => p.startsWith("/audio") },
   { href: "/resources", label: "Resources", icon: "links", match: (p: string) => p.startsWith("/resources") },
   { href: "/support", label: "Support", icon: "heart", match: (p: string) => p.startsWith("/support") },
+  { href: "/feedback", label: "Feedback", icon: "chat", match: (p: string) => p.startsWith("/feedback") },
 ];
 
 export default function BottomNav() {
@@ -21,9 +22,9 @@ export default function BottomNav() {
         {tabs.map((t) => {
           const active = t.match(path);
           return (
-            <li key={t.href} className="flex-1">
-              <Link href={t.href} className={`flex flex-col items-center gap-0.5 py-2 text-[0.65rem] font-semibold no-underline ${active ? "text-gold" : "text-muted"}`} aria-current={active ? "page" : undefined}>
-                <Icon name={t.icon} className="h-6 w-6" filled={active && (t.icon === "heart" || t.icon === "flame")} />
+            <li key={t.href} className="min-w-0 flex-1">
+              <Link href={t.href} className={`flex flex-col items-center gap-0.5 px-0.5 py-2 text-[0.6rem] leading-tight font-semibold no-underline ${active ? "text-gold" : "text-muted"}`} aria-current={active ? "page" : undefined}>
+                <Icon name={t.icon} className="h-[22px] w-[22px]" filled={active && (t.icon === "heart" || t.icon === "flame")} />
                 {t.label}
               </Link>
             </li>
