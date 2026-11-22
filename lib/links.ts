@@ -62,7 +62,35 @@ export const resources = [
   },
 ];
 
-const up = (path: string) => `${SITE}/wp-content/uploads/${path}`;
+// Chants and songs: existing recordings on YouTube, used with the singers' permission
+// (user's decision, 22 Nov 2026: no new voice recordings). embed:false = the uploader
+// does not allow playing on other sites, so the app opens YouTube instead.
+export type Chant = { title: string; by: string; youtube: string; start?: number; minutes: number; embed: boolean; note?: string };
+export const chantSections: { id: string; title: string; tamil: string; text: string; items: Chant[] }[] = [
+  {
+    id: "mahamantra",
+    title: "The Maha Mantra",
+    tamil: "அருட்பெருஞ்ஜோதி மகாமந்திரம்",
+    text: "Arutperunjothi Arutperunjothi, Thanipperunkarunai Arutperunjothi: Vast Grace-Light, Vast Grace-Light, Unique Vast Compassion, Vast Grace-Light. The mantra Vallalar gave to all, to be said openly.",
+    items: [{ title: "Arutperunjothi Mahamandhiram", by: "Shravan Kalai", youtube: "CEMq9LntDgg", minutes: 63, embed: true }],
+  },
+  {
+    id: "agaval",
+    title: "Arutperunjothi Agaval",
+    tamil: "அருட்பெருஞ்ஜோதி அகவல்",
+    text: "The Hymn of the Vast Grace-Light. Chanted versions will be added here; the English reading is under Audiobooks.",
+    items: [],
+  },
+  {
+    id: "songs",
+    title: "Songs of Grace",
+    tamil: "திருவருட்பா பாடல்கள்",
+    text: "Songs from the Thiru Arutpa, sung.",
+    items: [{ title: "Gnana Sariyai (Sixth Thirumurai)", by: "Shravan Kalai", youtube: "PEO1MzIPxh0", start: 1228, minutes: 38, embed: false, note: "Opens on YouTube at 20:28." }],
+  },
+];
+
+const up = (path: string) =>`${SITE}/wp-content/uploads/${path}`;
 
 // Audiobooks already published on the website (ElevenLabs masters, web copies).
 // Only approved editions; the file each book page plays today.
