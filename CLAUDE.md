@@ -4,7 +4,7 @@ Last updated: 2026-11-22. Start here in every session about the app. The agreed 
 
 ## What it is
 - A free phone app (Next.js 14 PWA, installs to the home screen) with Vallalar's **published** books: Tamil, transliteration, English translation, commentary. Plus verse of the day, audio, resources and support links.
-- **Phase 1 is built** (reader, search, bookmarks, offline, settings, links). Phase 2 (KarunAI inside the app, mantras, Book VI) and Phase 3 (app stores, languages) are not started.
+- **Phase 1 is built** (reader, search, bookmarks, offline, settings, links). From Phase 2, KarunAI in the app and chants (YouTube) are done (22 Nov); Book VI waits for approval. Phase 3 (app stores, languages) not started.
 - Write "Vallalar (Ramalinga Adigal)". Never "Swamigal" in new text.
 - Tone: as the org's voice: direct, warm, short. Donation asks are gentle, one place only (the Support tab and one footer line).
 
@@ -36,6 +36,12 @@ py scripts\export_books.py            # refresh book data (in the Drive folder)
 - Preview configs are in `.claude\launch.json` of this folder. When a session starts in the parent folder, `preview_start` picks the parent's config (TamiLearn) instead: start the server with the script, then `preview_start` with the URL.
 - **The built-in browser pane cannot register service workers** ("unknown error fetching the script"). Test offline in Chrome (Claude in Chrome): it works there (checked 2026-11-22: server stopped, an unopened Book III chapter still loaded).
 - First install lesson (2026-11-22): an interrupted `npm install` left a broken SWC binary and missing files. Fix: delete `node_modules` in the run folder and run the script again.
+
+## KarunAI and giving (22 Nov 2026)
+- `/karunai` (`app/karunai/page.tsx`, `lib/karunai.ts`) posts the conversation to the website's KarunAI (`admin-ajax.php?action=karunai_chat`, WPCode snippet 4362) as text/plain. The snippet allows the app's origin through `allowed_http_origins` (line added 22 Nov with the user's OK; Drive copy `14 KarunAI\karunai-server-snippet.php` updated, old copy `.2026-11-22-before-app-cors.php.bak`). **Only https://pocket-sanmarkkam.vercel.app is allowed**: localhost cannot test KarunAI, and a new domain must be added to that filter.
+- Limits: the server's 60/hour per visitor and 500/day for everyone (shared with the website), plus 10 questions a day per phone in the app (same as the website page). Cost as the website: about 1.5 to 2 US cents a question.
+- KarunAI's own book collection still includes the Book V and VI drafts (managed in `14 KarunAI`), so answers can quote drafts.
+- Giving: `components/DonatePanel.tsx` + `lib/giving.ts`, ported from TamiLearn: Donorbox campaign `sanmarkkam-en-monthly` inside the app, `utm_source=pocket-sanmarkkam`. No payment code in the app.
 
 ## Exporter notes (how the books are read)
 - Heading 1 = a work (or an introduction if it ends in "INTRODUCTION" / is "A NOTE ON CONTEXT"); Heading 2 = a section; front matter (Disclaimer, About the Author, Contents) skipped; everything from "ABOUT SANMARKKAM LIFE" on skipped; GLOSSARY entries `term (தமிழ்): definition`.
