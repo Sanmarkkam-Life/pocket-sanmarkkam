@@ -5,8 +5,8 @@ export const SITE = "https://sanmarkkamlife.org";
 export const support = [
   {
     title: "Donate",
-    text: "Every book, recording and translation is offered freely. Gifts keep it that way.",
-    href: `${SITE}/donate/`,
+    text: "Every book, recording and translation is offered freely. Gifts keep it that way. Give right here in the app.",
+    href: `${SITE}/donate/`, // fallback only: the app opens the Donorbox form itself
     icon: "heart",
     primary: true,
   },
@@ -30,34 +30,34 @@ export const support = [
   },
 ];
 
-export const resources = [
+export const resources: { group: string; items: { emoji: string; title: string; text: string; href: string }[] }[] = [
   {
     group: "Learn",
     items: [
-      { title: "TamiLearn", text: "Learn the Tamil letters, one friendly snake at a time.", href: `${SITE}/tamilearn/` },
-      { title: "KarunAI", text: "Ask questions about Vallalar's teachings (on the website).", href: `${SITE}/karunai/` },
-      { title: "Start here", text: "A first path into Vallalar and Sanmarkkam.", href: `${SITE}/start/` },
-      { title: "Articles", text: "Short answers to the questions seekers ask.", href: `${SITE}/articles/` },
-      { title: "All books", text: "Every book online, as PDF and in print.", href: `${SITE}/books/` },
+      { emoji: "ௐ", title: "TamiLearn", text: "Learn the Tamil letters, one friendly snake at a time.", href: `${SITE}/tamilearn/` },
+      { emoji: "🚀", title: "Start here", text: "A first path into Vallalar and Sanmarkkam.", href: `${SITE}/start/` },
+      { emoji: "✍️", title: "Articles", text: "Short answers to the questions seekers ask.", href: `${SITE}/articles/` },
+      { emoji: "📚", title: "All books", text: "Every book online, as PDF and in print.", href: `${SITE}/books/` },
     ],
   },
   {
     group: "Live it",
     items: [
-      { title: "Emporium", text: "Plant-based foods and herbals, offered for a donation.", href: `${SITE}/emporium/` },
-      { title: "Community and local centers", text: "Meet others who walk the path near you.", href: `${SITE}/community/` },
-      { title: "Events", text: "Gatherings, talks and food service.", href: `${SITE}/events/` },
-      { title: "Newsletter", text: "A gentle letter now and then, with new books and recordings.", href: `${SITE}/journey/` },
+      { emoji: "🛍️", title: "Emporium", text: "Plant-based foods and herbals, offered for a donation.", href: `${SITE}/emporium/` },
+      { emoji: "👨‍👩‍👧‍👦", title: "Community and local centers", text: "Meet others who walk the path near you.", href: `${SITE}/community/` },
+      { emoji: "🗓️", title: "Events", text: "Gatherings, talks and food service.", href: `${SITE}/events/` },
+      { emoji: "💌", title: "Newsletter", text: "A gentle letter now and then, with new books and recordings.", href: `${SITE}/journey/` },
     ],
   },
   {
     group: "Follow",
     items: [
-      { title: "YouTube", text: "@SanmarkkamLife", href: "https://www.youtube.com/@SanmarkkamLife/" },
-      { title: "Instagram", text: "@sanmarkkam_life", href: "https://www.instagram.com/sanmarkkam_life/" },
-      { title: "TikTok", text: "@sanmarkkam_life", href: "https://www.tiktok.com/@sanmarkkam_life" },
-      { title: "Telegram", text: "Join the channel", href: "https://t.me/+ebI29y5AFSliZTI8" },
-      { title: "Website", text: "sanmarkkamlife.org", href: `${SITE}/` },
+      { emoji: "▶️", title: "YouTube", text: "@SanmarkkamLife", href: "https://www.youtube.com/@SanmarkkamLife/" },
+      { emoji: "📸", title: "Instagram", text: "@sanmarkkam_life", href: "https://www.instagram.com/sanmarkkam_life/" },
+      { emoji: "🎵", title: "TikTok", text: "@sanmarkkam_life", href: "https://www.tiktok.com/@sanmarkkam_life" },
+      { emoji: "💬", title: "WhatsApp community", text: "Join the group", href: "https://chat.whatsapp.com/FHclF4fOvdh5pEC4kchkBl" },
+      { emoji: "✈️", title: "Telegram", text: "Join the channel", href: "https://t.me/+ebI29y5AFSliZTI8" },
+      { emoji: "🌐", title: "Website", text: "sanmarkkamlife.org", href: `${SITE}/` },
     ],
   },
 ];

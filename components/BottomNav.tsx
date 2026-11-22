@@ -7,6 +7,7 @@ import Icon from "./Icon";
 const tabs = [
   { href: "/", label: "Home", icon: "home", match: (p: string) => p === "/" },
   { href: "/books", label: "Books", icon: "book", match: (p: string) => ["/books", "/book", "/read", "/intro", "/glossary", "/search", "/bookmarks"].some((x) => p.startsWith(x)) },
+  { href: "/karunai", label: "KarunAI", icon: "flame", match: (p: string) => p.startsWith("/karunai") },
   { href: "/audio", label: "Audio", icon: "audio", match: (p: string) => p.startsWith("/audio") },
   { href: "/resources", label: "Resources", icon: "links", match: (p: string) => p.startsWith("/resources") },
   { href: "/support", label: "Support", icon: "heart", match: (p: string) => p.startsWith("/support") },
@@ -21,8 +22,8 @@ export default function BottomNav() {
           const active = t.match(path);
           return (
             <li key={t.href} className="flex-1">
-              <Link href={t.href} className={`flex flex-col items-center gap-0.5 py-2 text-[0.7rem] font-semibold no-underline ${active ? "text-gold" : "text-muted"}`} aria-current={active ? "page" : undefined}>
-                <Icon name={t.icon} className="h-6 w-6" filled={active && t.icon === "heart"} />
+              <Link href={t.href} className={`flex flex-col items-center gap-0.5 py-2 text-[0.65rem] font-semibold no-underline ${active ? "text-gold" : "text-muted"}`} aria-current={active ? "page" : undefined}>
+                <Icon name={t.icon} className="h-6 w-6" filled={active && (t.icon === "heart" || t.icon === "flame")} />
                 {t.label}
               </Link>
             </li>

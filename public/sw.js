@@ -8,9 +8,9 @@
  * - Audio and other sites: not touched (streamed from sanmarkkamlife.org).
  * Bump VERSION when this file changes.
  */
-const VERSION = "v1";
+const VERSION = "v2";
 const CACHE = `pocket-sanmarkkam-${VERSION}`;
-const PAGES = ["/", "/books", "/book", "/read", "/intro", "/glossary", "/search", "/bookmarks", "/audio", "/resources", "/support", "/settings"];
+const PAGES = ["/", "/books", "/book", "/read", "/intro", "/glossary", "/search", "/bookmarks", "/karunai", "/audio", "/resources", "/support", "/settings"];
 
 async function precache() {
   const cache = await caches.open(CACHE);

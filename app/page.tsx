@@ -83,6 +83,17 @@ export default function Home() {
         </div>
       </section>
 
+      <Link href="/karunai" className="card mt-4 flex items-center gap-4 p-4 text-ink no-underline">
+        <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-gold text-white dark:text-[#1c160c]">
+          <Icon name="flame" className="h-5 w-5" filled />
+        </span>
+        <span className="min-w-0 flex-1">
+          <span className="block font-bold">Ask KarunAI</span>
+          <span className="block text-sm text-muted">Questions about Vallalar&apos;s teachings, answered from the books</span>
+        </span>
+        <Icon name="next" className="h-5 w-5 shrink-0 text-muted" />
+      </Link>
+
       <section className="mt-6 grid grid-cols-2 gap-3">
         <Link href="/books" className="card flex flex-col gap-1 p-4 text-ink no-underline">
           <Icon name="book" className="h-6 w-6 text-gold" />

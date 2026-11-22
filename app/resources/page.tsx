@@ -16,6 +16,7 @@ export default function Resources() {
               {g.items.map((it) => (
                 <li key={it.href}>
                   <a href={it.href} target="_blank" rel="noopener" className="flex items-center gap-3 px-4 py-3 text-ink no-underline">
+                    <span className="w-8 shrink-0 text-center text-2xl" aria-hidden="true">{it.emoji}</span>
                     <span className="min-w-0 flex-1">
                       <span className="block font-bold">{it.title}</span>
                       <span className="block text-sm text-muted">{it.text}</span>
