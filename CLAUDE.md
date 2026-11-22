@@ -15,6 +15,7 @@ Last updated: 2026-11-22. Start here in every session about the app. The agreed 
 4. `node_modules`, `.next` and `.env.local` never go on Drive. The app runs from a local copy (below).
 5. Book text in the app is exactly the book's text. Fix errors in the book (publications session), then re-export; never hand-edit `public/data`.
 6. Unpublished translations and seekers' data never go to `/free`.
+7. **Never name the reading language in app or page text** (user, 22 Nov 2026): say "the translation", not "the English translation", so the same texts work when the app is translated into Italian and other languages.
 
 ## Where things are
 - `scripts/books.json`: the list of books in the app, their source `.docx`, website page, and the books left out on purpose (with the reason). **Add a book here when it is approved.**

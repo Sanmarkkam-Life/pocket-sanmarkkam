@@ -2,7 +2,7 @@
 
 import { usePrefs } from "@/lib/prefs";
 
-/** The three switches: Tamil, Transliteration, Commentary. The English translation is always shown. */
+/** The three switches: Tamil, Transliteration, Commentary. The translation is always shown. */
 export default function LayerToggles({ compact = false }: { compact?: boolean }) {
   const { settings, set } = usePrefs();
   const items = [

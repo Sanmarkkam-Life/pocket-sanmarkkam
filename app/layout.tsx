@@ -9,7 +9,7 @@ const nunito = localFont({ src: "./fonts/nunito-latin.woff2", weight: "400 800",
 const notoSansTamil = localFont({ src: "./fonts/noto-sans-tamil.woff2", weight: "400 700", variable: "--font-tamil", display: "swap" });
 
 const description =
-  "Vallalar's Thiru Arutpa and prose writings in your pocket: Tamil, transliteration, English translation and commentary. Free, offered by Sanmarkkam Life.";
+  "Vallalar's Thiru Arutpa and prose writings in your pocket: the original Tamil, transliteration, translation and commentary. Free, offered by Sanmarkkam Life.";
 
 export const metadata: Metadata = {
   title: { default: "Pocket Sanmarkkam", template: "%s · Pocket Sanmarkkam" },

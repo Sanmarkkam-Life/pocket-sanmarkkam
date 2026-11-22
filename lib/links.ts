@@ -85,7 +85,7 @@ export const chantSections: { id: string; title: string; tamil: string; text: st
     id: "agaval",
     title: "Arutperunjothi Agaval",
     tamil: "அருட்பெருஞ்ஜோதி அகவல்",
-    text: "The Hymn of the Vast Grace-Light, sung. The English reading is under Audiobooks.",
+    text: "The Hymn of the Vast Grace-Light, sung. The spoken reading of the translation is under Audiobooks.",
     items: [{ title: "Arutperunjothi Agaval", by: "Prabhakar (Phoenix Melodies)", youtube: "DsorJcmefO0", start: 1087, minutes: 113, embed: true, note: "Starts at 18:07." }],
   },
   {

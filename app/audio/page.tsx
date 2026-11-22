@@ -95,7 +95,7 @@ export default function Audio() {
 
         {tab === "books" && (
           <>
-            <p className="mb-4 text-sm text-muted">The English translation, read aloud. Audio plays from sanmarkkamlife.org, so it needs the internet.</p>
+            <p className="mb-4 text-sm text-muted">The translation, read aloud. Audio plays from sanmarkkamlife.org, so it needs the internet.</p>
             <ul className="space-y-3">
               {audiobooks.map((a) => {
                 const book = catalogBook(a.book);

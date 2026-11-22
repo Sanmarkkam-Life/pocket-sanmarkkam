@@ -118,7 +118,7 @@ export default function Home() {
         <Link href="/books" className="card flex flex-col gap-1 p-4 text-ink no-underline">
           <Icon name="book" className="h-6 w-6 text-gold" />
           <span className="font-bold">The books</span>
-          <span className="text-xs text-muted">{catalog.length} books, Tamil and English</span>
+          <span className="text-xs text-muted">{catalog.length} books, with the original Tamil</span>
         </Link>
         <Link href="/search" className="card flex flex-col gap-1 p-4 text-ink no-underline">
           <Icon name="search" className="h-6 w-6 text-gold" />

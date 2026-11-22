@@ -5,7 +5,7 @@ export default function manifest(): MetadataRoute.Manifest {
     name: "Pocket Sanmarkkam",
     short_name: "Sanmarkkam",
     description:
-      "Vallalar's Thiru Arutpa and prose writings: Tamil, transliteration, English translation and commentary. Free, offered by Sanmarkkam Life.",
+      "Vallalar's Thiru Arutpa and prose writings: the original Tamil, transliteration, translation and commentary. Free, offered by Sanmarkkam Life.",
     start_url: "/",
     display: "standalone",
     background_color: "#faf6ec",

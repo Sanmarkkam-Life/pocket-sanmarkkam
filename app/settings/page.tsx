@@ -63,7 +63,7 @@ export default function Settings() {
 
         <section className="card p-5">
           <h2 className="font-extrabold">What the reader shows</h2>
-          <p className="mb-3 mt-1 text-sm text-muted">The English translation is always shown. Switch the other layers on or off; the reader remembers.</p>
+          <p className="mb-3 mt-1 text-sm text-muted">The translation is always shown. Switch the other layers on or off; the reader remembers.</p>
           <LayerToggles />
         </section>
 

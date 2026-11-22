@@ -91,7 +91,7 @@ function Search() {
             type="search"
             value={q}
             onChange={(e) => setQ(e.target.value)}
-            placeholder="Search in English or Tamil: compassion, light, கருணை…"
+            placeholder="Search the translation or the Tamil: compassion, light, கருணை…"
             className="w-full rounded-full border border-line bg-card px-4 py-2.5 text-ink outline-none focus:border-gold"
             aria-label="Search the books"
           />
