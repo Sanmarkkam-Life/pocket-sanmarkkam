@@ -11,7 +11,7 @@ Last updated: 2026-11-22. Start here in every session about the app. The agreed 
 ## Rules
 1. **Only published books.** An approved Edition 1.0 or later, never a draft or Review Draft. The exporter refuses a book whose edition line is missing, below 1.0, or says Review Draft, or whose file name says DRAFT (unless `books.json` explains why in `allowDraftName`). When unsure, ask the `04 Publications` session; don't guess.
 2. **Never edit anything in `..\04 Publications`.** The exporter only reads the finished Word files there.
-3. **No deploy to Vercel and no change to the website without the user's OK.**
+3. **No new deploy target, website page or menu change without the user's OK.** (Pushing fixes to the live app is fine once the user has reviewed them.)
 4. `node_modules`, `.next` and `.env.local` never go on Drive. The app runs from a local copy (below).
 5. Book text in the app is exactly the book's text. Fix errors in the book (publications session), then re-export; never hand-edit `public/data`.
 6. Unpublished translations and seekers' data never go to `/free`.
@@ -46,5 +46,8 @@ py scripts\export_books.py            # refresh book data (in the Drive folder)
 ## State on 2026-11-22
 - 16 books exported (6,342 passages): Agaval, Books I–V, Vinnappangal, Perupadesam, Upadesa Kurippugal, Jeeva Karunya Ozhukkam (1.3), Vyakhyanangal, Siru Vyakhyanangal, Thirumugangal, Azhaippugal, Maruthuva, Manu Murai Kanda Vasagam (user confirmed it approved on 2026-11-22; the book has translation only, no commentary).
 - Left out: Book VI (not finished), the old Agaval and old Nithya Karma Vidhi files. **Personal Conduct and Daily Discipline is `pending`**: its Word file says Edition 1.0 but the publications notes only record 0.9. The publications session (2026-11-22) says exclude it for now; it asked the user. Remove `pending` only once the book is approved, then re-export. The session also confirmed the rest of the list, including Vinnappangal's -DRAFT-named file (the approved 1.0 text) and JKO 1.3.
-- Not done: no git repo, no GitHub, no Vercel project (wait for the user's OK). Website page with install instructions is for the `06 Web and Email` session. Community test with 5 people (PLAN step 5).
+- **Live since 2026-11-22 (user's OK):** https://pocket-sanmarkkam.vercel.app . GitHub `Sanmarkkam-Life/pocket-sanmarkkam` (PUBLIC: keep PLAN.md, REVIEW-CHECKLIST.md, `.claude/` and `website/` out, see `.gitignore`). Vercel team `sanmarkkam-life`, project `pocket-sanmarkkam`, deploys `main` automatically. The Vercel connector here has no team grant (403): use Chrome for Vercel settings. First import needed an emailed code (the user enters it).
+- **Website:** page 3442 https://sanmarkkamlife.org/mobile-app/ (the old "Coming soon" Mobile App page) now holds the Pocket Sanmarkkam page, edited in place via `%USERPROFILE%\ClaudeSetup\wordpress\wp_api.py`. Source: `website\mobile-app-3442-pocket-sanmarkkam.html`. Backup of the old content: `%USERPROFILE%\ClaudeSetupackups\mobile-app-page-3442-before-pocket-sanmarkkam-2026-11-22.html` (it had a Sanmarkkam Journey sign-up form). Menu "2026 Menu EN" (205): item 3444 under 📲 Apps renamed "🪔 Pocket Sanmarkkam". After menu or page edits, the user purges the Aerowave cache in the hosting panel. Italian menu/page not done.
+- **To deploy a change:** edit here, `.\scriptsun-local.ps1 build`, commit, `git push` (Vercel builds in about 1 minute). Re-export books first if they changed.
+- Not done: community test with 5 people (PLAN step 5); Italian page.
 - Review checklist for the user: `REVIEW-CHECKLIST.md`.
