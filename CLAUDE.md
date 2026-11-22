@@ -43,6 +43,12 @@ py scripts\export_books.py            # refresh book data (in the Drive folder)
 - KarunAI's own book collection still includes the Book V and VI drafts (managed in `14 KarunAI`), so answers can quote drafts.
 - Giving: `components/DonatePanel.tsx` + `lib/giving.ts`, ported from TamiLearn: Donorbox campaign `sanmarkkam-en-monthly` inside the app, `utm_source=pocket-sanmarkkam`. No payment code in the app.
 
+## Smaller features (22 Nov 2026)
+- Continue reading: `lib/lastRead.ts` (`pocket_last_read_v1`), saved by the reader, shown on Home.
+- The flame button on each passage opens `/karunai?about=…` with the question pre-filled; the reader still taps Send.
+- Feedback: `FEEDBACK_URL` in `lib/links.ts` = the website's contact page for now; a dedicated Google Form (like TamiLearn's) could replace it.
+- Chants offline: decided path is to ask Shravan Kalai for the original audio files and a written OK for app use, host them on the website like the audiobooks, then add "Save for offline". Do not rip audio from YouTube.
+
 ## Exporter notes (how the books are read)
 - Heading 1 = a work (or an introduction if it ends in "INTRODUCTION" / is "A NOTE ON CONTEXT"); Heading 2 = a section; front matter (Disclaimer, About the Author, Contents) skipped; everything from "ABOUT SANMARKKAM LIFE" on skipped; GLOSSARY entries `term (தமிழ்): definition`.
 - Inside a section: a bold number alone = verse number; Tamil paragraphs = Tamil lines; wholly italic after Tamil = transliteration; "TRANSLATION –" / "COMMENTARY –" start those layers and following plain paragraphs continue them; an italic paragraph before the Tamil = editor's note (kept with the next verse); tables kept as tables.

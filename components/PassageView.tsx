@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useState } from "react";
 import Icon from "./Icon";
 import { usePrefs } from "@/lib/prefs";
@@ -43,6 +44,14 @@ export default function PassageView({ p, bookId, refLabel }: { p: Passage; bookI
       <div className="mb-2 flex items-center gap-2">
         {p.n && <span className="rounded-full bg-gold-soft px-2.5 py-0.5 text-sm font-bold text-gold">{p.n}</span>}
         <span className="flex-1" />
+        <Link
+          href={`/karunai?about=${encodeURIComponent(`${refLabel}: “${plainTranslation.slice(0, 600)}${plainTranslation.length > 600 ? "…" : ""}”`)}`}
+          className="rounded-full p-1.5 text-muted"
+          aria-label="Ask KarunAI about this passage"
+          title="Ask KarunAI about this passage"
+        >
+          <Icon name="flame" className="h-[18px] w-[18px]" />
+        </Link>
         <button onClick={share} className="rounded-full p-1.5 text-muted" aria-label="Share this passage">
           <Icon name="share" className="h-[18px] w-[18px]" />
         </button>

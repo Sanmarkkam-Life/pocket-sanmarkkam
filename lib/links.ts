@@ -1,6 +1,8 @@
 // Every outside link in one place. All pages are on the existing website;
 // the app holds no payment or sign-up code of its own.
 export const SITE = "https://sanmarkkamlife.org";
+// Ideas and mistakes: the website's contact form for now (a dedicated Google Form, like TamiLearn's, can replace it).
+export const FEEDBACK_URL = `${SITE}/contact/`;
 
 export const support = [
   {

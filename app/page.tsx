@@ -6,6 +6,8 @@ import Icon from "@/components/Icon";
 import { catalog, loadDaily, passageHref, verseOfTheDay } from "@/lib/data";
 import { usePrefs } from "@/lib/prefs";
 import { shareText } from "@/lib/share";
+import { type LastRead, lastReadHref, loadLastRead } from "@/lib/lastRead";
+import { FEEDBACK_URL } from "@/lib/links";
 import type { DailyVerse } from "@/lib/types";
 
 export default function Home() {
@@ -13,8 +15,10 @@ export default function Home() {
   const [verse, setVerse] = useState<DailyVerse | null>(null);
   const [failed, setFailed] = useState(false);
   const [toast, setToast] = useState("");
+  const [last, setLast] = useState<LastRead | null>(null);
 
   useEffect(() => {
+    setLast(loadLastRead());
     loadDaily().then((pool) => setVerse(verseOfTheDay(pool))).catch(() => setFailed(true));
   }, []);
 
@@ -83,6 +87,19 @@ export default function Home() {
         </div>
       </section>
 
+      {last && (
+        <Link href={lastReadHref(last)} className="card mt-4 flex items-center gap-4 p-4 text-ink no-underline">
+          <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-gold-soft text-gold">
+            <Icon name="book" className="h-5 w-5" />
+          </span>
+          <span className="min-w-0 flex-1">
+            <span className="block text-xs font-bold uppercase tracking-wider text-gold">Continue reading</span>
+            <span className="block truncate font-bold">{last.label}</span>
+          </span>
+          <Icon name="next" className="h-5 w-5 shrink-0 text-muted" />
+        </Link>
+      )}
+
       <Link href="/karunai" className="card mt-4 flex items-center gap-4 p-4 text-ink no-underline">
         <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-gold text-white dark:text-[#1c160c]">
           <Icon name="flame" className="h-5 w-5" filled />
@@ -132,7 +149,11 @@ export default function Home() {
         Offered freely by Sanmarkkam Life ·{" "}
         <Link href="/support" className="no-underline">
           Support the work
-        </Link>
+        </Link>{" "}
+        ·{" "}
+        <a href={FEEDBACK_URL} target="_blank" rel="noopener" className="no-underline">
+          Share an idea or report a mistake
+        </a>
       </p>
     </main>
   );

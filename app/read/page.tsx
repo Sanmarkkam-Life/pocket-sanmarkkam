@@ -8,6 +8,7 @@ import Icon from "@/components/Icon";
 import LayerToggles from "@/components/LayerToggles";
 import PassageView from "@/components/PassageView";
 import { catalogBook, loadBook, sectionHref } from "@/lib/data";
+import { saveLastRead } from "@/lib/lastRead";
 import type { Book } from "@/lib/types";
 
 function Reader() {
@@ -44,6 +45,27 @@ function Reader() {
       window.scrollTo(0, 0);
     }
   }, [here]);
+
+  // remember where the reader is, for "Continue reading" on Home: the section, then the passage at the top of the screen
+  useEffect(() => {
+    if (!here || !meta) return;
+    const label = `${meta.short}, ${here.sec.number ? here.sec.number.replace(/^0+/, "") + ". " : ""}${here.sec.title}`;
+    const hash = decodeURIComponent(window.location.hash.slice(1)).replace(/^p-/, "");
+    saveLastRead({ book: meta.id, w, s, p: hash || undefined, label });
+    let t: ReturnType<typeof setTimeout> | undefined;
+    const onScroll = () => {
+      clearTimeout(t);
+      t = setTimeout(() => {
+        const top = Array.from(document.querySelectorAll<HTMLElement>("article[id^='p-']")).find((el) => el.getBoundingClientRect().bottom > 140);
+        saveLastRead({ book: meta.id, w, s, p: top ? top.id.slice(2) : undefined, label });
+      }, 600);
+    };
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => {
+      clearTimeout(t);
+      window.removeEventListener("scroll", onScroll);
+    };
+  }, [here, meta, w, s]);
 
   if (!meta) return <Header title="Book not found" back="/books" />;
 

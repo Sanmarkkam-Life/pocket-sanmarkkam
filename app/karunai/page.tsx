@@ -1,6 +1,7 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useSearchParams } from "next/navigation";
+import { Suspense, useEffect, useRef, useState } from "react";
 import Header from "@/components/Header";
 import Icon from "@/components/Icon";
 import { DAILY_LIMIT, ask, loadChat, renderAnswer, saveChat, usedToday, type Msg } from "@/lib/karunai";
@@ -12,7 +13,8 @@ const starters = [
   "What is Arut Perum Jothi?",
 ];
 
-export default function KarunAI() {
+function KarunAI() {
+  const about = useSearchParams().get("about");
   const [msgs, setMsgs] = useState<Msg[]>([]);
   const [input, setInput] = useState("");
   const [busy, setBusy] = useState(false);
@@ -23,6 +25,12 @@ export default function KarunAI() {
     setMsgs(loadChat());
     setUsed(usedToday());
   }, []);
+  // came from "Ask KarunAI about this passage": pre-fill, the reader sends it
+  useEffect(() => {
+    if (about) setInput(`About this passage, ${about}
+
+What does it mean, and how can I live it?`);
+  }, [about]);
   useEffect(() => {
     end.current?.scrollIntoView({ behavior: "smooth", block: "end" });
   }, [msgs, busy]);
@@ -130,7 +138,7 @@ export default function KarunAI() {
                 send(input);
               }
             }}
-            rows={1}
+            rows={input.length > 80 ? 4 : 1}
             maxLength={1500}
             disabled={left === 0}
             placeholder={left === 0 ? "That is all for today. Come back tomorrow. 🙏" : "Ask about Vallalar's teachings…"}
@@ -146,5 +154,13 @@ export default function KarunAI() {
         </p>
       </div>
     </>
+  );
+}
+
+export default function Page() {
+  return (
+    <Suspense>
+      <KarunAI />
+    </Suspense>
   );
 }

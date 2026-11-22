@@ -100,7 +100,7 @@ export default function DonatePanel({ open, placement, onClose }: { open: boolea
             </label>
             {customInvalid && <p className="-mt-2 text-xs font-semibold text-gold">Enter a whole amount from €1 to €10,000.</p>}
             <p className="min-h-[2.5rem] rounded-2xl bg-gold-soft px-4 py-2.5 text-sm leading-snug">
-              {selected ? `${selected.label}: ${selected.impact}` : "Every gift is received with the same gratitude, whatever its size."}
+              {selected ? `${selected.label}: ${selected.impact}` : "Every gift counts, even €1, and is received with the same gratitude."}
             </p>
             <button type="button" disabled={amount === null} onClick={() => setStep("pay")} className="btn-gold min-h-[52px] w-full text-lg disabled:opacity-50">
               {amount === null ? "Choose an amount" : `Donate €${amount}${monthly ? " monthly" : ""}`}

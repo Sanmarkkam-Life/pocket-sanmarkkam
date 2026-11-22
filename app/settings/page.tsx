@@ -4,6 +4,7 @@ import { useState } from "react";
 import Header from "@/components/Header";
 import LayerToggles from "@/components/LayerToggles";
 import { bookUrl, catalog, catalogGenerated } from "@/lib/data";
+import { FEEDBACK_URL } from "@/lib/links";
 import { TEXT_SIZES, type Theme, usePrefs } from "@/lib/prefs";
 
 export default function Settings() {
@@ -83,7 +84,13 @@ export default function Settings() {
             translation and commentary under CC BY 4.0. Only approved editions appear here.
           </p>
           <p className="mt-2">No account, no tracking. Your settings and bookmarks stay on this phone.</p>
-          <p className="mt-2">Found an error? Write to the team through sanmarkkamlife.org/contact.</p>
+          <p className="mt-2">
+            Found a mistake, or have an idea?{" "}
+            <a href={FEEDBACK_URL} target="_blank" rel="noopener">
+              Tell the team
+            </a>
+            , with the book and verse number if you can.
+          </p>
           <p className="mt-2">Books exported {catalogGenerated} · app version 0.1 (preview)</p>
         </section>
       </main>
