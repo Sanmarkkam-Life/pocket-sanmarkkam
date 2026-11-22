@@ -74,14 +74,17 @@ export const chantSections: { id: string; title: string; tamil: string; text: st
     title: "The Maha Mantra",
     tamil: "அருட்பெருஞ்ஜோதி மகாமந்திரம்",
     text: "Arutperunjothi Arutperunjothi, Thanipperunkarunai Arutperunjothi: Vast Grace-Light, Vast Grace-Light, Unique Vast Compassion, Vast Grace-Light. The mantra Vallalar gave to all, to be said openly.",
-    items: [{ title: "Arutperunjothi Mahamandhiram", by: "Shravan Kalai", youtube: "CEMq9LntDgg", minutes: 63, embed: true }],
+    items: [
+      { title: "Arutperunjothi Mahamandhiram", by: "Shravan Kalai", youtube: "CEMq9LntDgg", minutes: 63, embed: true },
+      { title: "Supreme Grace Light Mantra", by: "Siva Premananda", youtube: "DMcxrJk8gtk", minutes: 60, embed: true },
+    ],
   },
   {
     id: "agaval",
     title: "Arutperunjothi Agaval",
     tamil: "அருட்பெருஞ்ஜோதி அகவல்",
-    text: "The Hymn of the Vast Grace-Light. Chanted versions will be added here; the English reading is under Audiobooks.",
-    items: [],
+    text: "The Hymn of the Vast Grace-Light, sung. The English reading is under Audiobooks.",
+    items: [{ title: "Arutperunjothi Agaval", by: "Prabhakar (Phoenix Melodies)", youtube: "DsorJcmefO0", start: 1087, minutes: 113, embed: true, note: "Starts at 18:07." }],
   },
   {
     id: "songs",
