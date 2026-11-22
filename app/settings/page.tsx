@@ -77,6 +77,16 @@ export default function Settings() {
           <p className="mt-3 text-xs text-muted">Offline reading works in the installed app (Add to Home Screen) and in the browser after the first visit.</p>
         </section>
 
+        <section className="card p-5">
+          <h2 className="font-extrabold">💬 Feedback</h2>
+          <p className="mt-1 text-sm text-muted">
+            Tell us what helped you, what was hard, or a mistake you found in a book. Every answer is read by the team. Four short questions, all optional.
+          </p>
+          <a href={FEEDBACK_URL} target="_blank" rel="noopener" className="btn-gold mt-3 no-underline">
+            Share an idea or report a mistake
+          </a>
+        </section>
+
         <section className="card p-5 text-sm text-muted">
           <h2 className="mb-1 font-extrabold text-ink">About Pocket Sanmarkkam</h2>
           <p>

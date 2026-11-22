@@ -1,8 +1,10 @@
 // Every outside link in one place. All pages are on the existing website;
 // the app holds no payment or sign-up code of its own.
 export const SITE = "https://sanmarkkamlife.org";
-// Ideas and mistakes: the website's contact form for now (a dedicated Google Form, like TamiLearn's, can replace it).
-export const FEEDBACK_URL = `${SITE}/contact/`;
+// Ideas and mistakes: Google Form "Pocket Sanmarkkam feedback" in the organisation's Drive (answers in its Responses tab).
+export const FEEDBACK_URL = "https://docs.google.com/forms/d/e/1FAIpQLScedqjrdGIZo0vwwYohr8Vwxbd_gg5lS19qrqC5RssyLLd51w/viewform";
+// The Sanmarkkam Journey (welcome emails in Kit): the website's sign-up page.
+export const JOURNEY_URL = `${SITE}/journey/?utm_source=pocket-sanmarkkam&utm_medium=app`;
 
 export const support = [
   {
@@ -48,7 +50,7 @@ export const resources: { group: string; items: { emoji: string; title: string; 
       { emoji: "🛍️", title: "Emporium", text: "Plant-based foods and herbals, offered for a donation.", href: `${SITE}/emporium/` },
       { emoji: "👨‍👩‍👧‍👦", title: "Community and local centers", text: "Meet others who walk the path near you.", href: `${SITE}/community/` },
       { emoji: "🗓️", title: "Events", text: "Gatherings, talks and food service.", href: `${SITE}/events/` },
-      { emoji: "💌", title: "Newsletter", text: "A gentle letter now and then, with new books and recordings.", href: `${SITE}/journey/` },
+      { emoji: "🛣️", title: "The Sanmarkkam Journey", text: "Free letters on Vallalar's teachings, one step at a time, with a free ebook to begin.", href: JOURNEY_URL },
     ],
   },
   {

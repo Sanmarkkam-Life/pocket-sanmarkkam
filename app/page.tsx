@@ -8,6 +8,7 @@ import { usePrefs } from "@/lib/prefs";
 import { shareText } from "@/lib/share";
 import { type LastRead, lastReadHref, loadLastRead } from "@/lib/lastRead";
 import { FEEDBACK_URL } from "@/lib/links";
+import JourneyCard from "@/components/JourneyCard";
 import type { DailyVerse } from "@/lib/types";
 
 export default function Home() {
@@ -86,6 +87,8 @@ export default function Home() {
           )}
         </div>
       </section>
+
+      <JourneyCard />
 
       {last && (
         <Link href={lastReadHref(last)} className="card mt-4 flex items-center gap-4 p-4 text-ink no-underline">

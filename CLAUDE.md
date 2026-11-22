@@ -46,7 +46,8 @@ py scripts\export_books.py            # refresh book data (in the Drive folder)
 ## Smaller features (22 Nov 2026)
 - Continue reading: `lib/lastRead.ts` (`pocket_last_read_v1`), saved by the reader, shown on Home.
 - The flame button on each passage opens `/karunai?about=…` with the question pre-filled; the reader still taps Send.
-- Feedback: `FEEDBACK_URL` in `lib/links.ts` = the website's contact page for now; a dedicated Google Form (like TamiLearn's) could replace it.
+- Feedback: Google Form "Pocket Sanmarkkam feedback" (organisation's Drive, created 22 Nov; 4 optional questions; answers in its Responses tab). Link `FEEDBACK_URL` in `lib/links.ts`; shown in Settings (own section) and the Home footer.
+- Sanmarkkam Journey: `components/JourneyCard.tsx` on Home, only from the 3rd day the app is opened, × hides it for good (`pocket_journey_hidden_v1`); links the website sign-up /journey/ (Kit), so the app collects no email. Also in Resources.
 - Chants offline: decided path is to ask Shravan Kalai for the original audio files and a written OK for app use, host them on the website like the audiobooks, then add "Save for offline". Do not rip audio from YouTube.
 
 ## Exporter notes (how the books are read)
