@@ -1,0 +1,25 @@
+# dependencies (never on Drive: the app runs from a local copy, see scripts/run-local.ps1)
+/node_modules
+
+# next.js
+/.next/
+/out/
+/build
+*.tsbuildinfo
+
+# misc
+.DS_Store
+*.pem
+npm-debug.log*
+
+# vercel
+.vercel
+
+# local env files: never on Drive, never committed
+.env
+.env*.local
+
+# internal notes and local tooling: the repository is public
+/PLAN.md
+/REVIEW-CHECKLIST.md
+/.claude/

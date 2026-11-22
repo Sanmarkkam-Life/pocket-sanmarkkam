@@ -1,0 +1,183 @@
+{
+  "_note": "Only PUBLISHED books (approved Edition 1.0 or later). Paths are relative to ..\\04 Publications. Never point at a -DRAFT file unless the book's own edition line says 1.0+ and the publications session confirmed it (see allowDraftName). Book order here is the order in the app.",
+  "books": [
+    {
+      "id": "agaval",
+      "collection": "Thiru Arutpa",
+      "short": "The Agaval",
+      "title": "The Hymn of the Vast Grace-Light",
+      "tamilTitle": "அருட்பெருஞ்ஜோதி அகவல்",
+      "romanTitle": "Arutperunjothi Agaval",
+      "page": "https://sanmarkkamlife.org/arutperunjothi-agaval/",
+      "source": "Thiru Arutpa/ArutPerunJothi-Akaval/Hymn-of-the-Vast-Grace-Light-arutperunjothi-agaval-en.docx"
+    },
+    {
+      "id": "book-1",
+      "collection": "Thiru Arutpa",
+      "short": "Book I",
+      "title": "Songs of Grace, Book I",
+      "tamilTitle": "முதலாம் திருமுறை",
+      "romanTitle": "Mudhalaam Thirumurai",
+      "page": "https://sanmarkkamlife.org/songs-of-grace-book-one/",
+      "source": "Thiru Arutpa/First Thirumurai/Songs-of-Grace-Book-I-Thiru-Arutpa-Mudhalaam-Thirumurai-en.docx"
+    },
+    {
+      "id": "book-2",
+      "collection": "Thiru Arutpa",
+      "short": "Book II",
+      "title": "Songs of Grace, Book II",
+      "tamilTitle": "இரண்டாம் திருமுறை",
+      "romanTitle": "Irandaam Thirumurai",
+      "page": "https://sanmarkkamlife.org/songs-of-grace-book-two/",
+      "source": "Thiru Arutpa/Second Thirumurai/Songs-of-Grace-Book-II-Thiru-Arutpa-Irandaam-Thirumurai-en.docx"
+    },
+    {
+      "id": "book-3",
+      "collection": "Thiru Arutpa",
+      "short": "Book III",
+      "title": "Songs of Grace, Book III",
+      "tamilTitle": "மூன்றாம் திருமுறை",
+      "romanTitle": "Moondraam Thirumurai",
+      "page": "https://sanmarkkamlife.org/songs-of-grace-book-three/",
+      "source": "Thiru Arutpa/Third Thirumurai/Songs-of-Grace-Book-III-Thiru-Arutpa-Moondraam-Thirumurai-en.docx"
+    },
+    {
+      "id": "book-4",
+      "collection": "Thiru Arutpa",
+      "short": "Book IV",
+      "title": "Songs of Grace, Book IV",
+      "tamilTitle": "நான்காம் திருமுறை",
+      "romanTitle": "Naangaam Thirumurai",
+      "page": "https://sanmarkkamlife.org/songs-of-grace-book-four/",
+      "source": "Thiru Arutpa/Fourth Thirumurai/Songs-of-Grace-Book-IV-Thiru-Arutpa-Naangaam-Thirumurai-en.docx"
+    },
+    {
+      "id": "book-5",
+      "collection": "Thiru Arutpa",
+      "short": "Book V",
+      "title": "Songs of Grace, Book V",
+      "tamilTitle": "ஐந்தாம் திருமுறை",
+      "romanTitle": "Aintham Thirumurai",
+      "page": "https://sanmarkkamlife.org/songs-of-grace-book-five/",
+      "source": "Thiru Arutpa/Fifth Thirumurai/Songs-of-Grace-Book-V-Thiru-Arutpa-Aintham-Thirumurai-en.docx"
+    },
+    {
+      "id": "vinnappangal",
+      "collection": "Urainaidai Paguthi",
+      "short": "The True Petitions",
+      "title": "The True Petitions of the Universal Pure True Path",
+      "tamilTitle": "சத்திய விண்ணப்பங்கள்",
+      "romanTitle": "Sathya Vinnappangal",
+      "page": "https://sanmarkkamlife.org/vinnappangal/",
+      "source": "Urainaidai Paguthi/Vinappangal/The-True-Petitions-of-the-Universal-Pure-True-Path-samarasa-suddha-sanmarkkam-sathya-vinnappangal-en-DRAFT.docx",
+      "allowDraftName": "Approved Edition 1.0 (Oct 2026); the book file kept its -DRAFT name. Edition line inside says 1.0."
+    },
+    {
+      "id": "perupadesam",
+      "collection": "Urainaidai Paguthi",
+      "short": "The Great Teaching",
+      "title": "The Great Teaching",
+      "tamilTitle": "பேருபதேசம்",
+      "romanTitle": "Perupadesam",
+      "page": "https://sanmarkkamlife.org/perupadesam/",
+      "source": "Urainaidai Paguthi/Perupadesam-the=great-teaching-en/The-Great-Teaching-Perupadesam-en.docx"
+    },
+    {
+      "id": "upadesa-kurippugal",
+      "collection": "Urainaidai Paguthi",
+      "short": "Notes of Teaching",
+      "title": "Notes of Teaching",
+      "tamilTitle": "உபதேசக் குறிப்புகள்",
+      "romanTitle": "Upadesa Kurippugal",
+      "page": "https://sanmarkkamlife.org/upadesa-kurippukal/",
+      "source": "Urainaidai Paguthi/Notes of Teachings - Upadesa Kurippugal/Notes-of-Teaching-upadesa-kurippugal-en.docx"
+    },
+    {
+      "id": "jeeva-karunya-ozhukkam",
+      "collection": "Urainaidai Paguthi",
+      "short": "Compassionate Discipline",
+      "title": "Compassionate Discipline Towards Living Beings",
+      "tamilTitle": "ஜீவகாருண்ய ஒழுக்கம்",
+      "romanTitle": "Jeeva Karunya Ozhukkam",
+      "page": "https://sanmarkkamlife.org/jeeva-karunya-ozhukkham/",
+      "source": "Urainaidai Paguthi/Jeeva Karunya Ozhukkham/Compassionate-Discipline-Towards-Living-Beings-jeeva-karunya-ozhukkam-en.docx"
+    },
+    {
+      "id": "vyakhyanangal",
+      "collection": "Urainaidai Paguthi",
+      "short": "Major Commentaries",
+      "title": "The Major Philosophical Commentaries of Vallalar",
+      "tamilTitle": "முதன்மைத் தத்துவ வியாக்கியானங்கள்",
+      "romanTitle": "Vyakhyanangal",
+      "page": "https://sanmarkkamlife.org/vyakhyanangal/",
+      "source": "Urainaidai Paguthi/Vyakhyanangal/The-Major-Philosophical-Commentaries-of-Vallalar-mudhanmai-thathuva-vyakhyanangal-en.docx"
+    },
+    {
+      "id": "siru-vyakhyanangal",
+      "collection": "Urainaidai Paguthi",
+      "short": "Minor Commentaries",
+      "title": "Classical Expositions and Minor Commentaries of Vallalar",
+      "tamilTitle": "சிறு வியாக்கியானங்கள்",
+      "romanTitle": "Siru Vyakhyanangal",
+      "page": "https://sanmarkkamlife.org/siru-vyakhyanangal/",
+      "source": "Urainaidai Paguthi/Classical Expositions and Minor Commentaries/Classical-Expositions-and-Minor-Commentaries-of-Vallalar-siru-vyakhyanangal-en.docx"
+    },
+    {
+      "id": "thirumugangal",
+      "collection": "Urainaidai Paguthi",
+      "short": "The Sacred Letters",
+      "title": "The Sacred Letters of Vallalar",
+      "tamilTitle": "திருமுகங்கள்",
+      "romanTitle": "Thirumugangal",
+      "page": "https://sanmarkkamlife.org/thirumugangal/",
+      "source": "Urainaidai Paguthi/Thirumugangal Letters/The-Sacred-Letters-of-Vallalar-thirumugangal-en.docx"
+    },
+    {
+      "id": "azhaippugal",
+      "collection": "Urainaidai Paguthi",
+      "short": "Invitations and Directives",
+      "title": "Invitations, Announcements and Sacred Directives",
+      "tamilTitle": "அழைப்புகள், அறிவிப்புகள், கட்டளைகள்",
+      "romanTitle": "Azhaippugal, Arivippugal, Kattalaigal",
+      "page": "https://sanmarkkamlife.org/azhaippugal-arivippugal-kattalaigal/",
+      "source": "Urainaidai Paguthi/Invitations Announcements and Sacred Directives/Invitations-Announcements-and-Sacred-Directives-azhaippugal-arivippugal-kattalaigal-en.docx"
+    },
+    {
+      "id": "maruthuva",
+      "collection": "Urainaidai Paguthi",
+      "short": "Medical and Herbal Writings",
+      "title": "The Medical and Herbal Writings of Vallalar",
+      "tamilTitle": "மருத்துவப் பகுதி",
+      "romanTitle": "Maruthuva Paguthi",
+      "page": "https://sanmarkkamlife.org/maruthuva-kurippugal/",
+      "source": "Urainaidai Paguthi/Maruthuva Paguthi/The-Medical-and-Herbal-Writings-of-Vallalar-maruthuva-paguthi-en.docx"
+    },
+    {
+      "id": "manu-murai",
+      "collection": "Urainaidai Paguthi",
+      "short": "The Justice of King Manu",
+      "title": "The Justice of King Manu",
+      "tamilTitle": "மனுமுறை கண்ட வாசகம்",
+      "romanTitle": "Manu Murai Kanda Vasagam",
+      "page": "https://sanmarkkamlife.org/manu-murai-kanda-vasagam/",
+      "source": "Urainaidai Paguthi/Manu-murai-kanda-vasagam-king-manu-story/The-Justice-of-King-Manu-manu-murai-kanda-vasagam-en.docx",
+      "approved": "User confirmed in chat on 2026-11-22 that it is approved (Edition 1.0)."
+    },
+    {
+      "id": "personal-conduct",
+      "collection": "Urainaidai Paguthi",
+      "short": "Personal Conduct",
+      "title": "Personal Conduct and Daily Discipline",
+      "tamilTitle": "நித்திய கரும விதி",
+      "romanTitle": "Nithya Karma Vidhi",
+      "page": "https://sanmarkkamlife.org/nithya-karma-vidhi/",
+      "source": "Urainaidai Paguthi/Personal Conduct and Daily Discipline/Vallalars-Rules-for-Daily-Practice-nithya-karma-vidhi-en.docx",
+      "pending": "Publications session (2026-11-22): EXCLUDE for now. Its notes record only the 0.9 Review Draft, under 'not approved'; it does not know this Vallalars-Rules-for-Daily-Practice file. It asked the user and will tell us if the book is approved."
+    }
+  ],
+  "excluded": {
+    "Songs of Grace, Book VI": "Draft. Goes in when approved.",
+    "Arutperunjothi-Akaval-en.docx (August 2026)": "Superseded by The Hymn of the Vast Grace-Light, Edition 1.0, November 2026.",
+    "Nithya_Karma_Vidhi_Daily_Discipline_Of_Conduct-en.docx": "Old edition with no edition line; superseded by Personal Conduct and Daily Discipline."
+  }
+}

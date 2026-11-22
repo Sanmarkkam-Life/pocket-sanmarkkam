@@ -1,0 +1,7707 @@
+{
+ "generated": "2026-11-22",
+ "books": [
+  {
+   "id": "agaval",
+   "collection": "Thiru Arutpa",
+   "title": "The Hymn of the Vast Grace-Light",
+   "short": "The Agaval",
+   "tamilTitle": "அருட்பெருஞ்ஜோதி அகவல்",
+   "romanTitle": "Arutperunjothi Agaval",
+   "page": "https://sanmarkkamlife.org/arutperunjothi-agaval/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 798,
+   "hasIntro": true,
+   "glossary": 73,
+   "toc": [
+    {
+     "id": "1",
+     "title": "The Hymn of the Vast Grace-light",
+     "tamil": "அருட்பெருஞ்ஜோதி அகவல்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "Part 1: Invocation",
+       "tamil": "",
+       "count": 13
+      },
+      {
+       "id": "2",
+       "number": "",
+       "title": "Part 2: The Halls",
+       "tamil": "",
+       "count": 40
+      },
+      {
+       "id": "3",
+       "number": "",
+       "title": "Part 3: The Grace Received",
+       "tamil": "",
+       "count": 115
+      },
+      {
+       "id": "4",
+       "number": "",
+       "title": "Part 4: The Five Elements",
+       "tamil": "",
+       "count": 88
+      },
+      {
+       "id": "5",
+       "number": "",
+       "title": "Part 5: Inner and Outer",
+       "tamil": "",
+       "count": 89
+      },
+      {
+       "id": "6",
+       "number": "",
+       "title": "Part 6: Lives Formed and Kept",
+       "tamil": "",
+       "count": 46
+      },
+      {
+       "id": "7",
+       "number": "",
+       "title": "Part 7: The Veils",
+       "tamil": "",
+       "count": 40
+      },
+      {
+       "id": "8",
+       "number": "",
+       "title": "Part 8: The Five Acts",
+       "tamil": "",
+       "count": 9
+      },
+      {
+       "id": "9",
+       "number": "",
+       "title": "Part 9: True Substance",
+       "tamil": "",
+       "count": 95
+      },
+      {
+       "id": "10",
+       "number": "",
+       "title": "Part 10: Mother, Father, Friend",
+       "tamil": "",
+       "count": 65
+      },
+      {
+       "id": "11",
+       "number": "",
+       "title": "Part 11: Sath, Chith, Ananda",
+       "tamil": "",
+       "count": 95
+      },
+      {
+       "id": "12",
+       "number": "",
+       "title": "Part 12: The Body Transfigured",
+       "tamil": "",
+       "count": 52
+      },
+      {
+       "id": "13",
+       "number": "",
+       "title": "Part 13: Lamp and Flame",
+       "tamil": "",
+       "count": 30
+      },
+      {
+       "id": "14",
+       "number": "",
+       "title": "Part 14: Benediction",
+       "tamil": "",
+       "count": 21
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "book-1",
+   "collection": "Thiru Arutpa",
+   "title": "Songs of Grace, Book I",
+   "short": "Book I",
+   "tamilTitle": "முதலாம் திருமுறை",
+   "romanTitle": "Mudhalaam Thirumurai",
+   "page": "https://sanmarkkamlife.org/songs-of-grace-book-one/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 1867,
+   "hasIntro": true,
+   "glossary": 95,
+   "toc": [
+    {
+     "id": "1",
+     "title": "Songs of Grace",
+     "tamil": "திருவருட்பா முதலாம் திருமுறை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "001",
+       "title": "Praise of the Holy Feet",
+       "tamil": "திருவடிப் புகழ்ச்சி",
+       "count": 32
+      },
+      {
+       "id": "2",
+       "number": "002",
+       "title": "The Petitionary Kalivenba",
+       "tamil": "விண்ணப்பக் கலிவெண்பா",
+       "count": 419
+      },
+      {
+       "id": "3",
+       "number": "003",
+       "title": "Instructing the Heart",
+       "tamil": "நெஞ்சறிவுறுத்தல்",
+       "count": 706
+      },
+      {
+       "id": "4",
+       "number": "004",
+       "title": "Venba Verses on Love for Siva",
+       "tamil": "சிவநேச வெண்பா",
+       "count": 104
+      },
+      {
+       "id": "5",
+       "number": "005",
+       "title": "The Garland for the Great God",
+       "tamil": "மகாதேவ மாலை",
+       "count": 102
+      },
+      {
+       "id": "6",
+       "number": "006",
+       "title": "Appeal to Divine Grace",
+       "tamil": "திருவருண் முறையீடு",
+       "count": 232
+      },
+      {
+       "id": "7",
+       "number": "007",
+       "title": "The Ruby Garland of Beauty",
+       "tamil": "வடிவுடை மாணிக்க மாலை",
+       "count": 103
+      },
+      {
+       "id": "8",
+       "number": "008",
+       "title": "The Garland of Amorous Hints",
+       "tamil": "இங்கித மாலை",
+       "count": 169
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "book-2",
+   "collection": "Thiru Arutpa",
+   "title": "Songs of Grace, Book II",
+   "short": "Book II",
+   "tamilTitle": "இரண்டாம் திருமுறை",
+   "romanTitle": "Irandaam Thirumurai",
+   "page": "https://sanmarkkamlife.org/songs-of-grace-book-two/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 1281,
+   "hasIntro": true,
+   "glossary": 103,
+   "toc": [
+    {
+     "id": "1",
+     "title": "Songs of Grace",
+     "tamil": "திருவருட்பா இரண்டாம் திருமுறை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "001",
+       "title": "The Light of Merit",
+       "tamil": "புண்ணிய விளக்கம்",
+       "count": 11
+      },
+      {
+       "id": "2",
+       "number": "002",
+       "title": "The Light of the Name of Grace",
+       "tamil": "அருள் நாம விளக்கம்",
+       "count": 10
+      },
+      {
+       "id": "3",
+       "number": "003",
+       "title": "The Ecstatic Wave of Chanting the Names of Sri Siva Shanmukha",
+       "tamil": "ஸ்ரீ சிவசண்முக நாம ஸங்கீர்த்தன லகிரி",
+       "count": 10
+      },
+      {
+       "id": "4",
+       "number": "004",
+       "title": "The Rapture of Chanting Namasivaya",
+       "tamil": "நமச்சிவாய ஸங்கீர்த்தன லகிரி",
+       "count": 10
+      },
+      {
+       "id": "5",
+       "number": "005",
+       "title": "The Light of the True Companion",
+       "tamil": "நற்றுணை விளக்கம்",
+       "count": 10
+      },
+      {
+       "id": "6",
+       "number": "006",
+       "title": "The Light of Grace's Case",
+       "tamil": "திருவருள் வழக்க விளக்கம்",
+       "count": 10
+      },
+      {
+       "id": "7",
+       "number": "007",
+       "title": "The Certainty of Divine Merit",
+       "tamil": "சிவபுண்ணியத் தேற்றம்",
+       "count": 10
+      },
+      {
+       "id": "8",
+       "number": "008",
+       "title": "The Means to Liberation",
+       "tamil": "முத்தி உபாயம்",
+       "count": 10
+      },
+      {
+       "id": "9",
+       "number": "009",
+       "title": "Plunging into Misery",
+       "tamil": "அவலத் தழுங்கல்",
+       "count": 10
+      },
+      {
+       "id": "10",
+       "number": "010",
+       "title": "Expressing Devotion Using Proverbs",
+       "tamil": "பழமொழிமேல் வைத்துப் பரிவுகூர்தல்",
+       "count": 10
+      },
+      {
+       "id": "11",
+       "number": "011",
+       "title": "Intolerance of My Offenses",
+       "tamil": "அபராதத் தாற்றாமை",
+       "count": 10
+      },
+      {
+       "id": "12",
+       "number": "012",
+       "title": "Inquiring About the Nature of Grace",
+       "tamil": "அருளியல் வினாவல்",
+       "count": 10
+      },
+      {
+       "id": "13",
+       "number": "013",
+       "title": "The Sacred Petition at Thirumullaivayil",
+       "tamil": "திருமுல்லைவாயில் திருவிண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "14",
+       "number": "014",
+       "title": "The Grandeur of the Vision",
+       "tamil": "காட்சிப் பெருமிதம்",
+       "count": 10
+      },
+      {
+       "id": "15",
+       "number": "015",
+       "title": "Praise of Generosity",
+       "tamil": "கொடைமடப் புகழ்ச்சி",
+       "count": 10
+      },
+      {
+       "id": "16",
+       "number": "016",
+       "title": "Desire for Divine Grace",
+       "tamil": "திருவருள் வேட்கை",
+       "count": 10
+      },
+      {
+       "id": "17",
+       "number": "017",
+       "title": "Petition of Offenses",
+       "tamil": "அபராத விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "18",
+       "number": "018",
+       "title": "Incomprehensible Greatness",
+       "tamil": "அறிவரும் பெருமை",
+       "count": 10
+      },
+      {
+       "id": "19",
+       "number": "019",
+       "title": "Yearning for a Gracious Reply",
+       "tamil": "அருள்விடை வேட்கை",
+       "count": 10
+      },
+      {
+       "id": "20",
+       "number": "020",
+       "title": "Garland for Lord Ezhuthariyum Peruman",
+       "tamil": "எழுத்தறியும் பெருமான் மாலை",
+       "count": 31
+      },
+      {
+       "id": "21",
+       "number": "021",
+       "title": "Addressing the Heart",
+       "tamil": "நெஞ்சொடு நேர்தல்",
+       "count": 10
+      },
+      {
+       "id": "22",
+       "number": "022",
+       "title": "The Splendor of Holy Praise",
+       "tamil": "திருப்புகழ் விலாசம்",
+       "count": 10
+      },
+      {
+       "id": "23",
+       "number": "023",
+       "title": "The Divine Qualities of the Sacred Emblems",
+       "tamil": "திருச்சாதனத் தெய்வத் திறம்",
+       "count": 10
+      },
+      {
+       "id": "24",
+       "number": "024",
+       "title": "The Decad on the Beauty of Lord Thyagar",
+       "tamil": "தியாக வண்ணப் பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "25",
+       "number": "025",
+       "title": "Ten Verses on the Nectar of the Dance",
+       "tamil": "ஆடலமுதப் பத்து",
+       "count": 10
+      },
+      {
+       "id": "26",
+       "number": "026",
+       "title": "Taking Refuge at the Holy Feet",
+       "tamil": "திருவடிச் சரண்புகல்",
+       "count": 10
+      },
+      {
+       "id": "27",
+       "number": "027",
+       "title": "Ten Verses on the Bliss of Siva",
+       "tamil": "சிவானந்தப் பத்து",
+       "count": 10
+      },
+      {
+       "id": "28",
+       "number": "028",
+       "title": "Appeal at the Divine Presence",
+       "tamil": "சந்நிதி முறையீடு",
+       "count": 11
+      },
+      {
+       "id": "29",
+       "number": "029",
+       "title": "Praising the Greatness of Penance",
+       "tamil": "தவத்திறம் போற்றல்",
+       "count": 10
+      },
+      {
+       "id": "30",
+       "number": "030",
+       "title": "Exhorting the Mind in Sacred Nerisai",
+       "tamil": "நெஞ்சுறுத்த திருநேரிசை",
+       "count": 26
+      },
+      {
+       "id": "31",
+       "number": "031",
+       "title": "Garland to the Crest-jewel",
+       "tamil": "சிகாமணி மாலை",
+       "count": 15
+      },
+      {
+       "id": "32",
+       "number": "032",
+       "title": "Appeal in Distress",
+       "tamil": "கலி முறையீடு",
+       "count": 14
+      },
+      {
+       "id": "33",
+       "number": "033",
+       "title": "Ten on Welcoming",
+       "tamil": "எதிர்கொள் பத்து",
+       "count": 10
+      },
+      {
+       "id": "34",
+       "number": "034",
+       "title": "Addressing the Heart",
+       "tamil": "நெஞ்சொடு நேர்தல்",
+       "count": 10
+      },
+      {
+       "id": "35",
+       "number": "035",
+       "title": "Calling the Heart",
+       "tamil": "நெஞ்சறை கூவல்",
+       "count": 10
+      },
+      {
+       "id": "36",
+       "number": "036",
+       "title": "Reassuring the Heart",
+       "tamil": "நெஞ்சைத் தேற்றல்",
+       "count": 10
+      },
+      {
+       "id": "37",
+       "number": "037",
+       "title": "Instructing the Mind",
+       "tamil": "நெஞ்சறிவுறூஉ",
+       "count": 10
+      },
+      {
+       "id": "38",
+       "number": "038",
+       "title": "Words of Defiance",
+       "tamil": "நெடுமொழி வஞ்சி",
+       "count": 10
+      },
+      {
+       "id": "39",
+       "number": "039",
+       "title": "Declaring the Nature of Devotion",
+       "tamil": "பற்றின் திறம் பகர்தல்",
+       "count": 10
+      },
+      {
+       "id": "40",
+       "number": "040",
+       "title": "Despair in Servitude",
+       "tamil": "அடிமைத் திறத் தலைசல்",
+       "count": 11
+      },
+      {
+       "id": "41",
+       "number": "041",
+       "title": "Discarding Vain Deeds",
+       "tamil": "அவத்தொழிற் கலைசல்",
+       "count": 10
+      },
+      {
+       "id": "42",
+       "number": "042",
+       "title": "Wandering Vainly Day After Day",
+       "tamil": "நாள் அவத்து அலைசல்",
+       "count": 10
+      },
+      {
+       "id": "43",
+       "number": "043",
+       "title": "Distress of a Wretched Mind",
+       "tamil": "அவல மதிக்கு அலைசல்",
+       "count": 11
+      },
+      {
+       "id": "44",
+       "number": "044",
+       "title": "Wandering in Endless Worldly Life",
+       "tamil": "ஆனாவாழ்வின் அலைசல்",
+       "count": 10
+      },
+      {
+       "id": "45",
+       "number": "045",
+       "title": "Struggling for Grace",
+       "tamil": "அருள் திறத்து அலைசல்",
+       "count": 36
+      },
+      {
+       "id": "46",
+       "number": "046",
+       "title": "The Sacred Petition",
+       "tamil": "திருவிண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "47",
+       "number": "047",
+       "title": "The Petition for Grace",
+       "tamil": "பிரசாத விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "48",
+       "number": "048",
+       "title": "The Repeated Petition",
+       "tamil": "வழிமொழி விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "49",
+       "number": "049",
+       "title": "Petition of Lowliness",
+       "tamil": "சிறுமை விண்ணப்பம்",
+       "count": 11
+      },
+      {
+       "id": "50",
+       "number": "050",
+       "title": "The Unbearable Appeal",
+       "tamil": "ஆற்றா விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "51",
+       "number": "051",
+       "title": "A Petition of Sorrow",
+       "tamil": "இரங்கல் விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "52",
+       "number": "052",
+       "title": "The Petition of Love",
+       "tamil": "காதல் விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "53",
+       "number": "053",
+       "title": "The Petition to the Supreme Reality",
+       "tamil": "பொருள் விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "54",
+       "number": "054",
+       "title": "The Petition to the Lord of the Bull Banner",
+       "tamil": "கொடி விண்ணப்பம்",
+       "count": 11
+      },
+      {
+       "id": "55",
+       "number": "055",
+       "title": "The Petition to the Lord of the Drama of Wisdom",
+       "tamil": "நாடக விண்ணப்பம்",
+       "count": 11
+      },
+      {
+       "id": "56",
+       "number": "056",
+       "title": "The Petition to the Divine Form",
+       "tamil": "திருவண்ண விண்ணப்பம்",
+       "count": 12
+      },
+      {
+       "id": "57",
+       "number": "057",
+       "title": "The Petition of Bewilderment",
+       "tamil": "மருட்கை விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "58",
+       "number": "058",
+       "title": "Petition to the Unquestioning Giver",
+       "tamil": "கொடைமட விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "59",
+       "number": "059",
+       "title": "A Small Petition",
+       "tamil": "சிறு விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "60",
+       "number": "060",
+       "title": "The Great Appeal",
+       "tamil": "பெரு விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "61",
+       "number": "061",
+       "title": "Longing for the Sacred Vision",
+       "tamil": "திருக்காட்சிக் கிரங்கல்",
+       "count": 10
+      },
+      {
+       "id": "62",
+       "number": "062",
+       "title": "Pleading for Divine Grace",
+       "tamil": "திரு அருட் கிரங்கல்",
+       "count": 10
+      },
+      {
+       "id": "63",
+       "number": "063",
+       "title": "Sorrowing in Thought",
+       "tamil": "எண்ணத் திரங்கல்",
+       "count": 10
+      },
+      {
+       "id": "64",
+       "number": "064",
+       "title": "Lamenting the State of the Heart",
+       "tamil": "நெஞ்சு நிலைக் கிரங்கல்",
+       "count": 11
+      },
+      {
+       "id": "65",
+       "number": "065",
+       "title": "Lament in Solitude",
+       "tamil": "தனிமைக் கிரங்கல்",
+       "count": 10
+      },
+      {
+       "id": "66",
+       "number": "066",
+       "title": "Lamenting the Wasted Days",
+       "tamil": "கழிபகற் கிரங்கல்",
+       "count": 10
+      },
+      {
+       "id": "67",
+       "number": "067",
+       "title": "Lament of Surrender",
+       "tamil": "அர்ப்பித் திரங்கல்",
+       "count": 10
+      },
+      {
+       "id": "68",
+       "number": "068",
+       "title": "Lamenting in Fear",
+       "tamil": "அச்சத் திரங்கல்",
+       "count": 10
+      },
+      {
+       "id": "69",
+       "number": "069",
+       "title": "Lamenting the Mockery of Others",
+       "tamil": "புறமொழிக் கிரங்கல்",
+       "count": 10
+      },
+      {
+       "id": "70",
+       "number": "070",
+       "title": "Lamenting the Failure to Receive Grace",
+       "tamil": "கருணை பெறா திரங்கல்",
+       "count": 10
+      },
+      {
+       "id": "71",
+       "number": "071",
+       "title": "The Decad of Divine Grace",
+       "tamil": "திருவருட் பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "72",
+       "number": "072",
+       "title": "The Decad of the Divine Offering",
+       "tamil": "பிரசாதப் பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "73",
+       "number": "073",
+       "title": "Decad of Prayer",
+       "tamil": "பிரார்த்தனைப் பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "74",
+       "number": "074",
+       "title": "Decad of Refuge",
+       "tamil": "திருப்புகற் பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "75",
+       "number": "075",
+       "title": "The Sacred Decad of the Mind",
+       "tamil": "சிந்தைத் திருப்பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "76",
+       "number": "076",
+       "title": "The Sacred Decad on Salvation",
+       "tamil": "உய்கைத் திருப்பதிகம்",
+       "count": 12
+      },
+      {
+       "id": "77",
+       "number": "077",
+       "title": "The Decad of Bliss",
+       "tamil": "ஆனந்தப் பதிகம்",
+       "count": 11
+      },
+      {
+       "id": "78",
+       "number": "078",
+       "title": "The Decad on the Divine Form",
+       "tamil": "திருவண்ணப் பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "79",
+       "number": "079",
+       "title": "The Sacred Decad of Praise",
+       "tamil": "போற்றித் திருப்பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "80",
+       "number": "080",
+       "title": "The Decad of Appeal",
+       "tamil": "விண்ணப்பப் பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "81",
+       "number": "081",
+       "title": "The Decad of the Vision",
+       "tamil": "தரிசனப் பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "82",
+       "number": "082",
+       "title": "Petition Concerning Transgressions",
+       "tamil": "அபராத விண்ணப்பம்",
+       "count": 22
+      },
+      {
+       "id": "83",
+       "number": "083",
+       "title": "An Appeal in Kali Meter",
+       "tamil": "கலி விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "84",
+       "number": "084",
+       "title": "Appeal for Compassion",
+       "tamil": "கருணை விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "85",
+       "number": "085",
+       "title": "The Decad of Servitude",
+       "tamil": "அடிமைப் பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "86",
+       "number": "086",
+       "title": "The Decad on the Heart",
+       "tamil": "உள்ளப் பதிகம்",
+       "count": 5
+      },
+      {
+       "id": "87",
+       "number": "087",
+       "title": "The Decad of Surrender",
+       "tamil": "சரணப் பதிகம்",
+       "count": 11
+      },
+      {
+       "id": "88",
+       "number": "088",
+       "title": "Pouring Out to the Heart",
+       "tamil": "நெஞ்சொடு நெகிழ்தல்",
+       "count": 16
+      },
+      {
+       "id": "89",
+       "number": "089",
+       "title": "Sacred Venbas Sung Singly",
+       "tamil": "பொதுத் தனித் திருவெண்பா",
+       "count": 13
+      },
+      {
+       "id": "90",
+       "number": "090",
+       "title": "Seeking the Divine Will",
+       "tamil": "திருக்குறிப்பு நாட்டம்",
+       "count": 4
+      },
+      {
+       "id": "91",
+       "number": "091",
+       "title": "The Solitary Sacred Lament",
+       "tamil": "தனித் திருப்புலம்பல்",
+       "count": 4
+      },
+      {
+       "id": "92",
+       "number": "092",
+       "title": "The Supreme Secret",
+       "tamil": "பரம ராசியம்",
+       "count": 2
+      },
+      {
+       "id": "93",
+       "number": "093",
+       "title": "Sacred Praise",
+       "tamil": "திருப்புகழ்ச்சி",
+       "count": 5
+      },
+      {
+       "id": "94",
+       "number": "094",
+       "title": "Sacred Viruttams Sung Singly",
+       "tamil": "தனித் திருவிருத்தம்",
+       "count": 92
+      },
+      {
+       "id": "95",
+       "number": "095",
+       "title": "The Light of the State of Virtue",
+       "tamil": "அறநிலை விளக்கம்",
+       "count": 1
+      },
+      {
+       "id": "96",
+       "number": "096",
+       "title": "The Light of the State of Grace",
+       "tamil": "அருள்நிலை விளக்கம்",
+       "count": 1
+      },
+      {
+       "id": "97",
+       "number": "097",
+       "title": "The State of the Grace of the Sacred Medicine",
+       "tamil": "திருமருந்தருள் நிலை",
+       "count": 2
+      },
+      {
+       "id": "98",
+       "number": "098",
+       "title": "The Splendor of Divine Grace",
+       "tamil": "திருவருள் விலாசம்",
+       "count": 2
+      },
+      {
+       "id": "99",
+       "number": "099",
+       "title": "Song of Praise to Siva Chidambaram",
+       "tamil": "சிவ சிதம்பர சங்கீர்த்தனம்",
+       "count": 5
+      },
+      {
+       "id": "100",
+       "number": "100",
+       "title": "The Holy Decad on the Mother",
+       "tamil": "அம்மை திருப்பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "101",
+       "number": "101",
+       "title": "The Sacred Decad on the Goddess of Arts",
+       "tamil": "கலைமகளார் திருப்பதிகம்",
+       "count": 3
+      },
+      {
+       "id": "102",
+       "number": "102",
+       "title": "Ecstatic Joy",
+       "tamil": "ஆனந்த களிப்பு",
+       "count": 33
+      },
+      {
+       "id": "103",
+       "number": "103",
+       "title": "Informing the Friends",
+       "tamil": "பாங்கியர்க் கறிவுறுத்தல்",
+       "count": 27
+      },
+      {
+       "id": "104",
+       "number": "104",
+       "title": "The White Moon",
+       "tamil": "வெண்ணிலா",
+       "count": 23
+      },
+      {
+       "id": "105",
+       "number": "105",
+       "title": "The Kommi Dance of Lord Natesar",
+       "tamil": "நடேசர் கொம்மி",
+       "count": 11
+      },
+      {
+       "id": "106",
+       "number": "106",
+       "title": "Dialogue with a Friend",
+       "tamil": "சிலதா ஸம்வாதம்",
+       "count": 6
+      },
+      {
+       "id": "107",
+       "number": "107",
+       "title": "Song for the Lord of the Dance",
+       "tamil": "நடேசர் கீர்த்தனை",
+       "count": 13
+      },
+      {
+       "id": "108",
+       "number": "108",
+       "title": "Has Mercy not yet Come?",
+       "tamil": "இன்னந் தயவு வரவிலையா",
+       "count": 10
+      },
+      {
+       "id": "109",
+       "number": "109",
+       "title": "Question and Answer",
+       "tamil": "வினா உத்தரம்",
+       "count": 4
+      },
+      {
+       "id": "110",
+       "number": "110",
+       "title": "The Mother's Lament",
+       "tamil": "நற்றாய் கவன்றது",
+       "count": 9
+      },
+      {
+       "id": "111",
+       "number": "111",
+       "title": "The Rapture of Sweet Converse",
+       "tamil": "சல்லாப லகரி",
+       "count": 2
+      },
+      {
+       "id": "112",
+       "number": "112",
+       "title": "The Cluster of Longing",
+       "tamil": "வேட்கைக் கொத்து",
+       "count": 10
+      },
+      {
+       "id": "113",
+       "number": "113",
+       "title": "The Heroine's Final Resolve",
+       "tamil": "தலைமகளின் முன்ன முடிபு",
+       "count": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "book-3",
+   "collection": "Thiru Arutpa",
+   "title": "Songs of Grace, Book III",
+   "short": "Book III",
+   "tamilTitle": "மூன்றாம் திருமுறை",
+   "romanTitle": "Moondraam Thirumurai",
+   "page": "https://sanmarkkamlife.org/songs-of-grace-book-three/",
+   "edition": "Edition 1.0, October 2026",
+   "passages": 235,
+   "hasIntro": true,
+   "glossary": 51,
+   "toc": [
+    {
+     "id": "1",
+     "title": "Songs of Grace",
+     "tamil": "திருவருட்பா மூன்றாம் திருமுறை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "001",
+       "title": "The Blessing of the Divine Procession",
+       "tamil": "திரு உலாப் பேறு",
+       "count": 10
+      },
+      {
+       "id": "2",
+       "number": "002",
+       "title": "The Crane and the Parrots Sent as Messengers",
+       "tamil": "நாரையும் கிளியும் நாட்டுறு தூது",
+       "count": 10
+      },
+      {
+       "id": "3",
+       "number": "003",
+       "title": "The Garland of Lament",
+       "tamil": "இரங்கன் மாலை",
+       "count": 31
+      },
+      {
+       "id": "4",
+       "number": "004",
+       "title": "The Wonder of the Divine Procession",
+       "tamil": "திரு உலா வியப்பு",
+       "count": 10
+      },
+      {
+       "id": "5",
+       "number": "005",
+       "title": "Wonderful Words of Playful Converse",
+       "tamil": "சல்லாப வியன்மொழி",
+       "count": 10
+      },
+      {
+       "id": "6",
+       "number": "006",
+       "title": "Words of Joy",
+       "tamil": "இன்பக் கிளவி",
+       "count": 10
+      },
+      {
+       "id": "7",
+       "number": "007",
+       "title": "Joyous Praise",
+       "tamil": "இன்பப் புகழ்ச்சி",
+       "count": 10
+      },
+      {
+       "id": "8",
+       "number": "008",
+       "title": "The Nature of the Divine Procession",
+       "tamil": "திரு உலாத் திறம்",
+       "count": 10
+      },
+      {
+       "id": "9",
+       "number": "009",
+       "title": "Words of Wonder",
+       "tamil": "வியப்பு மொழி",
+       "count": 10
+      },
+      {
+       "id": "10",
+       "number": "010",
+       "title": "The Lament of Longing for a Union not yet Granted",
+       "tamil": "புணரா விரகு பொருந்துறு வேட்கையின் இரங்கல்",
+       "count": 30
+      },
+      {
+       "id": "11",
+       "number": "011",
+       "title": "Divining the Signs",
+       "tamil": "குறி ஆராய்ச்சி",
+       "count": 11
+      },
+      {
+       "id": "12",
+       "number": "012",
+       "title": "The Wonder of the Vision",
+       "tamil": "காட்சி அற்புதம்",
+       "count": 10
+      },
+      {
+       "id": "13",
+       "number": "013",
+       "title": "The Lament of Unbearable Love",
+       "tamil": "ஆற்றாக் காதலின் இரங்கல்",
+       "count": 11
+      },
+      {
+       "id": "14",
+       "number": "014",
+       "title": "The Splendor of the Divine Form",
+       "tamil": "திருக்கோலச் சிறப்பு",
+       "count": 10
+      },
+      {
+       "id": "15",
+       "number": "015",
+       "title": "Consulting the Astrologer",
+       "tamil": "சோதிடம் நாடல்",
+       "count": 10
+      },
+      {
+       "id": "16",
+       "number": "016",
+       "title": "The Majesty of Divine Grace",
+       "tamil": "திருஅருட் பெருமிதம்",
+       "count": 10
+      },
+      {
+       "id": "17",
+       "number": "017",
+       "title": "The Unblemished Greatness of Love",
+       "tamil": "காதற் சிறப்புக் கதுவா மாண்பு",
+       "count": 12
+      },
+      {
+       "id": "18",
+       "number": "018",
+       "title": "Unbearable Longing",
+       "tamil": "ஆற்றா விரகம்",
+       "count": 10
+      },
+      {
+       "id": "19",
+       "number": "019",
+       "title": "The Glory of Love",
+       "tamil": "காதல் மாட்சி",
+       "count": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "book-4",
+   "collection": "Thiru Arutpa",
+   "title": "Songs of Grace, Book IV",
+   "short": "Book IV",
+   "tamilTitle": "நான்காம் திருமுறை",
+   "romanTitle": "Naangaam Thirumurai",
+   "page": "https://sanmarkkamlife.org/songs-of-grace-book-four/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 239,
+   "hasIntro": true,
+   "glossary": 51,
+   "toc": [
+    {
+     "id": "1",
+     "title": "Songs of Grace",
+     "tamil": "திருவருட்பா நான்காம் திருமுறை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "001",
+       "title": "The Garland of Love",
+       "tamil": "அன்பு மாலை",
+       "count": 31
+      },
+      {
+       "id": "2",
+       "number": "002",
+       "title": "The Garland of the Light of Grace",
+       "tamil": "அருட்பிரகாச மாலை",
+       "count": 100
+      },
+      {
+       "id": "3",
+       "number": "003",
+       "title": "The Garland of Gracious Gifts",
+       "tamil": "பிரசாத மாலை",
+       "count": 10
+      },
+      {
+       "id": "4",
+       "number": "004",
+       "title": "The Garland of Bliss",
+       "tamil": "ஆனந்த மாலை",
+       "count": 10
+      },
+      {
+       "id": "5",
+       "number": "005",
+       "title": "The Garland of Devotion",
+       "tamil": "பத்தி மாலை",
+       "count": 10
+      },
+      {
+       "id": "6",
+       "number": "006",
+       "title": "The Garland of Beauty",
+       "tamil": "செளந்தர மாலை",
+       "count": 12
+      },
+      {
+       "id": "7",
+       "number": "007",
+       "title": "The Garland of Wonder",
+       "tamil": "அதிசய மாலை",
+       "count": 14
+      },
+      {
+       "id": "8",
+       "number": "008",
+       "title": "The Garland Seeking Pardon for Offenses",
+       "tamil": "அபராத மன்னிப்பு மாலை",
+       "count": 10
+      },
+      {
+       "id": "9",
+       "number": "009",
+       "title": "The Garland of Grace for Sambandar",
+       "tamil": "ஆளுடைய பிள்ளையார் அருண்மாலை",
+       "count": 12
+      },
+      {
+       "id": "10",
+       "number": "010",
+       "title": "The Garland of Grace for Appar",
+       "tamil": "ஆளுடைய அரசுகள் அருண்மாலை",
+       "count": 10
+      },
+      {
+       "id": "11",
+       "number": "011",
+       "title": "The Garland of Grace for Sundarar",
+       "tamil": "ஆளுடைய நம்பிகள் அருண்மாலை",
+       "count": 10
+      },
+      {
+       "id": "12",
+       "number": "012",
+       "title": "The Garland of Grace for Manikkavasagar",
+       "tamil": "ஆளுடைய அடிகள் அருண்மாலை",
+       "count": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "book-5",
+   "collection": "Thiru Arutpa",
+   "title": "Songs of Grace, Book V",
+   "short": "Book V",
+   "tamilTitle": "ஐந்தாம் திருமுறை",
+   "romanTitle": "Aintham Thirumurai",
+   "page": "https://sanmarkkamlife.org/songs-of-grace-book-five/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 916,
+   "hasIntro": true,
+   "glossary": 73,
+   "toc": [
+    {
+     "id": "1",
+     "title": "Songs of Grace",
+     "tamil": "திருவருட்பா ஐந்தாம் திருமுறை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "001",
+       "title": "Ten Verses on Siddhi Vinayakar",
+       "tamil": "சித்தி விநாயகர் பதிகம்",
+       "count": 13
+      },
+      {
+       "id": "2",
+       "number": "002",
+       "title": "The Garland of Grace for Vallabai Ganesha",
+       "tamil": "வல்லபை கணேசர் பிரசாத மாலை",
+       "count": 11
+      },
+      {
+       "id": "3",
+       "number": "003",
+       "title": "The Garland of Ganesha's Divine Grace",
+       "tamil": "கணேசத் திருஅருள் மாலை",
+       "count": 10
+      },
+      {
+       "id": "4",
+       "number": "004",
+       "title": "The Unique Sacred Garland",
+       "tamil": "தனித் திருமாலை",
+       "count": 9
+      },
+      {
+       "id": "5",
+       "number": "005",
+       "title": "Garland of Prayers",
+       "tamil": "பிரார்த்தனை மாலை",
+       "count": 30
+      },
+      {
+       "id": "6",
+       "number": "006",
+       "title": "Ten Verses of Reflection",
+       "tamil": "எண்ணப் பத்து",
+       "count": 10
+      },
+      {
+       "id": "7",
+       "number": "007",
+       "title": "Garland of the Rich Flame",
+       "tamil": "செழுஞ்சுடர் மாலை",
+       "count": 11
+      },
+      {
+       "id": "8",
+       "number": "008",
+       "title": "Ten Pleas of Grievance",
+       "tamil": "குறைஇரந்த பத்து",
+       "count": 10
+      },
+      {
+       "id": "9",
+       "number": "009",
+       "title": "The Garland of the Soul's Witness",
+       "tamil": "ஜீவசாட்சி மாலை",
+       "count": 28
+      },
+      {
+       "id": "10",
+       "number": "010",
+       "title": "An Unbearable Plea",
+       "tamil": "ஆற்றா முறை",
+       "count": 10
+      },
+      {
+       "id": "11",
+       "number": "011",
+       "title": "A Supplicating Appeal",
+       "tamil": "இரந்த விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "12",
+       "number": "012",
+       "title": "Garland of Grace",
+       "tamil": "கருணை மாலை",
+       "count": 32
+      },
+      {
+       "id": "13",
+       "number": "013",
+       "title": "A Petition of the Garland of Delusion",
+       "tamil": "மருண்மாலை விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "14",
+       "number": "014",
+       "title": "Ten Verses on What Cannot Be Borne",
+       "tamil": "பொறுக்காப் பத்து",
+       "count": 10
+      },
+      {
+       "id": "15",
+       "number": "015",
+       "title": "The Petition of Longing",
+       "tamil": "வேட்கை விண்ணப்பம்",
+       "count": 10
+      },
+      {
+       "id": "16",
+       "number": "016",
+       "title": "The Truth of the Six Letters",
+       "tamil": "ஆறெழுத் துண்மை",
+       "count": 10
+      },
+      {
+       "id": "17",
+       "number": "017",
+       "title": "The Petition of Grievances",
+       "tamil": "போக் குரையீடு",
+       "count": 10
+      },
+      {
+       "id": "18",
+       "number": "018",
+       "title": "Praying for the Blessing of Service",
+       "tamil": "பணித்திறம் வேட்டல்",
+       "count": 10
+      },
+      {
+       "id": "19",
+       "number": "019",
+       "title": "Feuding with the Heart",
+       "tamil": "நெஞ்சொடு புலத்தல்",
+       "count": 11
+      },
+      {
+       "id": "20",
+       "number": "020",
+       "title": "Lamenting One's Baseness",
+       "tamil": "புன்மை நினைந் திரங்கல்",
+       "count": 10
+      },
+      {
+       "id": "21",
+       "number": "021",
+       "title": "Longing to Bear the Sacred Feet",
+       "tamil": "திருவடி சூட விழைதல்",
+       "count": 10
+      },
+      {
+       "id": "22",
+       "number": "022",
+       "title": "Unbearable Sorrow",
+       "tamil": "ஆற்றா விரக்கம்",
+       "count": 10
+      },
+      {
+       "id": "23",
+       "number": "023",
+       "title": "Lament of the Helpless",
+       "tamil": "ஏழைமையின் இரங்கல்",
+       "count": 9
+      },
+      {
+       "id": "24",
+       "number": "024",
+       "title": "The Degradation of Lacking Service",
+       "tamil": "பணித்திறஞ் சாலாப் பாடிழிவு",
+       "count": 10
+      },
+      {
+       "id": "25",
+       "number": "025",
+       "title": "Ten Verses on Failing to See",
+       "tamil": "காணாப் பத்து",
+       "count": 10
+      },
+      {
+       "id": "26",
+       "number": "026",
+       "title": "Lacking the Capacity for Devotion",
+       "tamil": "பணித்திறஞ் சாலாமை",
+       "count": 6
+      },
+      {
+       "id": "27",
+       "number": "027",
+       "title": "Ten Verses Declaring My Shortcomings",
+       "tamil": "குறை நேர்ந்த பத்து",
+       "count": 10
+      },
+      {
+       "id": "28",
+       "number": "028",
+       "title": "Ten Verses of Appeal",
+       "tamil": "முறையிட்ட பத்து",
+       "count": 10
+      },
+      {
+       "id": "29",
+       "number": "029",
+       "title": "Expressing the Anguish of the Heart",
+       "tamil": "நெஞ்சவலங் கூறல்",
+       "count": 10
+      },
+      {
+       "id": "30",
+       "number": "030",
+       "title": "Unbearable Lament",
+       "tamil": "ஆற்றாப் புலம்பல்",
+       "count": 5
+      },
+      {
+       "id": "31",
+       "number": "031",
+       "title": "Yearning for Divine Grace",
+       "tamil": "திருவருள் விழைதல்",
+       "count": 3
+      },
+      {
+       "id": "32",
+       "number": "032",
+       "title": "The Glory of the Holy Ash",
+       "tamil": "புண்ணியநீற்று மான்மியம்",
+       "count": 10
+      },
+      {
+       "id": "33",
+       "number": "033",
+       "title": "Instilling Certainty",
+       "tamil": "உறுதி உணர்த்தல்",
+       "count": 3
+      },
+      {
+       "id": "34",
+       "number": "034",
+       "title": "Stagnation of Thought",
+       "tamil": "எண்ணத் தேங்கல்",
+       "count": 2
+      },
+      {
+       "id": "35",
+       "number": "035",
+       "title": "Lamenting the Lack of Camphor",
+       "tamil": "கையடை முட்டற் கிரங்கல்",
+       "count": 4
+      },
+      {
+       "id": "36",
+       "number": "036",
+       "title": "Praying for the Grace to Serve Devotees",
+       "tamil": "அடியார்பணி அருளவேண்டல்",
+       "count": 6
+      },
+      {
+       "id": "37",
+       "number": "037",
+       "title": "Praying That Days Are not Spent in Vain",
+       "tamil": "நாள் அவம்படாமை வேண்டல்",
+       "count": 10
+      },
+      {
+       "id": "38",
+       "number": "038",
+       "title": "Bewilderment of Love",
+       "tamil": "அன்பிற் பேதுறல்",
+       "count": 10
+      },
+      {
+       "id": "39",
+       "number": "039",
+       "title": "Longing for Union",
+       "tamil": "கூடல் விழைதல்",
+       "count": 10
+      },
+      {
+       "id": "40",
+       "number": "040",
+       "title": "The Longing for the Vision",
+       "tamil": "தரிசனை வேட்கை",
+       "count": 10
+      },
+      {
+       "id": "41",
+       "number": "041",
+       "title": "Sorrowing While Counting the Days",
+       "tamil": "நாள்எண்ணி வருந்தல்",
+       "count": 10
+      },
+      {
+       "id": "42",
+       "number": "042",
+       "title": "The Disgrace of a Birth That Does not Praise",
+       "tamil": "ஏத்தாப் பிறவி இழிவு",
+       "count": 10
+      },
+      {
+       "id": "43",
+       "number": "043",
+       "title": "The Majesty of the Procession",
+       "tamil": "பவனிச் செருக்கு",
+       "count": 10
+      },
+      {
+       "id": "44",
+       "number": "044",
+       "title": "The Ten Verses on the Expanse of Divine Grace",
+       "tamil": "திருவருள் விலாசப் பத்து",
+       "count": 10
+      },
+      {
+       "id": "45",
+       "number": "045",
+       "title": "Desire for the Attainment of Divine Grace",
+       "tamil": "திருவருட் பேற்று விழைவு",
+       "count": 10
+      },
+      {
+       "id": "46",
+       "number": "046",
+       "title": "The Garland of Glorious Wealth",
+       "tamil": "செல்வச் சீர்த்தி மாலை",
+       "count": 10
+      },
+      {
+       "id": "47",
+       "number": "047",
+       "title": "Instruction to the Mind",
+       "tamil": "செவி அறிவுறுத்தல்",
+       "count": 10
+      },
+      {
+       "id": "48",
+       "number": "048",
+       "title": "Divine Instruction",
+       "tamil": "தேவ ஆசிரியம்",
+       "count": 3
+      },
+      {
+       "id": "49",
+       "number": "049",
+       "title": "Ten Verses of Subtle Gestures",
+       "tamil": "இங்கிதப் பத்து",
+       "count": 12
+      },
+      {
+       "id": "50",
+       "number": "050",
+       "title": "The Sacred Verses of Praise",
+       "tamil": "போற்றித் திருவிருத்தம்",
+       "count": 15
+      },
+      {
+       "id": "51",
+       "number": "051",
+       "title": "The Unique Sacred Garland",
+       "tamil": "தனித் திருத்தொடை",
+       "count": 31
+      },
+      {
+       "id": "52",
+       "number": "052",
+       "title": "The Garland of the Divine Gem",
+       "tamil": "தெய்வமணி மாலை",
+       "count": 31
+      },
+      {
+       "id": "53",
+       "number": "053",
+       "title": "Ten Verses of Surrender to Kandan",
+       "tamil": "கந்தர் சரணப்பத்து",
+       "count": 10
+      },
+      {
+       "id": "54",
+       "number": "054",
+       "title": "Bearing the Sacred Garland",
+       "tamil": "திருப்பள்ளித்தாமம் தாங்கல்",
+       "count": 3
+      },
+      {
+       "id": "55",
+       "number": "055",
+       "title": "The Kommi Dance for Lord Shanmuga",
+       "tamil": "சண்முகர் கொம்மி",
+       "count": 15
+      },
+      {
+       "id": "56",
+       "number": "056",
+       "title": "The Arrival of Shanmugar",
+       "tamil": "சண்முகர் வருகை",
+       "count": 12
+      },
+      {
+       "id": "57",
+       "number": "057",
+       "title": "The Standalone Sacred Garland (General)",
+       "tamil": "(பொது) தனித் திருமாலை",
+       "count": 10
+      },
+      {
+       "id": "58",
+       "number": "058",
+       "title": "Garland of Gracious Words",
+       "tamil": "அருண்மொழி மாலை",
+       "count": 31
+      },
+      {
+       "id": "59",
+       "number": "059",
+       "title": "The Garland of Joy",
+       "tamil": "இன்ப மாலை",
+       "count": 11
+      },
+      {
+       "id": "60",
+       "number": "060",
+       "title": "The Husband Who Fills the Eyes",
+       "tamil": "கண் நிறைந்த கணவன்",
+       "count": 1
+      },
+      {
+       "id": "61",
+       "number": "061",
+       "title": "Chanting the Name of Rama",
+       "tamil": "இராமநாம சங்கீர்த்தனம்",
+       "count": 1
+      },
+      {
+       "id": "62",
+       "number": "062",
+       "title": "The Decad on the Name of Rama",
+       "tamil": "இராமநாமப் பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "63",
+       "number": "063",
+       "title": "Five Verses of Praise to Veeraraghava",
+       "tamil": "வீரராகவர் போற்றிப் பஞ்சகம்",
+       "count": 5
+      },
+      {
+       "id": "64",
+       "number": "064",
+       "title": "Five Verses on Renuka",
+       "tamil": "இரேணுகை பஞ்சகம்",
+       "count": 5
+      },
+      {
+       "id": "65",
+       "number": "065",
+       "title": "Ten Verses to Vaithiyanathar",
+       "tamil": "வைத்தியநாதர் பதிகம்",
+       "count": 12
+      },
+      {
+       "id": "66",
+       "number": "066",
+       "title": "Praise to the Mother of Kannamangai",
+       "tamil": "கண்ணமங்கைத் தாயார் துதி",
+       "count": 1
+      },
+      {
+       "id": "67",
+       "number": "067",
+       "title": "The Decad on the Ancient Mountain",
+       "tamil": "பழமலைப் பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "68",
+       "number": "068",
+       "title": "Is It the Ancient Mountain or an Old Mountain?",
+       "tamil": "பழமலையோ கிழமலையோ",
+       "count": 4
+      },
+      {
+       "id": "69",
+       "number": "069",
+       "title": "Hymn to Periyanayaki",
+       "tamil": "பெரியநாயகியார் தோத்திரம்",
+       "count": 4
+      },
+      {
+       "id": "70",
+       "number": "070",
+       "title": "The Flourishing Flame of Siva That Illuminates Arunagiri",
+       "tamil": "அருணகிரி விளங்க வளர்ந்த சிவக்கொழுந்து",
+       "count": 1
+      },
+      {
+       "id": "71",
+       "number": "071",
+       "title": "Hymn to Sivagnana Desikan of Thiruvothur",
+       "tamil": "திருவோத்தூர் சிவஞான தேசிகன் தோத்திரம்",
+       "count": 32
+      },
+      {
+       "id": "72",
+       "number": "072",
+       "title": "Eight Sacred Verses on Sivajnanadesikar of Thiruvothur",
+       "tamil": "திருவோத்தூர் சிவஞானதேசிகன் திருச்சீர் அட்டகம்",
+       "count": 4
+      },
+      {
+       "id": "73",
+       "number": "073",
+       "title": "The Sacred Epistle",
+       "tamil": "திருமுகப் பாசுரம்",
+       "count": 1
+      },
+      {
+       "id": "74",
+       "number": "074",
+       "title": "Decadal on Kandhar of Singapuri",
+       "tamil": "சிங்கபுரிக் கந்தர் பதிகம்",
+       "count": 12
+      },
+      {
+       "id": "75",
+       "number": "075",
+       "title": "The Unique Divine Sacred Garland",
+       "tamil": "தெய்வத் தனித் திருமாலை",
+       "count": 11
+      },
+      {
+       "id": "76",
+       "number": "076",
+       "title": "Ten Verses on the Blissful Dance",
+       "tamil": "ஆனந்த நடனப் பதிகம்",
+       "count": 10
+      },
+      {
+       "id": "77",
+       "number": "077",
+       "title": "Hymn to Sivakamavalli",
+       "tamil": "சிவகாமவல்லி துதி",
+       "count": 7
+      },
+      {
+       "id": "78",
+       "number": "078",
+       "title": "Siva, the Supreme Reality",
+       "tamil": "சிவ பரம்பொருள்",
+       "count": 4
+      },
+      {
+       "id": "79",
+       "number": "079",
+       "title": "The Adornment of Nataraja",
+       "tamil": "நடராஜ அலங்காரம்",
+       "count": 3
+      },
+      {
+       "id": "80",
+       "number": "080",
+       "title": "The Garland of Appeal",
+       "tamil": "முறையீட்டுக் கண்ணி",
+       "count": 69
+      },
+      {
+       "id": "81",
+       "number": "081",
+       "title": "Verses on the Divine Feet",
+       "tamil": "திருவடிக் கண்ணி",
+       "count": 11
+      },
+      {
+       "id": "82",
+       "number": "082",
+       "title": "Verses of Supreme Love",
+       "tamil": "பேரன்புக் கண்ணி",
+       "count": 14
+      },
+      {
+       "id": "83",
+       "number": "083",
+       "title": "Benediction",
+       "tamil": "மங்களம்",
+       "count": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vinnappangal",
+   "collection": "Urainaidai Paguthi",
+   "title": "The True Petitions of the Universal Pure True Path",
+   "short": "The True Petitions",
+   "tamilTitle": "சத்திய விண்ணப்பங்கள்",
+   "romanTitle": "Sathya Vinnappangal",
+   "page": "https://sanmarkkamlife.org/vinnappangal/",
+   "edition": "Edition 1.0, October 2026",
+   "passages": 62,
+   "hasIntro": true,
+   "glossary": 117,
+   "toc": [
+    {
+     "id": "1",
+     "title": "The Small True Petition of the Pure True Path",
+     "tamil": "சுத்த சன்மார்க்க சத்தியச் சிறு விண்ணப்பம்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "The Small True Petition of Suddha Sanmarkkam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "Invocation to the God of Great Compassion",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "Beyond the Words of the Vedas and Agamas",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "",
+       "title": "4. DWELLING IN IGNORANCE (அஞ்ஞானத்திற் பயின்று)",
+       "tamil": "4. DWELLING IN IGNORANCE (அஞ்ஞானத்திற் பயின்று)",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "",
+       "title": "5. STATIONARY BIRTHS (தாவரயோனி வர்க்கம்)",
+       "tamil": "5. STATIONARY BIRTHS (தாவரயோனி வர்க்கம்)",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "",
+       "title": "6. CRAWLING AND WATER-DWELLING BIRTHS (ஊர்வன நீர் வாழ்வன யோனிவர்க்கம்)",
+       "tamil": "6. CRAWLING AND WATER-DWELLING BIRTHS (ஊர்வன நீர் வாழ்வன யோனிவர்க்கம்)",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "",
+       "title": "7. WINGED BIRTHS (பறவையோனி வர்க்கம்)",
+       "tamil": "7. WINGED BIRTHS (பறவையோனி வர்க்கம்)",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "",
+       "title": "8. ANIMAL BIRTHS (விலங்குயோனி வர்க்கம்)",
+       "tamil": "8. ANIMAL BIRTHS (விலங்குயோனி வர்க்கம்)",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "",
+       "title": "9. DEVA BIRTHS (தேவயோனி வர்க்கம்)",
+       "tamil": "9. DEVA BIRTHS (தேவயோனி வர்க்கம்)",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "",
+       "title": "10. HELLISH BIRTHS (நரகயோனி வர்க்கம்)",
+       "tamil": "10. HELLISH BIRTHS (நரகயோனி வர்க்கம்)",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "",
+       "title": "11. NO RETURN WE CAN MAKE (கைம்மாறு)",
+       "tamil": "11. NO RETURN WE CAN MAKE (கைம்மாறு)",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "",
+       "title": "12. WASTED TIME (வீண்போது)",
+       "tamil": "12. WASTED TIME (வீண்போது)",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "",
+       "title": "13. ONE TRUE GOD (ஓர் உண்மைக் கடவுள்)",
+       "tamil": "13. ONE TRUE GOD (ஓர் உண்மைக் கடவுள்)",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "",
+       "title": "14. WHEN SHALL WE WORSHIP? (எஞ்ஞான்று செய்வோம்)",
+       "tamil": "14. WHEN SHALL WE WORSHIP? (எஞ்ஞான்று செய்வோம்)",
+       "count": 1
+      },
+      {
+       "id": "15",
+       "number": "",
+       "title": "15. A HALL OF WISDOM TO BE ESTABLISHED (ஓர் ஞான சபை காணுதல்)",
+       "tamil": "15. A HALL OF WISDOM TO BE ESTABLISHED (ஓர் ஞான சபை காணுதல்)",
+       "count": 1
+      },
+      {
+       "id": "16",
+       "number": "16",
+       "title": "The Adornment of the Hall",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "17",
+       "number": "17",
+       "title": "The Granting of Eternal Life",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "18",
+       "number": "18",
+       "title": "Religions, the Chief Obstacle; Soul-kinship, the Chief Aim",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "19",
+       "number": "19",
+       "title": "Salutations to the Divine Grace",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "title": "The Great True Petition of the Universal Pure True Path",
+     "tamil": "சமரச சுத்த சன்மார்க்க சத்தியப் பெரு விண்ணப்பம்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "The Great True Petition of Samarasa Suddha Sanmarkkam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "From the Darkness of Ignorance into This Human Body",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "In the Father's Seed",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "Until Joined to the Mother's Blood",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "The Atomic Form in the Mother's Womb",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "Harmful Forces Subdued, the Soul's Powers Nurtured",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "From Atomic Form to Bodily Form",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "Relief from the Confinement of the Womb",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "Hunger, Fear and Danger in the Womb",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "Good Things Prepared for Life in the World",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "11",
+       "title": "Protection During Birth",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "12",
+       "title": "No Father's Care Can Compare",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "13",
+       "title": "No Mother's Care Can Compare",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "14",
+       "title": "Drawn Out of the Great Darkness in a Moment",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "15",
+       "number": "15",
+       "title": "From Causal Form to This Body in a Moment",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "16",
+       "number": "16",
+       "title": "All the Parts of This Body, Within and without",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "17",
+       "number": "17",
+       "title": "Born Human, in a Place Where Good Qualities Grow",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "18",
+       "number": "18",
+       "title": "Protected from Infancy to Boyhood",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "19",
+       "number": "19",
+       "title": "Kept from Childish Faults, Led to Good Ways",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "20",
+       "number": "20",
+       "title": "The Inner Teacher",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "21",
+       "number": "21",
+       "title": "Tamil, the Southern Language Given by Grace",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "22",
+       "number": "22",
+       "title": "Caste and Life-stage Customs Made Known as False",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "23",
+       "number": "23",
+       "title": "Suppressing Youthful Desires",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "24",
+       "number": "24",
+       "title": "One True God; Kept from Religions, Sects and Paths",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "25",
+       "number": "25",
+       "title": "Compassion for All Life and the Great Life of Bliss",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "3",
+     "title": "The True Petition of Wisdom of the Universal Pure True Path",
+     "tamil": "சமரச சுத்த சன்மார்க்க சத்திய ஞான விண்ணப்பம்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "The True Petition of Wisdom of Samarasa Suddha Sanmarkkam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "How Shall I Begin to Know?",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "How Shall I Begin to Contemplate?",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "How Shall I Begin to Praise?",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "The Overflowing Desire to Know, Contemplate and Praise",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "What Are the Forms of the Holy Presence of Grace?",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "The Pure Sages Sigh: How Shall We Know?",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "Tears of Bliss and Silence",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "How, Then, Can Your Form Be Known?",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "Knowing without Knowing",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "4",
+     "title": "The True Petition of the Sangam of the Universal Pure True Path",
+     "tamil": "சமரச சுத்த சன்மார்க்க சங்க சத்திய விண்ணப்பம்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "The True Petition of the Sangam of Samarasa Suddha Sanmarkkam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "The Petition Laid Before Arut Perum Jothi at Vadalur",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "The One Desire: An Eternal Body",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "Grace Alone Can Give It",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "The Three Freedoms",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "The Gift of All Three Freedoms to Grace",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "For All Living Beings",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "Salutations to the Reign of Great Compassion",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "perupadesam",
+   "collection": "Urainaidai Paguthi",
+   "title": "The Great Teaching",
+   "short": "The Great Teaching",
+   "tamilTitle": "பேருபதேசம்",
+   "romanTitle": "Perupadesam",
+   "page": "https://sanmarkkamlife.org/perupadesam/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 89,
+   "hasIntro": true,
+   "glossary": 21,
+   "toc": [
+    {
+     "id": "1",
+     "title": "The Great Teaching",
+     "tamil": "பேருபதேசம்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "The Call to Inquiry",
+       "tamil": "",
+       "count": 5
+      },
+      {
+       "id": "2",
+       "number": "",
+       "title": "What Inquiry Really Means",
+       "tamil": "",
+       "count": 7
+      },
+      {
+       "id": "3",
+       "number": "",
+       "title": "The Two Screens of Maya",
+       "tamil": "",
+       "count": 10
+      },
+      {
+       "id": "4",
+       "number": "",
+       "title": "Leave the Scriptures Aside",
+       "tamil": "",
+       "count": 12
+      },
+      {
+       "id": "5",
+       "number": "",
+       "title": "Leave Religion and Sect Behind",
+       "tamil": "",
+       "count": 5
+      },
+      {
+       "id": "6",
+       "number": "",
+       "title": "Compassion and Oneness",
+       "tamil": "",
+       "count": 12
+      },
+      {
+       "id": "7",
+       "number": "",
+       "title": "Win Others to the Discipline",
+       "tamil": "",
+       "count": 2
+      },
+      {
+       "id": "8",
+       "number": "",
+       "title": "To Know God, Taste God",
+       "tamil": "",
+       "count": 3
+      },
+      {
+       "id": "9",
+       "number": "",
+       "title": "Inquire into the Stars and the Body",
+       "tamil": "",
+       "count": 8
+      },
+      {
+       "id": "10",
+       "number": "",
+       "title": "The Mantra That Hides Nothing",
+       "tamil": "",
+       "count": 11
+      },
+      {
+       "id": "11",
+       "number": "",
+       "title": "The Flag and the Time of Sanmarkkam",
+       "tamil": "",
+       "count": 14
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "upadesa-kurippugal",
+   "collection": "Urainaidai Paguthi",
+   "title": "Notes of Teaching",
+   "short": "Notes of Teaching",
+   "tamilTitle": "உபதேசக் குறிப்புகள்",
+   "romanTitle": "Upadesa Kurippugal",
+   "page": "https://sanmarkkamlife.org/upadesa-kurippukal/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 320,
+   "hasIntro": true,
+   "glossary": 431,
+   "toc": [
+    {
+     "id": "1",
+     "title": "Notes of Teaching",
+     "tamil": "உபதேசக் குறிப்புகள்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "1. THE PRACTICE OF CONTEMPLATING THE FULLNESS IN COSMOS AND BODY (அண்ட பிண்ட பூர்ண பாவன அனுஷ்டான விதி)",
+       "tamil": "1. THE PRACTICE OF CONTEMPLATING THE FULLNESS IN COSMOS AND BODY (அண்ட பிண்ட பூர்ண பாவன அனுஷ்டான விதி)",
+       "count": 4
+      },
+      {
+       "id": "2",
+       "number": "",
+       "title": "2. THE LIGHTS OF THE BODY AND OF THE COSMOS (பிண்ட ஒளியும் அண்ட ஒளியும்)",
+       "tamil": "2. THE LIGHTS OF THE BODY AND OF THE COSMOS (பிண்ட ஒளியும் அண்ட ஒளியும்)",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "",
+       "title": "3. ECLIPSES IN THE BODY AND IN THE COSMOS (பிண்டாண்ட கிரகண சித்தாந்தம்)",
+       "tamil": "3. ECLIPSES IN THE BODY AND IN THE COSMOS (பிண்டாண்ட கிரகண சித்தாந்தம்)",
+       "count": 4
+      },
+      {
+       "id": "4",
+       "number": "",
+       "title": "4. DIRECTIONS IN THE COSMOS AND IN THE BODY (அண்ட பிண்ட திசைகள்)",
+       "tamil": "4. DIRECTIONS IN THE COSMOS AND IN THE BODY (அண்ட பிண்ட திசைகள்)",
+       "count": 4
+      },
+      {
+       "id": "5",
+       "number": "",
+       "title": "5. THE NECTARS OF THE COSMOS AND OF THE BODY (அண்ட பிண்ட அமுதங்கள்)",
+       "tamil": "5. THE NECTARS OF THE COSMOS AND OF THE BODY (அண்ட பிண்ட அமுதங்கள்)",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "",
+       "title": "6. RAIN (மழை)",
+       "tamil": "6. RAIN (மழை)",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "",
+       "title": "7. THE THREE LIGHTS (முச்சுடர்)",
+       "tamil": "7. THE THREE LIGHTS (முச்சுடர்)",
+       "count": 6
+      },
+      {
+       "id": "8",
+       "number": "",
+       "title": "8. THE PRINCIPLE OF CREATION (சிருட்டி நியாயம்)",
+       "tamil": "8. THE PRINCIPLE OF CREATION (சிருட்டி நியாயம்)",
+       "count": 5
+      },
+      {
+       "id": "9",
+       "number": "",
+       "title": "9. THE CLASSES OF CREATION (பக்ஷபேதமும் சிருஷ்டியும்)",
+       "tamil": "9. THE CLASSES OF CREATION (பக்ஷபேதமும் சிருஷ்டியும்)",
+       "count": 3
+      },
+      {
+       "id": "10",
+       "number": "",
+       "title": "10. THE THREE IMPURITIES AND CREATION (மும்மலபேதமும் சிருட்டியும்)",
+       "tamil": "10. THE THREE IMPURITIES AND CREATION (மும்மலபேதமும் சிருட்டியும்)",
+       "count": 2
+      },
+      {
+       "id": "11",
+       "number": "",
+       "title": "11. THE SEVEN KINDS OF BIRTH (எழுவகைப் பிறப்பு)",
+       "tamil": "11. THE SEVEN KINDS OF BIRTH (எழுவகைப் பிறப்பு)",
+       "count": 3
+      },
+      {
+       "id": "12",
+       "number": "",
+       "title": "12. MALE AND FEMALE, FEMALE AND MALE (ஆண்பெண் - பெண்ணாண்)",
+       "tamil": "12. MALE AND FEMALE, FEMALE AND MALE (ஆண்பெண் பெண்ணாண்)",
+       "count": 2
+      },
+      {
+       "id": "13",
+       "number": "",
+       "title": "13. THE STAGES OF LIFE OF MEN AND WOMEN (ஆண்பெண் பருவம்)",
+       "tamil": "13. THE STAGES OF LIFE OF MEN AND WOMEN (ஆண்பெண் பருவம்)",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "",
+       "title": "14. CONCEPTION (கரு உற்பத்தி)",
+       "tamil": "14. CONCEPTION (கரு உற்பத்தி)",
+       "count": 4
+      },
+      {
+       "id": "15",
+       "number": "",
+       "title": "15. THE SEVEN CONSTITUENTS OF THE BODY (சப்த தாதுக்கள்)",
+       "tamil": "15. THE SEVEN CONSTITUENTS OF THE BODY (சப்த தாதுக்கள்)",
+       "count": 3
+      },
+      {
+       "id": "16",
+       "number": "",
+       "title": "16. THE NATURE OF THE BODY (பிண்ட இலக்கணம்)",
+       "tamil": "16. THE NATURE OF THE BODY (பிண்ட இலக்கணம்)",
+       "count": 8
+      },
+      {
+       "id": "17",
+       "number": "",
+       "title": "17. THE NATURE OF EXPERIENCE IN THE BODY (பிண்டானுபவ இலக்கணம்)",
+       "tamil": "17. THE NATURE OF EXPERIENCE IN THE BODY (பிண்டானுபவ இலக்கணம்)",
+       "count": 9
+      },
+      {
+       "id": "18",
+       "number": "",
+       "title": "18. HOW GOD ACTS IN THE HUMAN BODY (மனித தேகத்தில் கடவுள் காரியப்படுவது)",
+       "tamil": "18. HOW GOD ACTS IN THE HUMAN BODY (மனித தேகத்தில் கடவுள் காரியப்படுவது)",
+       "count": 21
+      },
+      {
+       "id": "19",
+       "number": "",
+       "title": "19. THE TRUTH OF THE RELIGIOUS SCRIPTURES (சமய நூல்களின் உண்மை)",
+       "tamil": "19. THE TRUTH OF THE RELIGIOUS SCRIPTURES (சமய நூல்களின் உண்மை)",
+       "count": 4
+      },
+      {
+       "id": "20",
+       "number": "",
+       "title": "20. ERRORS IN THE RELIGIOUS SCRIPTURES (சமய நூல்களில் பிழை)",
+       "tamil": "20. ERRORS IN THE RELIGIOUS SCRIPTURES (சமய நூல்களில் பிழை)",
+       "count": 1
+      },
+      {
+       "id": "21",
+       "number": "",
+       "title": "21. AEONS AND DISSOLUTIONS (கற்பமும் பிரளயமும்)",
+       "tamil": "21. AEONS AND DISSOLUTIONS (கற்பமும் பிரளயமும்)",
+       "count": 2
+      },
+      {
+       "id": "22",
+       "number": "",
+       "title": "22. THE CHANGE OF AEON (கற்பபேதம்)",
+       "tamil": "22. THE CHANGE OF AEON (கற்பபேதம்)",
+       "count": 2
+      },
+      {
+       "id": "23",
+       "number": "",
+       "title": "23. THE KALI AGE (கலியுகம்)",
+       "tamil": "23. THE KALI AGE (கலியுகம்)",
+       "count": 2
+      },
+      {
+       "id": "24",
+       "number": "",
+       "title": "24. THE DESTRUCTION OF YAMA (கால சங்காரம்)",
+       "tamil": "24. THE DESTRUCTION OF YAMA (கால சங்காரம்)",
+       "count": 2
+      },
+      {
+       "id": "25",
+       "number": "",
+       "title": "25. SURAS AND ASURAS (சுரர் அசுரர்)",
+       "tamil": "25. SURAS AND ASURAS (சுரர் அசுரர்)",
+       "count": 3
+      },
+      {
+       "id": "26",
+       "number": "",
+       "title": "26. THE SEARCH FOR THE CROWN AND THE FOOT (அடி முடி தேடல்)",
+       "tamil": "26. THE SEARCH FOR THE CROWN AND THE FOOT (அடி முடி தேடல்)",
+       "count": 1
+      },
+      {
+       "id": "27",
+       "number": "",
+       "title": "27. THE PUNISHMENT OF BRAHMA (பிரம தண்டனை)",
+       "tamil": "27. THE PUNISHMENT OF BRAHMA (பிரம தண்டனை)",
+       "count": 1
+      },
+      {
+       "id": "28",
+       "number": "",
+       "title": "28. THE CUTTING OF SARASVATI'S NOSE (சரஸ்வதியை மூக்கறுத்தது)",
+       "tamil": "28. THE CUTTING OF SARASVATI'S NOSE (சரஸ்வதியை மூக்கறுத்தது)",
+       "count": 1
+      },
+      {
+       "id": "29",
+       "number": "",
+       "title": "29. THE CURSE OF THE MOON (சந்திர சாபம்)",
+       "tamil": "29. THE CURSE OF THE MOON (சந்திர சாபம்)",
+       "count": 1
+      },
+      {
+       "id": "30",
+       "number": "",
+       "title": "30. DAKSHA'S SACRIFICE (தக்ஷ யாகம்)",
+       "tamil": "30. DAKSHA'S SACRIFICE (தக்ஷ யாகம்)",
+       "count": 1
+      },
+      {
+       "id": "31",
+       "number": "",
+       "title": "31. THE SLAYING OF SURAPADMA (சூரபத்ம சம்ஹாரம்)",
+       "tamil": "31. THE SLAYING OF SURAPADMA (சூரபத்ம சம்ஹாரம்)",
+       "count": 1
+      },
+      {
+       "id": "32",
+       "number": "",
+       "title": "32. THE FEEDING OF KUNDODARA (குண்டோதரனுக்கு அன்னமிட்டது)",
+       "tamil": "32. THE FEEDING OF KUNDODARA (குண்டோதரனுக்கு அன்னமிட்டது)",
+       "count": 2
+      },
+      {
+       "id": "33",
+       "number": "",
+       "title": "33. THE CHURNING OF THE MILKY OCEAN (பாற்கடல் கடைந்தது)",
+       "tamil": "33. THE CHURNING OF THE MILKY OCEAN (பாற்கடல் கடைந்தது)",
+       "count": 2
+      },
+      {
+       "id": "34",
+       "number": "",
+       "title": "34. VISHNU RECLINING ON THE MILKY OCEAN (பாற்கடலில் பள்ளிகொண்டது)",
+       "tamil": "34. VISHNU RECLINING ON THE MILKY OCEAN (பாற்கடலில் பள்ளிகொண்டது)",
+       "count": 1
+      },
+      {
+       "id": "35",
+       "number": "",
+       "title": "35. NARAYANA (நாராயணன்)",
+       "tamil": "35. NARAYANA (நாராயணன்)",
+       "count": 1
+      },
+      {
+       "id": "36",
+       "number": "",
+       "title": "36. GARUDA (கருடன்)",
+       "tamil": "36. GARUDA (கருடன்)",
+       "count": 1
+      },
+      {
+       "id": "37",
+       "number": "",
+       "title": "37. HAYAGRIVA (அயக்கிரீவம்)",
+       "tamil": "37. HAYAGRIVA (அயக்கிரீவம்)",
+       "count": 2
+      },
+      {
+       "id": "38",
+       "number": "",
+       "title": "38. VAMANA, THE DWARF INCARNATION (வாமனாவதாரம்)",
+       "tamil": "38. VAMANA, THE DWARF INCARNATION (வாமனாவதாரம்)",
+       "count": 1
+      },
+      {
+       "id": "39",
+       "number": "",
+       "title": "39. VADUGANATHAR (வடுகநாதர்)",
+       "tamil": "39. VADUGANATHAR (வடுகநாதர்)",
+       "count": 1
+      },
+      {
+       "id": "40",
+       "number": "",
+       "title": "40. BHAIRAVA AND VIRABHADRA (பைரவர் வீரபத்திரர்)",
+       "tamil": "40. BHAIRAVA AND VIRABHADRA (பைரவர் வீரபத்திரர்)",
+       "count": 1
+      },
+      {
+       "id": "41",
+       "number": "",
+       "title": "41. VEDARANYAM (வேதாரண்யம்)",
+       "tamil": "41. VEDARANYAM (வேதாரண்யம்)",
+       "count": 1
+      },
+      {
+       "id": "42",
+       "number": "",
+       "title": "42. THE VEDAS (வேதம்)",
+       "tamil": "42. THE VEDAS (வேதம்)",
+       "count": 1
+      },
+      {
+       "id": "43",
+       "number": "",
+       "title": "43. THE VEDAS, THE AGAMAS AND OTHER SCRIPTURES (வேதம் ஆகமம் முதலிய நூல்கள்)",
+       "tamil": "43. THE VEDAS, THE AGAMAS AND OTHER SCRIPTURES (வேதம் ஆகமம் முதலிய நூல்கள்)",
+       "count": 1
+      },
+      {
+       "id": "44",
+       "number": "",
+       "title": "44. THE WAYS OF THE VEDAS AND THE AGAMAS (வேதாகம வழிகள்)",
+       "tamil": "44. THE WAYS OF THE VEDAS AND THE AGAMAS (வேதாகம வழிகள்)",
+       "count": 1
+      },
+      {
+       "id": "45",
+       "number": "",
+       "title": "45. THEVARAM (தேவாரம்)",
+       "tamil": "45. THEVARAM (தேவாரம்)",
+       "count": 1
+      },
+      {
+       "id": "46",
+       "number": "",
+       "title": "46. THIRUVASAGAM (திருவாசகம்)",
+       "tamil": "46. THIRUVASAGAM (திருவாசகம்)",
+       "count": 1
+      },
+      {
+       "id": "47",
+       "number": "",
+       "title": "47. THIRUMANDIRAM (திருமந்திரம்)",
+       "tamil": "47. THIRUMANDIRAM (திருமந்திரம்)",
+       "count": 1
+      },
+      {
+       "id": "48",
+       "number": "",
+       "title": "48. THIRUMANDIRAM AND THIRUVASAGAM (திருமந்திரமும் திருவாசகமும்)",
+       "tamil": "48. THIRUMANDIRAM AND THIRUVASAGAM (திருமந்திரமும் திருவாசகமும்)",
+       "count": 1
+      },
+      {
+       "id": "49",
+       "number": "",
+       "title": "49. THE MEANING OF THE WORD SIVAM (சிவம் என்பதன் பொருள்)",
+       "tamil": "49. THE MEANING OF THE WORD SIVAM (சிவம் என்பதன் பொருள்)",
+       "count": 5
+      },
+      {
+       "id": "50",
+       "number": "",
+       "title": "50. THE QUALITIES OF SIVA AND OF THE JEEVA (சிவகுணமும் ஜீவகுணமும்)",
+       "tamil": "50. THE QUALITIES OF SIVA AND OF THE JEEVA (சிவகுணமும் ஜீவகுணமும்)",
+       "count": 1
+      },
+      {
+       "id": "51",
+       "number": "",
+       "title": "51. BECOMING SIVAM (சிவமாதல்)",
+       "tamil": "51. BECOMING SIVAM (சிவமாதல்)",
+       "count": 1
+      },
+      {
+       "id": "52",
+       "number": "",
+       "title": "52. THE FIVE-LETTER MANTRA (பஞ்சாக்கரம்)",
+       "tamil": "52. THE FIVE-LETTER MANTRA (பஞ்சாக்கரம்)",
+       "count": 5
+      },
+      {
+       "id": "53",
+       "number": "",
+       "title": "53. THE PRANAVA (பிரணவம்)",
+       "tamil": "53. THE PRANAVA (பிரணவம்)",
+       "count": 2
+      },
+      {
+       "id": "54",
+       "number": "",
+       "title": "54. THE LETTER A (அகரம்)",
+       "tamil": "54. THE LETTER A (அகரம்)",
+       "count": 3
+      },
+      {
+       "id": "55",
+       "number": "",
+       "title": "55. THE GAYATRI (காயத்ரி)",
+       "tamil": "55. THE GAYATRI (காயத்ரி)",
+       "count": 2
+      },
+      {
+       "id": "56",
+       "number": "",
+       "title": "56. TATTVA (தத்துவம்)",
+       "tamil": "56. TATTVA (தத்துவம்)",
+       "count": 1
+      },
+      {
+       "id": "57",
+       "number": "",
+       "title": "57. KUDILAI (குடிலை)",
+       "tamil": "57. KUDILAI (குடிலை)",
+       "count": 1
+      },
+      {
+       "id": "58",
+       "number": "",
+       "title": "58. THE ELEMENTS (பூதம்)",
+       "tamil": "58. THE ELEMENTS (பூதம்)",
+       "count": 2
+      },
+      {
+       "id": "59",
+       "number": "",
+       "title": "59. ELEMENTAL SUBSTANCES (பௌதிகம்)",
+       "tamil": "59. ELEMENTAL SUBSTANCES (பௌதிகம்)",
+       "count": 1
+      },
+      {
+       "id": "60",
+       "number": "",
+       "title": "60. THINKING AND FORGETTING (நினைப்பு மறைப்பு)",
+       "tamil": "60. THINKING AND FORGETTING (நினைப்பு மறைப்பு)",
+       "count": 2
+      },
+      {
+       "id": "61",
+       "number": "",
+       "title": "61. LIKING AND DISLIKING (விருப்பு வெறுப்பு)",
+       "tamil": "61. LIKING AND DISLIKING (விருப்பு வெறுப்பு)",
+       "count": 2
+      },
+      {
+       "id": "62",
+       "number": "",
+       "title": "62. SANKALPA (சங்கல்பம்)",
+       "tamil": "62. SANKALPA (சங்கல்பம்)",
+       "count": 4
+      },
+      {
+       "id": "63",
+       "number": "",
+       "title": "63. KNOWING ONESELF (தன்னையறிதல்)",
+       "tamil": "63. KNOWING ONESELF (தன்னையறிதல்)",
+       "count": 1
+      },
+      {
+       "id": "64",
+       "number": "",
+       "title": "64. THE UNION OF KUTASTHA AND BRAHMAN (கூடஸ்த பிரம ஐக்கியம்)",
+       "tamil": "64. THE UNION OF KUTASTHA AND BRAHMAN (கூடஸ்த பிரம ஐக்கியம்)",
+       "count": 2
+      },
+      {
+       "id": "65",
+       "number": "",
+       "title": "65. GOD, ONE AND MANY (கடவுள் ஏகம் அனேகம்)",
+       "tamil": "65. GOD, ONE AND MANY (கடவுள் ஏகம் அனேகம்)",
+       "count": 2
+      },
+      {
+       "id": "66",
+       "number": "",
+       "title": "66. GOD AS ONE AND AS TWO (கடவுள் ஒன்றும் இரண்டும் ஆதல்)",
+       "tamil": "66. GOD AS ONE AND AS TWO (கடவுள் ஒன்றும் இரண்டும் ஆதல்)",
+       "count": 1
+      },
+      {
+       "id": "67",
+       "number": "",
+       "title": "67. THE THREE KINDS OF SOULS (மூவகை உயிர்கள்)",
+       "tamil": "67. THE THREE KINDS OF SOULS (மூவகை உயிர்கள்)",
+       "count": 1
+      },
+      {
+       "id": "68",
+       "number": "",
+       "title": "68. THE THREE GUNAS (முக்குணம்)",
+       "tamil": "68. THE THREE GUNAS (முக்குணம்)",
+       "count": 2
+      },
+      {
+       "id": "69",
+       "number": "",
+       "title": "69. THE THREE DESIRES (மூன்றாசை)",
+       "tamil": "69. THE THREE DESIRES (மூன்றாசை)",
+       "count": 1
+      },
+      {
+       "id": "70",
+       "number": "",
+       "title": "70. THE THREE STATES (மூன்று அவஸ்தை)",
+       "tamil": "70. THE THREE STATES (மூன்று அவஸ்தை)",
+       "count": 1
+      },
+      {
+       "id": "71",
+       "number": "",
+       "title": "71. THE THREE KINDS OF WISDOM (மூவகை ஞானம்)",
+       "tamil": "71. THE THREE KINDS OF WISDOM (மூவகை ஞானம்)",
+       "count": 3
+      },
+      {
+       "id": "72",
+       "number": "",
+       "title": "72. PARA AND APARA WISDOM (பர அபர ஞானங்கள்)",
+       "tamil": "72. PARA AND APARA WISDOM (பர அபர ஞானங்கள்)",
+       "count": 1
+      },
+      {
+       "id": "73",
+       "number": "",
+       "title": "73. THE THREE PERSONS (மூவிடம்)",
+       "tamil": "73. THE THREE PERSONS (மூவிடம்)",
+       "count": 1
+      },
+      {
+       "id": "74",
+       "number": "",
+       "title": "74. THE FIVE GREAT SINS (பஞ்ச மகா பாதகங்கள்)",
+       "tamil": "74. THE FIVE GREAT SINS (பஞ்ச மகா பாதகங்கள்)",
+       "count": 1
+      },
+      {
+       "id": "75",
+       "number": "",
+       "title": "75. HIGHER AND LOWER SPEECH (பர அபர வாக்குகள்)",
+       "tamil": "75. HIGHER AND LOWER SPEECH (பர அபர வாக்குகள்)",
+       "count": 1
+      },
+      {
+       "id": "76",
+       "number": "",
+       "title": "76. THE WAY OF THE ANT AND THE WAY OF THE BIRD (பிபீலிக விகங்க* நியாயங்கள்)",
+       "tamil": "76. THE WAY OF THE ANT AND THE WAY OF THE BIRD (பிபீலிக விகங்க* நியாயங்கள்)",
+       "count": 1
+      },
+      {
+       "id": "77",
+       "number": "",
+       "title": "77. SIDDHANTA AND VEDANTA (சித்தாந்த வேதாந்தம்)",
+       "tamil": "77. SIDDHANTA AND VEDANTA (சித்தாந்த வேதாந்தம்)",
+       "count": 1
+      },
+      {
+       "id": "78",
+       "number": "",
+       "title": "78. THE ONE FREED IN LIFE AND THE SIDDHA OF WISDOM (ஜீவன்முத்தனும் ஞானசித்தனும்)",
+       "tamil": "78. THE ONE FREED IN LIFE AND THE SIDDHA OF WISDOM (ஜீவன்முத்தனும் ஞானசித்தனும்)",
+       "count": 1
+      },
+      {
+       "id": "79",
+       "number": "",
+       "title": "79. PURUSHA (புருஷன்)",
+       "tamil": "79. PURUSHA (புருஷன்)",
+       "count": 1
+      },
+      {
+       "id": "80",
+       "number": "",
+       "title": "80. THE SOLAR CURRENT (சூரியகலை)",
+       "tamil": "80. THE SOLAR CURRENT (சூரியகலை)",
+       "count": 2
+      },
+      {
+       "id": "81",
+       "number": "",
+       "title": "81. MEDITATION (தியானம்)",
+       "tamil": "81. MEDITATION (தியானம்)",
+       "count": 1
+      },
+      {
+       "id": "82",
+       "number": "",
+       "title": "82. DIKSHA (தீக்ஷை)",
+       "tamil": "82. DIKSHA (தீக்ஷை)",
+       "count": 1
+      },
+      {
+       "id": "83",
+       "number": "",
+       "title": "83. DAILY RENUNCIATION (நித்தியத் துறவு)",
+       "tamil": "83. DAILY RENUNCIATION (நித்தியத் துறவு)",
+       "count": 1
+      },
+      {
+       "id": "84",
+       "number": "",
+       "title": "84. THE WORTH OF THE BODY (உடம்பின் அருமை)",
+       "tamil": "84. THE WORTH OF THE BODY (உடம்பின் அருமை)",
+       "count": 1
+      },
+      {
+       "id": "85",
+       "number": "",
+       "title": "85. THE LORD'S TEST (ஆண்டவர் சோதனை)",
+       "tamil": "85. THE LORD'S TEST (ஆண்டவர் சோதனை)",
+       "count": 1
+      },
+      {
+       "id": "86",
+       "number": "",
+       "title": "86. THE CREATION OF WISDOM (ஞான சிருஷ்டி)",
+       "tamil": "86. THE CREATION OF WISDOM (ஞான சிருஷ்டி)",
+       "count": 1
+      },
+      {
+       "id": "87",
+       "number": "",
+       "title": "87. THE REMOVAL OF ANAVA (ஆணவ மல நிவர்த்தி)",
+       "tamil": "87. THE REMOVAL OF ANAVA (ஆணவ மல நிவர்த்தி)",
+       "count": 2
+      },
+      {
+       "id": "88",
+       "number": "",
+       "title": "88. THE FORM OF LOVE (அன்புருவம்)",
+       "tamil": "88. THE FORM OF LOVE (அன்புருவம்)",
+       "count": 1
+      },
+      {
+       "id": "89",
+       "number": "",
+       "title": "89. THE END OF EGOISM (அகங்கார ஒழிவு)",
+       "tamil": "89. THE END OF EGOISM (அகங்கார ஒழிவு)",
+       "count": 1
+      },
+      {
+       "id": "90",
+       "number": "",
+       "title": "90. DESIRES OF THIS WORLD AND THE NEXT (இகபர காமங்கள்)",
+       "tamil": "90. DESIRES OF THIS WORLD AND THE NEXT (இகபர காமங்கள்)",
+       "count": 1
+      },
+      {
+       "id": "91",
+       "number": "",
+       "title": "91. NON-DIFFERENCE (அபேதம்)",
+       "tamil": "91. NON-DIFFERENCE (அபேதம்)",
+       "count": 1
+      },
+      {
+       "id": "92",
+       "number": "",
+       "title": "92. WORRY (கவலை)",
+       "tamil": "92. WORRY (கவலை)",
+       "count": 1
+      },
+      {
+       "id": "93",
+       "number": "",
+       "title": "93. LEARNED KNOWLEDGE AND THE KNOWLEDGE OF GRACE (கலை அறிவும் அருள் அறிவும்)",
+       "tamil": "93. LEARNED KNOWLEDGE AND THE KNOWLEDGE OF GRACE (கலை அறிவும் அருள் அறிவும்)",
+       "count": 1
+      },
+      {
+       "id": "94",
+       "number": "",
+       "title": "94. THE SAMARASA SUDDHA SANMARKKAM OF THE SIX ENDS (ஷடாந்த சமரச சுத்த சன்மார்க்கம்)",
+       "tamil": "94. THE SAMARASA SUDDHA SANMARKKAM OF THE SIX ENDS (ஷடாந்த சமரச சுத்த சன்மார்க்கம்)",
+       "count": 25
+      },
+      {
+       "id": "95",
+       "number": "",
+       "title": "95. THE PRINCIPLE OF SUDDHA SANMARKKAM (சுத்த சன்மார்க்கக் கொள்கை)",
+       "tamil": "95. THE PRINCIPLE OF SUDDHA SANMARKKAM (சுத்த சன்மார்க்கக் கொள்கை)",
+       "count": 3
+      },
+      {
+       "id": "96",
+       "number": "",
+       "title": "96. THE GOAL OF SUDDHA SANMARKKAM (சுத்த சன்மார்க்க முடிபு)",
+       "tamil": "96. THE GOAL OF SUDDHA SANMARKKAM (சுத்த சன்மார்க்க முடிபு)",
+       "count": 1
+      },
+      {
+       "id": "97",
+       "number": "",
+       "title": "97. THE LEARNING THAT DOES NOT DIE (சாகாத கல்வி)",
+       "tamil": "97. THE LEARNING THAT DOES NOT DIE (சாகாத கல்வி)",
+       "count": 1
+      },
+      {
+       "id": "98",
+       "number": "",
+       "title": "98. THE MEANS TO THE LEARNING THAT DOES NOT DIE (சாகாக்கல்விக்கு ஏது)",
+       "tamil": "98. THE MEANS TO THE LEARNING THAT DOES NOT DIE (சாகாக்கல்விக்கு ஏது)",
+       "count": 2
+      },
+      {
+       "id": "99",
+       "number": "",
+       "title": "99. THE MAIN OBSTACLES TO SUDDHA SANMARKKAM (சுத்த சன்மார்க்கத்தின் முக்கிய தடைகள்)",
+       "tamil": "99. THE MAIN OBSTACLES TO SUDDHA SANMARKKAM (சுத்த சன்மார்க்கத்தின் முக்கிய தடைகள்)",
+       "count": 1
+      },
+      {
+       "id": "100",
+       "number": "",
+       "title": "100. THE DISCIPLINE OF THE GREAT PATH OF SANMARKKAM (சன்மார்க்கப் பெருநெறி ஒழுக்கம்)",
+       "tamil": "100. THE DISCIPLINE OF THE GREAT PATH OF SANMARKKAM (சன்மார்க்கப் பெருநெறி ஒழுக்கம்)",
+       "count": 11
+      },
+      {
+       "id": "101",
+       "number": "",
+       "title": "101. THE PRACTICE OF SUDDHA SANMARKKAM (த்தசன்மார்க்க சாதனம்)",
+       "tamil": "101. THE PRACTICE OF SUDDHA SANMARKKAM (த்தசன்மார்க்க சாதனம்)",
+       "count": 4
+      },
+      {
+       "id": "102",
+       "number": "",
+       "title": "102. THE PRAYER OF SUDDHA SANMARKKAM (சுத்த சன்மார்க்கப் பிரார்த்தனை)",
+       "tamil": "102. THE PRAYER OF SUDDHA SANMARKKAM (சுத்த சன்மார்க்கப் பிரார்த்தனை)",
+       "count": 1
+      },
+      {
+       "id": "103",
+       "number": "",
+       "title": "103. THE TRUE OBSERVANCE OF WISDOM OF SUDDHA SANMARKKAM (சுத்த சன்மார்க்க சத்திய ஞானாசாரம்)",
+       "tamil": "103. THE TRUE OBSERVANCE OF WISDOM OF SUDDHA SANMARKKAM (சுத்த சன்மார்க்க சத்திய ஞானாசாரம்)",
+       "count": 6
+      },
+      {
+       "id": "104",
+       "number": "",
+       "title": "104. DHARMA ROOTED IN COMPASSION, THE NATURE OF THE SOUL (ஆன்ம இயற்கையாகிய தயாமூலதன்மம்)",
+       "tamil": "104. DHARMA ROOTED IN COMPASSION, THE NATURE OF THE SOUL (ஆன்ம இயற்கையாகிய தயாமூலதன்மம்)",
+       "count": 4
+      },
+      {
+       "id": "105",
+       "number": "",
+       "title": "105. JEEVAKARUNYAM, THE FIRST STEP TO LIBERATION (ஜீவகாருண்யமே முத்திக்கு முதற்படி)",
+       "tamil": "105. JEEVAKARUNYAM, THE FIRST STEP TO LIBERATION (ஜீவகாருண்யமே முத்திக்கு முதற்படி)",
+       "count": 2
+      },
+      {
+       "id": "106",
+       "number": "",
+       "title": "106. THE SIDDHI OF WISDOM AND THE STATE OF LIGHT (ஞானசித்தியும் ஒளிநிலையும்)",
+       "tamil": "106. THE SIDDHI OF WISDOM AND THE STATE OF LIGHT (ஞானசித்தியும் ஒளிநிலையும்)",
+       "count": 7
+      },
+      {
+       "id": "107",
+       "number": "",
+       "title": "107. THE LAMP AS PROOF FOR PROLONGING THE BODY (தேகம் நீடிப்பதற்குத் தீபப் பிரமாணம்)",
+       "tamil": "107. THE LAMP AS PROOF FOR PROLONGING THE BODY (தேகம் நீடிப்பதற்குத் தீபப் பிரமாணம்)",
+       "count": 2
+      },
+      {
+       "id": "108",
+       "number": "",
+       "title": "108. THE FOUR THINGS THAT DESTROY US (நம்மை நஷ்டஞ் செய்யும் நான்கு)",
+       "tamil": "108. THE FOUR THINGS THAT DESTROY US (நம்மை நஷ்டஞ் செய்யும் நான்கு)",
+       "count": 3
+      },
+      {
+       "id": "109",
+       "number": "",
+       "title": "109. UNTIMELY DEATH (துர் மரணம்)",
+       "tamil": "109. UNTIMELY DEATH (துர் மரணம்)",
+       "count": 1
+      },
+      {
+       "id": "110",
+       "number": "",
+       "title": "110. THE RULE FOR THE HOUSEHOLDER (இல்வாழ்வானுக்கு நியாயம்)",
+       "tamil": "110. THE RULE FOR THE HOUSEHOLDER (இல்வாழ்வானுக்கு நியாயம்)",
+       "count": 1
+      },
+      {
+       "id": "111",
+       "number": "",
+       "title": "111. RENUNCIATION AND THE OCHRE CLOTH (சந்நியாசமும் காவி உடையும்)",
+       "tamil": "111. RENUNCIATION AND THE OCHRE CLOTH (சந்நியாசமும் காவி உடையும்)",
+       "count": 2
+      },
+      {
+       "id": "112",
+       "number": "",
+       "title": "112. THE EQUAL STANDING OF WOMEN (மகளிர் சமத்துவ நிலை)",
+       "tamil": "112. THE EQUAL STANDING OF WOMEN (மகளிர் சமத்துவ நிலை)",
+       "count": 1
+      },
+      {
+       "id": "113",
+       "number": "",
+       "title": "113. THE COMMON VISION (பொதுப் பார்வை)",
+       "tamil": "113. THE COMMON VISION (பொதுப் பார்வை)",
+       "count": 1
+      },
+      {
+       "id": "114",
+       "number": "",
+       "title": "114. THE ORDER OF SALUTATION (வந்தன முறை)",
+       "tamil": "114. THE ORDER OF SALUTATION (வந்தன முறை)",
+       "count": 5
+      },
+      {
+       "id": "115",
+       "number": "",
+       "title": "115. THE FOOD OF SUDDHA SANMARKKAM (சுத்த சன்மார்க்க ஆகாரம்)",
+       "tamil": "115. THE FOOD OF SUDDHA SANMARKKAM (சுத்த சன்மார்க்க ஆகாரம்)",
+       "count": 5
+      },
+      {
+       "id": "116",
+       "number": "",
+       "title": "116. HOT WATER (வெந்நீர்)",
+       "tamil": "116. HOT WATER (வெந்நீர்)",
+       "count": 3
+      },
+      {
+       "id": "117",
+       "number": "",
+       "title": "117. KARISALANGANNI AND THUTHULAI (கரிசலாங்கண்ணியும் தூதுளையும்)",
+       "tamil": "117. KARISALANGANNI AND THUTHULAI (கரிசலாங்கண்ணியும் தூதுளையும்)",
+       "count": 2
+      },
+      {
+       "id": "118",
+       "number": "",
+       "title": "118. PANCHAGAVYA, THE FIVE PRODUCTS OF THE COW (பஞ்ச கவ்யம்)",
+       "tamil": "118. PANCHAGAVYA, THE FIVE PRODUCTS OF THE COW (பஞ்ச கவ்யம்)",
+       "count": 1
+      },
+      {
+       "id": "119",
+       "number": "",
+       "title": "119. THE FIVE HALLS (பஞ்ச சபை)",
+       "tamil": "119. THE FIVE HALLS (பஞ்ச சபை)",
+       "count": 1
+      },
+      {
+       "id": "120",
+       "number": "",
+       "title": "120. THE FIVE PLACES OF NECTAR (பஞ்ச அமுத ஸ்தானங்கள்)",
+       "tamil": "120. THE FIVE PLACES OF NECTAR (பஞ்ச அமுத ஸ்தானங்கள்)",
+       "count": 2
+      },
+      {
+       "id": "121",
+       "number": "",
+       "title": "121. THE SEVEN SCREENS (ஏழு திரைகள்)",
+       "tamil": "121. THE SEVEN SCREENS (ஏழு திரைகள்)",
+       "count": 2
+      },
+      {
+       "id": "122",
+       "number": "",
+       "title": "122. THE SEVEN KINDS OF ALCHEMY (ரசவாதம் ஏழு.)",
+       "tamil": "122. THE SEVEN KINDS OF ALCHEMY (ரசவாதம் ஏழு.)",
+       "count": 2
+      },
+      {
+       "id": "123",
+       "number": "",
+       "title": "123. THE NINE STATES (நவநிலை)",
+       "tamil": "123. THE NINE STATES (நவநிலை)",
+       "count": 1
+      },
+      {
+       "id": "124",
+       "number": "",
+       "title": "124. THE NINE GEMS (குளிகை மணி ஒன்பது)",
+       "tamil": "124. THE NINE GEMS (குளிகை மணி ஒன்பது)",
+       "count": 2
+      },
+      {
+       "id": "125",
+       "number": "",
+       "title": "125. THE THIRTEEN STATES (திரயோதச நிலைகள்)",
+       "tamil": "125. THE THIRTEEN STATES (திரயோதச நிலைகள்)",
+       "count": 2
+      },
+      {
+       "id": "126",
+       "number": "",
+       "title": "126. THE STATES OF EXPERIENCE IN JNANA YOGA (ஞானயோக அனுபவ நிலைகள்)",
+       "tamil": "126. THE STATES OF EXPERIENCE IN JNANA YOGA (ஞானயோக அனுபவ நிலைகள்)",
+       "count": 2
+      },
+      {
+       "id": "127",
+       "number": "",
+       "title": "127. THE PLACES OF EXPERIENCE IN SUDDHA SANMARKKAM (சுத்த சன்மார்க்க அனுபவ ஸ்தானங்கள்)",
+       "tamil": "127. THE PLACES OF EXPERIENCE IN SUDDHA SANMARKKAM (சுத்த சன்மார்க்க அனுபவ ஸ்தானங்கள்)",
+       "count": 1
+      },
+      {
+       "id": "128",
+       "number": "",
+       "title": "128. THE NATURAL STATE (சகஜ நிலை)",
+       "tamil": "128. THE NATURAL STATE (சகஜ நிலை)",
+       "count": 1
+      },
+      {
+       "id": "129",
+       "number": "",
+       "title": "129. THE UNDYING HEAD, THE UNBURNING AIR, THE WATER THAT DOES NOT FLOW AWAY (சாகாத்தலை, வேகாக்கால், போகாப்புனல்)",
+       "tamil": "129. THE UNDYING HEAD, THE UNBURNING AIR, THE WATER THAT DOES NOT FLOW AWAY (சாகாத்தலை, வேகாக்கால், போகாப்புனல்)",
+       "count": 5
+      },
+      {
+       "id": "130",
+       "number": "",
+       "title": "130. THE THREE KINDS OF SIDDHI (மூவகைச் சித்தி)",
+       "tamil": "130. THE THREE KINDS OF SIDDHI (மூவகைச் சித்தி)",
+       "count": 4
+      },
+      {
+       "id": "131",
+       "number": "",
+       "title": "131. THE PURE BODY AND THE TWO BODIES BEYOND IT (சுத்தமாகி தேகங்கள்)",
+       "tamil": "131. THE PURE BODY AND THE TWO BODIES BEYOND IT (சுத்தமாகி தேகங்கள்)",
+       "count": 2
+      },
+      {
+       "id": "132",
+       "number": "",
+       "title": "132. THE LIFESPAN OF THE GOLDEN-BODIED (சுவர்ண தேகிகள் ஆயுள்)",
+       "tamil": "132. THE LIFESPAN OF THE GOLDEN-BODIED (சுவர்ண தேகிகள் ஆயுள்)",
+       "count": 1
+      },
+      {
+       "id": "133",
+       "number": "",
+       "title": "133. THE EXPERIENCES OF ANU PAKSHA AND SAMBHU PAKSHA (அணுபக்ஷ சம்புபக்ஷ அனுபவ விவரம்)",
+       "tamil": "133. THE EXPERIENCES OF ANU PAKSHA AND SAMBHU PAKSHA (அணுபக்ஷ சம்புபக்ஷ அனுபவ விவரம்)",
+       "count": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jeeva-karunya-ozhukkam",
+   "collection": "Urainaidai Paguthi",
+   "title": "Compassionate Discipline Towards Living Beings",
+   "short": "Compassionate Discipline",
+   "tamilTitle": "ஜீவகாருண்ய ஒழுக்கம்",
+   "romanTitle": "Jeeva Karunya Ozhukkam",
+   "page": "https://sanmarkkamlife.org/jeeva-karunya-ozhukkham/",
+   "edition": "Edition 1.3, November 2026",
+   "passages": 114,
+   "hasIntro": true,
+   "glossary": 88,
+   "toc": [
+    {
+     "id": "1",
+     "title": "Part I",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "The Soul's True Gain Must Be Won in This Birth",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "What the Soul's True Gain Is",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "The Great Life Is Reached by Grace",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "Grace Comes Only Through Jeevakarunyam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "Compassion Is Gained by Compassion",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "Merit and Sin Are Measured by Compassion",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "The Light and Bliss of God in Compassion",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "What the Discipline of Jeevakarunyam Is",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "When the Soul Melts",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "The Ancient Kinship of Souls",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "11",
+       "title": "Why the Hard-hearted Do not See",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "12",
+       "title": "The Soul Alone Suffers",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "13",
+       "title": "The Mind Reflects; the Soul Feels",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "14",
+       "title": "Why Living Beings Suffer",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "15",
+       "number": "15",
+       "title": "The Tenant and the Former Body",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "16",
+       "number": "16",
+       "title": "How Sinful Deeds Follow the Living Being",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "17",
+       "number": "17",
+       "title": "Feeding the Sufferer Accords with God's Decree",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "18",
+       "number": "18",
+       "title": "Compassion Holds This World in Order",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "19",
+       "number": "19",
+       "title": "Compassion Holds the World Beyond in Order",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "20",
+       "number": "20",
+       "title": "Where Hard-heartedness Leads",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "21",
+       "number": "21",
+       "title": "Compassion Is a Ray of Grace",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "22",
+       "number": "22",
+       "title": "The Chief Aim of Jeevakarunyam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "23",
+       "number": "23",
+       "title": "Why Hunger and Murder Come First",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "24",
+       "number": "24",
+       "title": "Why Hunger Is Stressed Again and Again",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "25",
+       "number": "25",
+       "title": "Hunger Outweighs Every Other Suffering",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "26",
+       "number": "26",
+       "title": "Whose Hunger We Must Relieve",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "27",
+       "number": "27",
+       "title": "Food of Destiny and Food of Effort",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "28",
+       "number": "28",
+       "title": "Compassion Toward All Living Beings",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "29",
+       "number": "29",
+       "title": "No Being May Be Killed to Feed Another",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "30",
+       "number": "30",
+       "title": "The False Light of Food Got by Murder",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "31",
+       "number": "31",
+       "title": "How Plant Food Keeps Jeevakarunyam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "32",
+       "number": "32",
+       "title": "Why Seeds Are Inert",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "33",
+       "number": "33",
+       "title": "Why Sprouts Must not Be Plucked",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "34",
+       "number": "34",
+       "title": "No Impurity in Seeds and Fruits",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "35",
+       "number": "35",
+       "title": "Plant Food Is not Contrary to Jeevakarunyam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "36",
+       "number": "36",
+       "title": "Flesh-eating Is Habit, not Nature",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "37",
+       "number": "37",
+       "title": "Never Murder One Being to Feed Another",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "38",
+       "number": "38",
+       "title": "The Two Kinds of Bliss",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "39",
+       "number": "39",
+       "title": "Lower Bliss: Relieving Want",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "40",
+       "number": "40",
+       "title": "The Question of Envy",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "41",
+       "number": "41",
+       "title": "Higher Bliss: Relieving Hunger",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "42",
+       "number": "42",
+       "title": "No One Can Endure Hunger",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "43",
+       "number": "43",
+       "title": "What Hunger Does to a Living Being",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "44",
+       "number": "44",
+       "title": "The Merit of Relieving Hunger",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "45",
+       "number": "45",
+       "title": "Hunger, an Instrument of God",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "46",
+       "number": "46",
+       "title": "Food, a Portion of Grace",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "47",
+       "number": "47",
+       "title": "This Is Jeevakarunyam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "48",
+       "number": "48",
+       "title": "The Key to the House of Liberation",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "49",
+       "number": "49",
+       "title": "Without the Key, Every Path Turns Back",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "50",
+       "number": "50",
+       "title": "The Householder Fit for Grace",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "51",
+       "number": "51",
+       "title": "Each According to Means",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "52",
+       "number": "52",
+       "title": "Feeding the Hungry at Weddings, and as Medicine",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "53",
+       "number": "53",
+       "title": "The Vow That Answers Every Grief",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "54",
+       "number": "54",
+       "title": "The Protection of the Compassionate Household",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "55",
+       "number": "55",
+       "title": "God's Command to All",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "56",
+       "number": "56",
+       "title": "Let No One Stop You",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "57",
+       "number": "57",
+       "title": "The Giver as Yogi, Jñāni and Liberated One",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "58",
+       "number": "58",
+       "title": "Worthy of the Reverence of All",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "59",
+       "number": "59",
+       "title": "The Samarasa Veda",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "title": "Part II",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "60",
+       "title": "The Aim of Human Birth",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "61",
+       "title": "Three Kinds of the Soul's Bliss",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "62",
+       "title": "The Bliss of This Life",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "63",
+       "title": "The Gain of the Bliss of This Life",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "64",
+       "title": "The Bliss of the Life Hereafter",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "65",
+       "title": "The Gain of the Bliss of the Life Hereafter",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "66",
+       "title": "Supreme Bliss",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "67",
+       "title": "The Gain of Supreme Bliss",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "68",
+       "title": "The Greatness of Those with the Bliss of This Life",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "69",
+       "title": "The Greatness of Those with the Gain of the Life Hereafter",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "70",
+       "title": "The Greatness of Those Who Gain Supreme Bliss",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "71",
+       "title": "The Means to the Three Kinds of Bliss",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "72",
+       "title": "A Portion of Grace and the Fullness of Grace",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "73",
+       "title": "The Nature of Grace",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "15",
+       "number": "74",
+       "title": "Where Grace Shines",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "16",
+       "number": "75",
+       "title": "Grace Is Gained by Jeevakarunyam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "17",
+       "number": "76",
+       "title": "The Small Fire and the Great Fire",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "18",
+       "number": "77",
+       "title": "Merit Is Jeevakarunyam Alone",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "19",
+       "number": "78",
+       "title": "The Defining Mark of Jeevakarunyam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "20",
+       "number": "79",
+       "title": "How the Melting of the Soul Worships God",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "21",
+       "number": "80",
+       "title": "Butter in the Curd, Fire in the Wood",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "22",
+       "number": "81",
+       "title": "Grace Known as Bliss",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "23",
+       "number": "82",
+       "title": "When the Melting of the Soul Arises",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "24",
+       "number": "83",
+       "title": "What Each Affliction Is",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "25",
+       "number": "84",
+       "title": "The Order of the Obstacles",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "26",
+       "number": "85",
+       "title": "The Power of Jeevakarunyam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "27",
+       "number": "86",
+       "title": "The Fruit of Jeevakarunyam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "28",
+       "number": "87",
+       "title": "Promise of the Third Part",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "3",
+     "title": "Part III",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "88",
+       "title": "The Kinship of Souls",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "89",
+       "title": "Why the Hard-hearted Lack Compassion",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "90",
+       "title": "Where Compassion Finds Its Strength",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "91",
+       "title": "The Soul Is the One Who Suffers",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "92",
+       "title": "Spectacles and the Crystal House",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "93",
+       "title": "The Lamp in the House",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "94",
+       "title": "Pleasure and Pain Belong to the Soul",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "95",
+       "title": "Why Many Living Beings Suffer",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "96",
+       "title": "The Tenant and the Rent of Food",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "97",
+       "title": "The Materialist Denial",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "98",
+       "title": "Why Bodies Differ",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "99",
+       "title": "The Soul Is Never Made or Destroyed",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "100",
+       "title": "The Twins",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "101",
+       "title": "Dreams and Yogic Power",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "15",
+       "number": "102",
+       "title": "The Egg and the Wasp",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "16",
+       "number": "103",
+       "title": "Many Bodies in One Birth",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "17",
+       "number": "104",
+       "title": "Changes of Body Within One Life",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "18",
+       "number": "105",
+       "title": "The Same Is True at Death",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "19",
+       "number": "106",
+       "title": "Why the Former Life Is Forgotten",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "20",
+       "number": "107",
+       "title": "Deeds Follow the Doer",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "21",
+       "number": "108",
+       "title": "Feeding the Sufferer Pleases God",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "22",
+       "number": "109",
+       "title": "No Order without Jeevakarunyam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "23",
+       "number": "110",
+       "title": "Where Compassion Is Scarce",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "24",
+       "number": "111",
+       "title": "Means to Grace and Portion of Grace",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "25",
+       "number": "112",
+       "title": "The Aim of Jeevakarunyam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "26",
+       "number": "113",
+       "title": "Why Relieving Hunger and Murder Is the Foremost Compassion",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "27",
+       "number": "114",
+       "title": "The Higher and the Lower Jeevakarunyam",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vyakhyanangal",
+   "collection": "Urainaidai Paguthi",
+   "title": "The Major Philosophical Commentaries of Vallalar",
+   "short": "Major Commentaries",
+   "tamilTitle": "முதன்மைத் தத்துவ வியாக்கியானங்கள்",
+   "romanTitle": "Vyakhyanangal",
+   "page": "https://sanmarkkamlife.org/vyakhyanangal/",
+   "edition": "Edition 1.0, October 2026",
+   "passages": 141,
+   "hasIntro": true,
+   "glossary": 304,
+   "toc": [
+    {
+     "id": "1",
+     "title": "The Commentary on the Preface Verse of the Ozhivilodukkam",
+     "tamil": "ஒழிவிலொடுக்கப் பாயிரவிருத்தி",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "The Preface Verse",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "What the Verse Intends",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "The Meaning of the Verse",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "Why He Is Called Vallal",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "The King of Gurus",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "The Guru of Siva and Agastya",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "Master of Both Learnings",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "The Letters of Gururayan",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "The Debates Sambandar Won",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "Victories Over Birth, Sickness and Poison",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "11",
+       "title": "The Name Sambandan",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "12",
+       "title": "The Bountiful Feet",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "13",
+       "title": "The Flower-feet",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "14",
+       "title": "Placed on the Head",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "15",
+       "number": "15",
+       "title": "Having Discerned",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "16",
+       "number": "16",
+       "title": "Where the Mind Has Ceased",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "17",
+       "number": "17",
+       "title": "The Honey That Rises Unceasingly",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "18",
+       "number": "18",
+       "title": "All Who Love May Taste It",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "19",
+       "number": "19",
+       "title": "The Book He Spoke",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "20",
+       "number": "20",
+       "title": "The Order of the Words",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "21",
+       "number": "21",
+       "title": "The Theme of Nobility",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "22",
+       "number": "22",
+       "title": "What the Metre Shows",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "23",
+       "number": "23",
+       "title": "What the Feet and Lines Show",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "24",
+       "number": "24",
+       "title": "The Eight Parts of a Special Preface",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "25",
+       "number": "25",
+       "title": "The Colophon",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "26",
+       "number": "26",
+       "title": "Appendix: Plain Meanings for Obscure Words",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "27",
+       "number": "27",
+       "title": "Plain Meanings for Obscure Words, Continued",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "28",
+       "number": "28",
+       "title": "Footnotes",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "29",
+       "number": "29",
+       "title": "Corrections",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "title": "The Meaning of the True Word “Ulagelam”",
+     "tamil": "“உலகெலாம்” என்னும் மெய்ம்மொழிப் பொருள் விளக்கம்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "The True Word Ulagelam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "Why It Is Called the Explanation of the True Word",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "The Grades of Speech",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "A Word from the Chit Sabhai",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "True in Two Senses",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "The Expressed and the Aimed-at True Word",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "The Witness of the Periya Puranam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "Not a Matter of Lower Speech",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "The Range of the Explanation",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "The Whole Line Is God's Word",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "11",
+       "title": "Why God Spoke the Whole Line",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "12",
+       "title": "Why Outside and Within",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "13",
+       "title": "The Proof by Inference",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "14",
+       "title": "The Vedas Are No Authority Here",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "15",
+       "number": "15",
+       "title": "The Agamas",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "16",
+       "number": "16",
+       "title": "The Word of Isvara and the Word of Para-siva",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "17",
+       "number": "17",
+       "title": "The Words of the Siva-jnanis",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "18",
+       "number": "18",
+       "title": "The Author's Humility",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "19",
+       "number": "19",
+       "title": "End of Part One",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "20",
+       "number": "20",
+       "title": "The Opening Verse of the Periya Puranam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "21",
+       "number": "21",
+       "title": "Ulagelam, the First True Word",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "22",
+       "number": "22",
+       "title": "The Tattva Worlds: The Elements",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "23",
+       "number": "23",
+       "title": "The Tattva Worlds: The Phases of the Elements",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "24",
+       "number": "24",
+       "title": "The Tattva Worlds: The Five Elements One by One",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "25",
+       "number": "25",
+       "title": "The Tattva Worlds: The Aspects of the Elements and the Phases of Earth",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "26",
+       "number": "26",
+       "title": "The Tattva Worlds: The Phases of Water and Fire",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "27",
+       "number": "27",
+       "title": "The Tattva Worlds: The Phases of Air and Space",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "28",
+       "number": "28",
+       "title": "The Tattva Worlds: Element Within Element",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "29",
+       "number": "29",
+       "title": "The Tattva Worlds: The Subtle Elements",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "30",
+       "number": "30",
+       "title": "The Tattva Worlds: The Phases of the Subtle Elements",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "31",
+       "number": "31",
+       "title": "The Tattva Worlds: The Organs of Knowledge",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "32",
+       "number": "32",
+       "title": "The Tattva Worlds: The Phases of the Organs of Knowledge",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "33",
+       "number": "33",
+       "title": "The Tattva Worlds: The Five Senses",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "34",
+       "number": "34",
+       "title": "The Tattva Worlds: The Phases of the Five Senses",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "35",
+       "number": "35",
+       "title": "The Tattva Worlds: The Objects of the Organs of Knowledge",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "36",
+       "number": "36",
+       "title": "The Tattva Worlds: Sound, Touch, Visible Form, Taste and Smell",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "37",
+       "number": "37",
+       "title": "The Tattva Worlds: The Phases of the Five Objects",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "38",
+       "number": "38",
+       "title": "The Tattva Worlds: The Organs of Action",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "39",
+       "number": "39",
+       "title": "The Tattva Worlds: The Organs of Action One by One",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "40",
+       "number": "40",
+       "title": "The Tattva Worlds: The Inner Instrument",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "41",
+       "number": "41",
+       "title": "The Tattva Worlds: The Mind",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "42",
+       "number": "42",
+       "title": "The Tattva Worlds: The Sense of \"I\"",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "43",
+       "number": "43",
+       "title": "The Tattva Worlds: The Intellect",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "44",
+       "number": "44",
+       "title": "The Tattva Worlds: Cittam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "45",
+       "number": "45",
+       "title": "The Tattva Worlds: Root Maya",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "46",
+       "number": "46",
+       "title": "The Tattva Worlds: The Gunas",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "47",
+       "number": "47",
+       "title": "The Tattva Worlds: The Outer Instruments",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "48",
+       "number": "48",
+       "title": "The Tattva Worlds: Time",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "49",
+       "number": "49",
+       "title": "The Tattva Worlds: Niyati",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "50",
+       "number": "50",
+       "title": "The Tattva Worlds: Kalā",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "51",
+       "number": "51",
+       "title": "The Tattva Worlds: Vidya",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "52",
+       "number": "52",
+       "title": "The Tattva Worlds: Raga",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "53",
+       "number": "53",
+       "title": "The Tattva Worlds: Purusha",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "54",
+       "number": "54",
+       "title": "The Tattva Worlds: Pure-impure Maya",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "55",
+       "number": "55",
+       "title": "The Tattva Worlds: Karma",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "56",
+       "number": "56",
+       "title": "The Tattva Worlds: Pure Vidya",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "57",
+       "number": "57",
+       "title": "The Tattva Worlds: Isvara",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "58",
+       "number": "58",
+       "title": "The Tattva Worlds: Sadakhya",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "59",
+       "number": "59",
+       "title": "The Tattva Worlds: Bindu",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "60",
+       "number": "60",
+       "title": "The Tattva Worlds: Nada",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "61",
+       "number": "61",
+       "title": "The Tattva Worlds: Pure Maya, the Named Powers and the Levels of Speech",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "62",
+       "number": "62",
+       "title": "The Tattva Worlds: The Letters, Words, Mantras and Bhuvanas",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "63",
+       "number": "63",
+       "title": "The Tattva Worlds: Kudilai",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "64",
+       "number": "64",
+       "title": "The Tattva Worlds: Anava",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "65",
+       "number": "65",
+       "title": "The Tattva Worlds: Tirodhai",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "66",
+       "number": "66",
+       "title": "The Tattva Worlds: The Soul's Power of Consciousness",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "67",
+       "number": "67",
+       "title": "The Tattva Worlds: The Power of Desire",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "68",
+       "number": "68",
+       "title": "The Tattva Worlds: The Power of Knowledge",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "69",
+       "number": "69",
+       "title": "The Tattva Worlds: The Power of Action",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "70",
+       "number": "70",
+       "title": "The Tattva Worlds: The Power of Consciousness",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "71",
+       "number": "71",
+       "title": "The Tattva Worlds: The Supreme Power",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "72",
+       "number": "72",
+       "title": "The Tattva Worlds: The Supreme Siva and the Supreme Nada",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "73",
+       "number": "73",
+       "title": "The Tattvic Worlds: The Worlds of Brahma and Indra",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "74",
+       "number": "74",
+       "title": "The Tattvic Worlds: The Liberations of the Mind, Body and Elements",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "75",
+       "number": "75",
+       "title": "The Tattvic Worlds: The Worlds of Vishnu and the Liberations by Destruction",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "76",
+       "number": "76",
+       "title": "The Tattvic Worlds: The Liberations Held by the Schools",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "77",
+       "number": "77",
+       "title": "The Tattvic Worlds: The Liberations by Planets, Elixir, Mantra and the Gods",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "78",
+       "number": "78",
+       "title": "The Liberation Worlds of the Primal, Eternal Impellers: Rudra to Nada",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "79",
+       "number": "79",
+       "title": "The Liberation Worlds of the Primal, Eternal Impellers: Nada in the Five Functions",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "80",
+       "number": "80",
+       "title": "The Liberation Worlds of the Primal, Eternal Impellers: The Lords of the Pranava",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "81",
+       "number": "81",
+       "title": "The Liberation Worlds of the Primal, Eternal Impellers: The Five Powers in Conjunction",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "82",
+       "number": "82",
+       "title": "The Liberation Worlds of the Primal, Eternal Impellers: The Powers in Conjunction with Prakriti",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "83",
+       "number": "83",
+       "title": "The Liberation Worlds of the Primal, Eternal Impellers: The Powers in Conjunction with Mohini",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "84",
+       "number": "84",
+       "title": "The Liberation Worlds of the Primal, Eternal Impellers: The Powers in Conjunction with Bindu",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "85",
+       "number": "85",
+       "title": "The Liberation Worlds of the Primal, Eternal Impellers: The Four Ways in Impure and Pure-impure Maya",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "86",
+       "number": "86",
+       "title": "The Liberation Worlds of the Primal, Eternal Impellers: The Four Ways in Kudilai",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "87",
+       "number": "87",
+       "title": "The Liberation Worlds of the Primal, Eternal Impellers: The Four Ways in Bindu",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "88",
+       "number": "88",
+       "title": "The Liberation Worlds of the Primal, Eternal Impellers: The Four Ways in the Lord's Powers",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "89",
+       "number": "89",
+       "title": "The Worlds of Means and Attainment: The Sixteen Stages",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "90",
+       "number": "90",
+       "title": "The Worlds of Means and Attainment: Yoga in Its Limb of Posture",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "91",
+       "number": "91",
+       "title": "The Worlds of Means and Attainment: Breath Control, Withdrawal, Concentration and Meditation",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "92",
+       "number": "92",
+       "title": "The Worlds of Means and Attainment: Absorption and the Stages of Yoga",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "93",
+       "number": "93",
+       "title": "The Worlds of Means and Attainment: Further Liberations by Yoga",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "94",
+       "number": "94",
+       "title": "The Worlds of Means and Attainment: The Saiva Liberations",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "95",
+       "number": "95",
+       "title": "The Worlds of Means and Attainment: The Siddhanta Liberations",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "96",
+       "number": "96",
+       "title": "The Worlds of Means and Attainment: The States in Liberation and Bondage",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "97",
+       "number": "97",
+       "title": "The Worlds of Means and Attainment: The Soul's Particular Powers",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "98",
+       "number": "98",
+       "title": "The Worlds Beyond the Causal: From the Elements to the Pure-impure Tattvas",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "99",
+       "number": "99",
+       "title": "The Worlds Beyond the Causal: The Pure Tattvas and the Paths",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "100",
+       "number": "100",
+       "title": "The Worlds Beyond the Causal: The Lower Powers, the Bonds and the States",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "101",
+       "number": "101",
+       "title": "The Worlds Beyond the Causal: The Supreme Powers, the Soul and the Supreme Siva",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "102",
+       "number": "102",
+       "title": "The Worlds Beyond the Causal: The Final Experiences, and the Close",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "3",
+     "title": "The Commentary on the Word “Tamil”",
+     "tamil": "“தமிழ்” என்னும் சொல்லுக்கிட்ட உரை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "The Commentary on the Word Tamil",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "The Five Units of the Word",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "The Vowels a and I",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "The Three Consonants",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "Tamil, the Father Language",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "T and A: The Form of Siva and Arut Perum Jothi",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "M and I: The Support and the Soul",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "The Letter Zh",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "The Summary",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "The Meaning: Tamil Gives the Experience of Pure Sivam",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "siru-vyakhyanangal",
+   "collection": "Urainaidai Paguthi",
+   "title": "Classical Expositions and Minor Commentaries of Vallalar",
+   "short": "Minor Commentaries",
+   "tamilTitle": "சிறு வியாக்கியானங்கள்",
+   "romanTitle": "Siru Vyakhyanangal",
+   "page": "https://sanmarkkamlife.org/siru-vyakhyanangal/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 72,
+   "hasIntro": true,
+   "glossary": 135,
+   "toc": [
+    {
+     "id": "1",
+     "title": "The Name of the Thondamandala Sathakam",
+     "tamil": "தொண்டமண்டல சதகம்: நூற்பெயர் இலக்கணம்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "Thondamandala Sathakam: The Grammar of the Title",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "The Title as One Phrase",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "What Kind of Word Each Is",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "Three Ways to Read the Title",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "How the Land Got Its Name",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "Another Story of the Name",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "Objection: How Can Leaves Give a Man His Name?",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "Objection: Why not Athondan-mandalam?",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "What Kind of Name This Is",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "Objection: The Short Name Hides Its Reason",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "11",
+       "title": "Objection: Only Poetry Needs Such Care",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "12",
+       "title": "Objection: Show How the Name Athondan Was Built",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "13",
+       "title": "A Second Way, by Tholkappiyam's Rule",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "14",
+       "title": "How Athondan Joins Mandalam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "15",
+       "number": "15",
+       "title": "Why Both Ends Were Dropped",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "16",
+       "number": "16",
+       "title": "Place-names Formed the Same Way",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "17",
+       "number": "17",
+       "title": "The Name That Fits Every Rule",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "18",
+       "number": "18",
+       "title": "Objection: Some Say Thondai-mandalam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "19",
+       "number": "19",
+       "title": "Their View: The King of the Thondai Garland",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "20",
+       "number": "20",
+       "title": "Refuted: A Land of Thickets",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "21",
+       "number": "21",
+       "title": "The Line of Rulers",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "22",
+       "number": "22",
+       "title": "Witnesses in the Poets",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "23",
+       "number": "23",
+       "title": "The Contradictions in Thondai-mandalam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "24",
+       "number": "24",
+       "title": "Their View: Thondaiyan Lost Its Suffix, as Pandiyan Did",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "25",
+       "number": "25",
+       "title": "Refuted: Pandi Points to One Thing, Thondai to Many",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "26",
+       "number": "26",
+       "title": "Their View: Thondai Is a Metonym for the King",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "27",
+       "number": "27",
+       "title": "Refuted: An Incidental Name Cannot Stand for a Man",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "28",
+       "number": "28",
+       "title": "Their View: A Suffix -ai Made a Special Name",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "29",
+       "number": "29",
+       "title": "Refuted: No Mark, No Rule, and a Clash with Chola-mandalam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "30",
+       "number": "30",
+       "title": "A Word of Many Meanings Cannot Make a Name",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "31",
+       "number": "31",
+       "title": "Their View: Athondaiyan Lost Its First and Last",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "32",
+       "number": "32",
+       "title": "Refuted: Athondaiyan Is a Stretched and Flat Form",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "33",
+       "number": "33",
+       "title": "Their View: Why not Athondai-chakravarti?",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "34",
+       "number": "34",
+       "title": "Refuted: The Name and the Title Came at Different Times",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "35",
+       "number": "35",
+       "title": "Their View: A Land of Thondai Forests",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "36",
+       "number": "36",
+       "title": "Refuted: No Source, and No One Talks That Way",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "37",
+       "number": "37",
+       "title": "Their View: A King Called Thondaiman, and the Short Reply",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "38",
+       "number": "38",
+       "title": "Thondaiman Itself Is an Error: Stem, Infix, Ending",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "39",
+       "number": "39",
+       "title": "Refuted: The M Is No Infix",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "40",
+       "number": "40",
+       "title": "Koman and Thondaman: The Right Derivation",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "41",
+       "number": "41",
+       "title": "A List of Errors",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "42",
+       "number": "42",
+       "title": "The Measure of the Sounds",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "43",
+       "number": "43",
+       "title": "What One Must Know to See the Name",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "44",
+       "number": "44",
+       "title": "The Stone Inscriptions",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "45",
+       "number": "45",
+       "title": "Why This Was Written",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "46",
+       "number": "46",
+       "title": "Here Ends the Name of the Book",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "title": "The Invocation of the Thondamandala Sathakam",
+     "tamil": "தொண்டமண்டல சதகம்: வழிபடு கடவுள் வணக்கப் பாட்டுரை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "Commentary on the Invocation Verse",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "The Invocation Verse",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "What the Verse Sets Out to Show",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "The Open Word and the Hint",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "First Reading: Like the Rain-cloud",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "Second Reading: Like Indra",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "Third Reading: Like Vishnu",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "The Grammar of the Comparison",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "The Word Kondal",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "The Word Velankudi",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "11",
+       "title": "End of the Commentary",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "3",
+     "title": "Verse 22 of the Pon Vanna Anthathi",
+     "tamil": "பொன்வண்ணத் தந்தாதி 22-ம் செய்யுள் உரை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "Commentary on Verse 22 of the Pon Vanna Anthathi",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "Thiru Chitrambalam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "The Metre",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "The Verse",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "Commentary",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "The Words Explained",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "The Friend's Counsel",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "Who Speaks to Whom",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "4",
+     "title": "A Kural of Vedanta Desikar",
+     "tamil": "வேதாந்த தேசிகர் குறட்பா ஒன்றன் உரை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "Commentary on a Kural of Vedanta Desikar",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "The Verse",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "Commentary",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "First Reading: The Puranic Vaishnava View",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "Second Reading: Advaita",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "Third Reading: Sivadvaita",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "Fourth Reading: Visishtadvaita",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "thirumugangal",
+   "collection": "Urainaidai Paguthi",
+   "title": "The Sacred Letters of Vallalar",
+   "short": "The Sacred Letters",
+   "tamilTitle": "திருமுகங்கள்",
+   "romanTitle": "Thirumugangal",
+   "page": "https://sanmarkkamlife.org/thirumugangal/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 63,
+   "hasIntro": true,
+   "glossary": 110,
+   "toc": [
+    {
+     "id": "1",
+     "title": "Part I",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "The Eagerness of Friendship",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "The Nature of the Householder",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "Teaching on the Five Letters",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "The Virtue of Grace",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "Worldly Life That Never Lets Go of the Thought of God",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "A Thousand Rich Men Could Be Mastered in Half a Minute",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "The Company of the Holy",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "Love Without Difference",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "Want of Calm",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "The Binding Vow",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "11",
+       "title": "Chidambaram in These Times",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "12",
+       "title": "Brahmin Friendship, Like Milk and Water",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "13",
+       "title": "The Measure in Eating and in Union",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "14",
+       "title": "Meditation on Siva's Five Letters",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "15",
+       "number": "15",
+       "title": "Writing Without Holding Back",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "16",
+       "number": "16",
+       "title": "Staying Alone",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "17",
+       "number": "17",
+       "title": "Staying in Many Places",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "18",
+       "number": "18",
+       "title": "Staying at Cuddalore",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "19",
+       "number": "19",
+       "title": "Relief from Pressing Troubles",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "20",
+       "number": "20",
+       "title": "A Stirring of the Heart",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "21",
+       "number": "21",
+       "title": "Travelling with Fanfare",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "22",
+       "number": "22",
+       "title": "What Comes Even to Hari, Brahma and the Other Gods",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "23",
+       "number": "23",
+       "title": "No Danger for Those Who Say Sivayanama",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "24",
+       "number": "24",
+       "title": "Attaining the Enjoyment of Siva's Bliss",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "25",
+       "number": "25",
+       "title": "The Excellence of the South",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "26",
+       "number": "26",
+       "title": "Old Rice Before a Man Who Is Not Hungry",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "27",
+       "number": "27",
+       "title": "What the Lord Within Made Him Sing",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "28",
+       "number": "28",
+       "title": "The Printing of Thiru Arutpa",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "29",
+       "number": "29",
+       "title": "A Name Close to Fanfare",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "30",
+       "number": "30",
+       "title": "Relieving the Hunger of the Hungry Is the Greatest Deed",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "31",
+       "number": "31",
+       "title": "The Affairs of Many People",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "32",
+       "number": "32",
+       "title": "Unsettled Times",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "33",
+       "number": "33",
+       "title": "The Elder Attains the Abode of Siva",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "34",
+       "number": "34",
+       "title": "Thillai of the Sky-Reaching Groves",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "35",
+       "number": "35",
+       "title": "The Works that Remained",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "36",
+       "number": "36",
+       "title": "The Yield of Gold",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "37",
+       "number": "37",
+       "title": "Thirunavalur",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "38",
+       "number": "38",
+       "title": "Distaste for Worldly Pleasure",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "title": "Part II",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "What Is Money to This Dog?",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "The Will of Lord Nataraja",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "Unceasing Thought of Siva",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "Avvaiyar's Sacred Word Is Truth",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "No Peace",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "The Prefaces",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "Thiru Chitrambalam",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "3",
+     "title": "Part III",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "One Who Longs for the Knowledge of Siva",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "The Anahata among the Six Adharas",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "The Festival of Siva-Merit",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "The Fine Subtlety of Grammar",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "The Power of Divine Grace",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "4",
+     "title": "Part IV",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "Our Love",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "Wholly Meditation",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "The Lord's Intention",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "Ripeness of the Body and Meditation on Siva",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "Blessing",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "The Holy Feet Our Support",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "7",
+       "title": "The Good Way",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "8",
+       "title": "A Firm Body and Meditation",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "9",
+       "title": "Liberation and the Discipline of the Body",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "10",
+       "title": "Care",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "11",
+       "title": "The Rising of the Vital Seed",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "12",
+       "title": "The Overflowing of Siva-Bliss",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "13",
+       "title": "The Ten Acts",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "azhaippugal",
+   "collection": "Urainaidai Paguthi",
+   "title": "Invitations, Announcements and Sacred Directives",
+   "short": "Invitations and Directives",
+   "tamilTitle": "அழைப்புகள், அறிவிப்புகள், கட்டளைகள்",
+   "romanTitle": "Azhaippugal, Arivippugal, Kattalaigal",
+   "page": "https://sanmarkkamlife.org/azhaippugal-arivippugal-kattalaigal/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 71,
+   "hasIntro": true,
+   "glossary": 66,
+   "toc": [
+    {
+     "id": "1",
+     "title": "Invitation to the Opening of the Salai",
+     "tamil": "சாலைத் தொடக்கவிழா அழைப்பு",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "First Form: Greeting to the Swami",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "The Day and the Place",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "3",
+       "title": "A Request to Come and Bless",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "4",
+       "title": "Second Form: Greeting",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "5",
+       "title": "The Day and the Place",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "6",
+       "title": "Come with Your Whole Family",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "7",
+       "title": "Date and Signature",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "title": "The Salai Notice",
+     "tamil": "சாலை விளம்பரம்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "Date and Opening Marks",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "A Notice on the Conduct of Compassion",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "3",
+       "title": "The Benefit of Human Birth",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "4",
+       "title": "What That Benefit Is",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "5",
+       "title": "By Grace Alone",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "6",
+       "title": "Grace Comes by Compassion Alone",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "7",
+       "title": "The Chief Aim: Relieving Hunger",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "8",
+       "title": "The Salai and a Request for Help",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "9",
+       "title": "What Hunger Does",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "10",
+       "title": "When Hunger Is Relieved",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "11",
+       "title": "Signature",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "3",
+     "title": "The Branch Salais",
+     "tamil": "கிளைச் சாலைகள்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "The Branch Houses",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "4",
+     "title": "The Sanmarga Viveka Viruththi Journal",
+     "tamil": "சன்மார்க்க விவேக விருத்தி",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "Date and Title",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "Greeting",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "3",
+       "title": "An Appeal for a Monthly Journal",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "4",
+       "title": "Signature",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "5",
+       "title": "List of Subscribers",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "5",
+     "title": "The Sanmarga Bodhini School",
+     "tamil": "சன்மார்க்க போதினி",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "A School for All Ages",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "Place and Date",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "3",
+       "title": "The Languages and the Teachers",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "6",
+     "title": "The Time When the Sanmarga Sangam Will Shine",
+     "tamil": "சன்மார்க்க சங்கம் விளங்கும் காலம்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "Keep This to Yourself",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "The Dead Will Rise into the Sangam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "3",
+       "title": "Date and Place",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "7",
+     "title": "The Salai Command to the Devotees",
+     "tamil": "அன்பர்களுக்கு இட்ட சாலைக் கட்டளை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "Date and Greeting",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "I Will Soon Come Forth",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "8",
+     "title": "The Burial Command to Those Bound to the Salai",
+     "tamil": "சாலை சம்பந்திகளுக்கு இட்ட சமாதிக் கட்டளை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "Date and Opening Marks",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "To Those Who Belong to the Salai",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "3",
+       "title": "Bury the Dead and Do not Mourn",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "4",
+       "title": "Even Those without Faith Will Be Raised",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "5",
+       "title": "Date and Signature",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "9",
+     "title": "The Coming of the Great Lord of Sanmarkkam",
+     "tamil": "சன்மார்க்கப் பெரும்பதி வருகை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "Date and Address",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "The One Path and the Lord Who Is Coming",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "3",
+       "title": "Date",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "10",
+     "title": "The Samarasa Veda School",
+     "tamil": "சமரச வேத பாடசாலை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "The School",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "Who May Study",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "3",
+       "title": "Help for Students, and the Hours",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "4",
+       "title": "Close and Date",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "11",
+     "title": "The Sabhai Notice",
+     "tamil": "சபை விளம்பரம்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "To Friends Who Have a Human Body",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "What He Is Receiving",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "3",
+       "title": "Why He Makes It Known",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "4",
+       "title": "The One True God",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "5",
+       "title": "Why Souls Are Lost",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "6",
+       "title": "The Gnana Sabhai and God's Word",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "7",
+       "title": "What Those Who Come Will See",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "8",
+       "title": "Signature",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "12",
+     "title": "The Command on Conduct to Those at the Salai",
+     "tamil": "சாலையி லுள்ளார்க்கு இட்ட ஒழுக்கக் கட்டளை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "To Appasami Chettiar",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "A Warning to the Salai",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "3",
+       "title": "Date",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "13",
+     "title": "The Sanmarkkam Prayer",
+     "tamil": "சன்மார்க்கப் பிரார்த்தனை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "To the Lord of the Sangam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "The Offering of Self-will",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "3",
+       "title": "Signature",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "14",
+     "title": "The Rule of Worship at the Sabhai",
+     "tamil": "சபை வழிபாட்டு விதி",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "On the Gnana Sabhai",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "The New Names",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "3",
+       "title": "The Lamp and the Care of the Sabhai",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "4",
+       "title": "Close and Signature",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "15",
+     "title": "The Rule of Conduct for Members of the Sangam",
+     "tamil": "சன்மார்க்க சங்கத்தார் பழக்க விதி",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "A Paper of Warning",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "Living Together without Quarrels",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "3",
+       "title": "Signature",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "16",
+     "title": "The Siddhi Valagam Notice",
+     "tamil": "சித்திவளாக விளம்பரம்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "A Notice to the World",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "2",
+       "title": "To Those Who Come to the Siddhi Valagam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "3",
+       "title": "Do not Believe the Rumor",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "4",
+       "title": "Signature",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "17",
+     "title": "The Rule of Worship at the Siddhi Valagam",
+     "tamil": "சித்திவளாக வழிபாட்டு விதி",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "The Lamp Placed Outside",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "18",
+     "title": "The Final Command to the Members of the Sangam",
+     "tamil": "சன்மார்க்க சங்கத்தார்க்கு இட்ட இறுதிக் கட்டளை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "tamil": "",
+       "count": 0
+      },
+      {
+       "id": "2",
+       "number": "1",
+       "title": "The Last Words",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "",
+       "title": "A Note on the Flag",
+       "tamil": "",
+       "count": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "maruthuva",
+   "collection": "Urainaidai Paguthi",
+   "title": "The Medical and Herbal Writings of Vallalar",
+   "short": "Medical and Herbal Writings",
+   "tamilTitle": "மருத்துவப் பகுதி",
+   "romanTitle": "Maruthuva Paguthi",
+   "page": "https://sanmarkkamlife.org/maruthuva-kurippugal/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 11,
+   "hasIntro": true,
+   "glossary": 39,
+   "toc": [
+    {
+     "id": "1",
+     "title": "The Table of Herb Properties",
+     "tamil": "மூலிகை குண அட்டவணை",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "A Word of Care",
+       "tamil": "",
+       "count": 0
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "title": "The Life-giving Herbs",
+     "tamil": "சஞ்சீவி மூலிகைகள்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "Black Nayuruvi",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "The Cooling Kolli",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "Theeppoodu",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "Muthuppoondu",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "Black Kanthal",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "3",
+     "title": "The Medical Notes",
+     "tamil": "மருத்துவக் குறிப்புகள்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "For Cough",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "For Weakness, Wheezing and Loss of Semen",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "3",
+       "title": "For Colds, Vata and Pitta, Constipation and Colic",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "4",
+       "title": "For Strength of Body",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "5",
+       "title": "Pancha Karpam",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "6",
+       "title": "The Neelakanta Mani Pill",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "manu-murai",
+   "collection": "Urainaidai Paguthi",
+   "title": "The Justice of King Manu",
+   "short": "The Justice of King Manu",
+   "tamilTitle": "மனுமுறை கண்ட வாசகம்",
+   "romanTitle": "Manu Murai Kanda Vasagam",
+   "page": "https://sanmarkkamlife.org/manu-murai-kanda-vasagam/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 63,
+   "hasIntro": true,
+   "glossary": 106,
+   "toc": [
+    {
+     "id": "1",
+     "title": "Part I",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "1",
+       "title": "Invocation",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "2",
+       "title": "A Second Invocation",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "title": "Part II",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "3",
+       "title": "The Chola Land, Thiruvarur and King Manu",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "4",
+       "title": "Peace Among All Living Beings",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "5",
+       "title": "Where Only Flowers Were Plucked",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "3",
+     "title": "Part III",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "6",
+       "title": "The King Prays for a Son",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "7",
+       "title": "The Birth of the Prince",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "8",
+       "title": "The King's Joy",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "9",
+       "title": "The Prince Grows in Learning and Virtue",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "10",
+       "title": "The Prince's Wish",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "11",
+       "title": "The King's Consent",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "12",
+       "title": "The Mother's Blessing",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "4",
+     "title": "Part IV",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "13",
+       "title": "The Procession",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "14",
+       "title": "The Women of the Street",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "15",
+       "title": "The Men of the Street",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "16",
+       "title": "The Calf Under the Wheel",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "17",
+       "title": "The Prince's Lament",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "18",
+       "title": "The Counsel of the Brahmins and Ministers",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "19",
+       "title": "The Prince Remembers Sibi",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "20",
+       "title": "\"It Was the Calf's Fate\"",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "21",
+       "title": "The Prince Turns Back",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "5",
+     "title": "Part V",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "22",
+       "title": "The Mother Cow's Grief",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "23",
+       "title": "The Bell of Justice Rings",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "24",
+       "title": "The King's Heartbreak",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "25",
+       "title": "A King Who Cannot Restore a Life",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "26",
+       "title": "A Father's Pride in the Dust",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "6",
+     "title": "Part VI",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "27",
+       "title": "The King's Lament for His Son",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "28",
+       "title": "What Sin Have I Done?",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "29",
+       "title": "The King's Self-reproach",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "30",
+       "title": "What Is My Scepter?",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "7",
+     "title": "Part VII",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "31",
+       "title": "The Ministers Counsel Atonement",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "32",
+       "title": "The King Rebukes His Ministers",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "33",
+       "title": "No Other Law for His Own Son",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "34",
+       "title": "The First Minister: Kinds of Killing",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "35",
+       "title": "One Lord in Every Life",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "36",
+       "title": "The Second Minister: Rank and Conduct",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "37",
+       "title": "Why Every Murder Weighs the Same",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "38",
+       "title": "The Third Minister: Atonement in the Book of Manu",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "39",
+       "title": "The Rule of the King's Forefathers",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "40",
+       "title": "The Fourth Minister: The Practice of the Forefathers",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "41",
+       "title": "The Ministers' Last Plea",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "42",
+       "title": "The Greatness of the Cow",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "43",
+       "title": "The Decree",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "8",
+     "title": "Part VIII",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "44",
+       "title": "Kalavallabhan's Sacrifice",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "45",
+       "title": "The Spies' Report",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "46",
+       "title": "The King's Grief for His Minister",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "47",
+       "title": "The Guards' Sorrow",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "48",
+       "title": "The Prince Is Summoned",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "49",
+       "title": "The Mother's Lament",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "7",
+       "number": "50",
+       "title": "The Prince Comforts His Mother",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "8",
+       "number": "51",
+       "title": "The Sentence",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "9",
+       "number": "52",
+       "title": "The Citizens' Lament",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "10",
+       "number": "53",
+       "title": "The Gods Look on",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "11",
+       "number": "54",
+       "title": "The Prince Laid in the Street",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "12",
+       "number": "55",
+       "title": "The Prince's Prayer",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "13",
+       "number": "56",
+       "title": "The King's Prayer",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "14",
+       "number": "57",
+       "title": "The Death of the Prince",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "id": "9",
+     "title": "Part IX",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "58",
+       "title": "Lord Thyagaraja Appears",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "2",
+       "number": "59",
+       "title": "The City Rejoices",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "3",
+       "number": "60",
+       "title": "The King's Hymn of Praise",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "4",
+       "number": "61",
+       "title": "The Boon",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "5",
+       "number": "62",
+       "title": "The Return and the Righteous Reign",
+       "tamil": "",
+       "count": 1
+      },
+      {
+       "id": "6",
+       "number": "63",
+       "title": "Benediction",
+       "tamil": "",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
