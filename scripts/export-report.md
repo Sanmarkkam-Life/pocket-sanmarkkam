@@ -1,4 +1,4 @@
-# Book export report, 2026-11-22
+# Book export report, 2026-11-28
 
 Source: `..\04 Publications` (read only). Output: `public\data\`.
 
@@ -8,6 +8,9 @@ Source: `..\04 Publications` (read only). Output: `public\data\`.
 - **Songs of Grace, Book III** (Edition 1.0, October 2026): 1 work(s), 19 sections, 235 passages, 0 tables, 51 glossary entries, 1 intro(s), 393 KB. Without translation: 0, without commentary: 0, without Tamil: 0.
 - **Songs of Grace, Book IV** (Edition 1.0, November 2026): 1 work(s), 12 sections, 239 passages, 0 tables, 51 glossary entries, 1 intro(s), 532 KB. Without translation: 1, without commentary: 1, without Tamil: 0.
 - **Songs of Grace, Book V** (Edition 1.0, November 2026): 1 work(s), 83 sections, 916 passages, 0 tables, 73 glossary entries, 2 intro(s), 1428 KB. Without translation: 27, without commentary: 27, without Tamil: 0.
+- **Songs of Grace, Book VI, Volume 1** (Edition 1.0, November 2026): 2 work(s), 49 sections, 841 passages, 0 tables, 95 glossary entries, 2 intro(s), 1559 KB. Without translation: 4, without commentary: 75, without Tamil: 0.
+- **Songs of Grace, Book VI, Volume 2** (Edition 1.0, November 2026): 2 work(s), 60 sections, 841 passages, 0 tables, 95 glossary entries, 2 intro(s), 1493 KB. Without translation: 0, without commentary: 50, without Tamil: 0.
+- **Songs of Grace, Book VI, Volume 3** (Edition 1.0, November 2026): 2 work(s), 38 sections, 1127 passages, 0 tables, 95 glossary entries, 2 intro(s), 1370 KB. Without translation: 68, without commentary: 118, without Tamil: 0.
 - **The True Petitions of the Universal Pure True Path** (Edition 1.0, October 2026): 4 work(s), 62 sections, 62 passages, 0 tables, 117 glossary entries, 5 intro(s), 315 KB. Without translation: 0, without commentary: 0, without Tamil: 0.
 - **The Great Teaching** (Edition 1.0, November 2026): 1 work(s), 11 sections, 89 passages, 0 tables, 21 glossary entries, 1 intro(s), 106 KB. Without translation: 0, without commentary: 5, without Tamil: 0.
 - **Notes of Teaching** (Edition 1.0, November 2026): 1 work(s), 133 sections, 320 passages, 0 tables, 431 glossary entries, 1 intro(s), 961 KB. Without translation: 0, without commentary: 0, without Tamil: 0.
@@ -20,9 +23,9 @@ Source: `..\04 Publications` (read only). Output: `public\data\`.
 - **The Justice of King Manu** (Edition 1.0, November 2026): 9 work(s), 63 sections, 63 passages, 0 tables, 106 glossary entries, 1 intro(s), 405 KB. Without translation: 1, without commentary: 63, without Tamil: 0.
 - **Personal Conduct and Daily Discipline** (Edition 1.0, November 2026): 10 work(s), 141 sections, 137 passages, 2 tables, 342 glossary entries, 8 intro(s), 345 KB. Without translation: 1, without commentary: 22, without Tamil: 0.
 
-Verse-of-the-day pool: 366 passages. Search index: 6479 passages, 6874 KB.
+Verse-of-the-day pool: 366 passages. Search index: 9288 passages, 9556 KB.
 
 Left out on purpose (books.json "excluded"):
-- Songs of Grace, Book VI: Draft. Goes in when approved.
 - Arutperunjothi-Akaval-en.docx (August 2026): Superseded by The Hymn of the Vast Grace-Light, Edition 1.0, November 2026.
 - Nithya_Karma_Vidhi_Daily_Discipline_Of_Conduct-en.docx: Old edition with no edition line; superseded by Personal Conduct and Daily Discipline.
+- Songs-of-Grace-Book-VI-...-en-DRAFT.docx (single file): Superseded by the three published volumes (Edition 1.0, 28 Nov 2026).

@@ -52,7 +52,7 @@ export default function Books() {
           </section>
         ))}
         <p className="py-6 text-center text-xs text-muted">
-          More books join as each is approved: Book VI and the remaining prose are being translated.
+          All six books of the Thiru Arutpa and all of Vallalar&rsquo;s prose writings, complete.
         </p>
       </main>
     </>

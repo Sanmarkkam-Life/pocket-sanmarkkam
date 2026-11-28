@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22",
+ "generated": "2026-11-28",
  "books": [
   {
    "id": "agaval",
@@ -2126,6 +2126,1275 @@
        "translit": "Maṅkaḷam",
        "tamil": "மங்களம்",
        "count": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "book-6-1",
+   "collection": "Thiru Arutpa",
+   "title": "Songs of Grace, Book VI, Volume 1",
+   "short": "Book VI, Vol. 1",
+   "tamilTitle": "ஆறாம் திருமுறை",
+   "romanTitle": "Aaram Thirumurai",
+   "page": "https://sanmarkkamlife.org/songs-of-grace-book-six/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 841,
+   "hasIntro": true,
+   "glossary": 95,
+   "toc": [
+    {
+     "id": "1",
+     "title": "The Hymn of the Vast Grace-light",
+     "translit": "Aruṭperuñjōti Akaval",
+     "tamil": "அருட்பெருஞ்ஜோதி அகவல்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "translit": "",
+       "tamil": "",
+       "count": 0
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "title": "Thiru Arutpa Sixth Thirumurai",
+     "translit": "TRANSLATION & COMMENTARY",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "001",
+       "title": "Salutation to Parasiva",
+       "translit": "Parasiva Vaṇakkam",
+       "tamil": "பரசிவ வணக்கம்",
+       "count": 9
+      },
+      {
+       "id": "2",
+       "number": "002",
+       "title": "The Hymn of the Vast Grace-light",
+       "translit": "Aruṭperuñjōti Akaval",
+       "tamil": "அருட்பெருஞ்ஜோதி அகவல்",
+       "count": 0
+      },
+      {
+       "id": "3",
+       "number": "003",
+       "title": "The Supreme Grace-light Octet",
+       "translit": "Aruṭperuñsōti Aṭṭakam",
+       "tamil": "அருட்பெருஞ்சோதி அட்டகம்",
+       "count": 8
+      },
+      {
+       "id": "4",
+       "number": "004",
+       "title": "The Revelation of the Lord",
+       "translit": "Pati Viḷakkam",
+       "tamil": "பதி விளக்கம்",
+       "count": 13
+      },
+      {
+       "id": "5",
+       "number": "005",
+       "title": "The Elucidation of Sivapati",
+       "translit": "Sivapati Viḷakkam",
+       "tamil": "சிவபதி விளக்கம்",
+       "count": 10
+      },
+      {
+       "id": "6",
+       "number": "006",
+       "title": "Anguish",
+       "translit": "Āṟṟāmai",
+       "tamil": "ஆற்றாமை",
+       "count": 10
+      },
+      {
+       "id": "7",
+       "number": "007",
+       "title": "Why Was I Born?",
+       "translit": "Nāṉ Ēṉ Piṟantēṉ",
+       "tamil": "நான் ஏன் பிறந்தேன்",
+       "count": 10
+      },
+      {
+       "id": "8",
+       "number": "008",
+       "title": "Lamenting the Power of Maya",
+       "translit": "Māyaivalik Kaḻuṅkal",
+       "tamil": "மாயைவலிக் கழுங்கல்",
+       "count": 11
+      },
+      {
+       "id": "9",
+       "number": "009",
+       "title": "The Appeal",
+       "translit": "Muṟaiyīṭu",
+       "tamil": "முறையீடு",
+       "count": 11
+      },
+      {
+       "id": "10",
+       "number": "010",
+       "title": "The Devotee's Blessing",
+       "translit": "Aṭiyār Pēṟu",
+       "tamil": "அடியார் பேறு",
+       "count": 23
+      },
+      {
+       "id": "11",
+       "number": "011",
+       "title": "Lamentation upon Self-inquiry",
+       "translit": "Āṉma Visārat Taḻuṅkal",
+       "tamil": "ஆன்ம விசாரத் தழுங்கல்",
+       "count": 10
+      },
+      {
+       "id": "12",
+       "number": "012",
+       "title": "Severing Desire",
+       "translit": "Avā Aṟuttal",
+       "tamil": "அவா அறுத்தல்",
+       "count": 13
+      },
+      {
+       "id": "13",
+       "number": "013",
+       "title": "Yearning for Divine Grace",
+       "translit": "Tiruvaruḷ Viḻaital",
+       "tamil": "திருவருள் விழைதல்",
+       "count": 20
+      },
+      {
+       "id": "14",
+       "number": "014",
+       "title": "Illumination of the Cit-sabai (Hall of Consciousness)",
+       "translit": "Siṟsapai Viḷakkam",
+       "tamil": "சிற்சபை விளக்கம்",
+       "count": 12
+      },
+      {
+       "id": "15",
+       "number": "015",
+       "title": "An Appeal to the Sacred Feet",
+       "translit": "Tiruvaṭi Muṟaiyīṭu",
+       "tamil": "திருவடி முறையீடு",
+       "count": 11
+      },
+      {
+       "id": "16",
+       "number": "016",
+       "title": "The Lack of Self-agency",
+       "translit": "Taṟ Sutantaram Iṉmai",
+       "tamil": "தற் சுதந்தரம் இன்மை",
+       "count": 10
+      },
+      {
+       "id": "17",
+       "number": "017",
+       "title": "Hindrance to the Experience of Non-dual Bliss",
+       "translit": "Attuvita Āṉanta Aṉupava Iṭaiyīṭu",
+       "tamil": "அத்துவித ஆனந்த அனுபவ இடையீடு",
+       "count": 10
+      },
+      {
+       "id": "18",
+       "number": "018",
+       "title": "Opening the Sacred Door",
+       "translit": "Tirukkatavan Tiṟattal",
+       "tamil": "திருக்கதவந் திறத்தல்",
+       "count": 10
+      },
+      {
+       "id": "19",
+       "number": "019",
+       "title": "A Child's Humble Appeal",
+       "translit": "Piḷḷaich Siṟu Viṇṇappam",
+       "tamil": "பிள்ளைச் சிறு விண்ணப்பம்",
+       "count": 26
+      },
+      {
+       "id": "20",
+       "number": "020",
+       "title": "The Great Appeal of a Child",
+       "translit": "Piḷḷaip Peru Viṇṇappam",
+       "tamil": "பிள்ளைப் பெரு விண்ணப்பம்",
+       "count": 161
+      },
+      {
+       "id": "21",
+       "number": "021",
+       "title": "The Pure Sanmarkkam Plea",
+       "translit": "Sutta Saṉmārkka Vēṇṭukōḷ",
+       "tamil": "சுத்த சன்மார்க்க வேண்டுகோள்",
+       "count": 13
+      },
+      {
+       "id": "22",
+       "number": "022",
+       "title": "Vision of the Soul",
+       "translit": "Āṉma Tarisaṉam",
+       "tamil": "ஆன்ம தரிசனம்",
+       "count": 10
+      },
+      {
+       "id": "23",
+       "number": "023",
+       "title": "The Vision of Siva",
+       "translit": "Siva Tarisaṉam",
+       "tamil": "சிவ தரிசனம்",
+       "count": 12
+      },
+      {
+       "id": "24",
+       "number": "024",
+       "title": "The Removal of Afflictions",
+       "translit": "Vātaṉaik Kaḻivu",
+       "tamil": "வாதனைக் கழிவு",
+       "count": 26
+      },
+      {
+       "id": "25",
+       "number": "025",
+       "title": "The Abode of Experience",
+       "translit": "Aṉupōka Nilayam",
+       "tamil": "அனுபோக நிலயம்",
+       "count": 12
+      },
+      {
+       "id": "26",
+       "number": "026",
+       "title": "The Loss of the Sense of Self",
+       "translit": "Taṟpōta Iḻappu",
+       "tamil": "தற்போத இழப்பு",
+       "count": 10
+      },
+      {
+       "id": "27",
+       "number": "027",
+       "title": "An Explanation of Māyā (Cosmic Illusion)",
+       "translit": "Māyaiyiṉ Viḷakkam",
+       "tamil": "மாயையின் விளக்கம்",
+       "count": 10
+      },
+      {
+       "id": "28",
+       "number": "028",
+       "title": "The Plea for Refuge",
+       "translit": "Apayat Tiṟaṉ",
+       "tamil": "அபயத் திறன்",
+       "count": 28
+      },
+      {
+       "id": "29",
+       "number": "029",
+       "title": "The Inability to Bear Separation",
+       "translit": "Pirivāṟṟāmai",
+       "tamil": "பிரிவாற்றாமை",
+       "count": 12
+      },
+      {
+       "id": "30",
+       "number": "030",
+       "title": "Saying 'I Will not Be Parted'",
+       "translit": "Piriyēṉ Eṉṟal",
+       "tamil": "பிரியேன் என்றல்",
+       "count": 11
+      },
+      {
+       "id": "31",
+       "number": "031",
+       "title": "The Blessing of Divine Grace",
+       "translit": "Tiruvaruṭ Pēṟu",
+       "tamil": "திருவருட் பேறு",
+       "count": 12
+      },
+      {
+       "id": "32",
+       "number": "032",
+       "title": "Arutperunjothi, My Lord",
+       "translit": "Aruṭperuñjōti Eṉ Āṇṭavar",
+       "tamil": "அருட்பெருஞ்ஜோதி என் ஆண்டவர்",
+       "count": 10
+      },
+      {
+       "id": "33",
+       "number": "033",
+       "title": "A Petition Before the Divine Presence",
+       "translit": "Tirumuṉ Viṇṇappam",
+       "tamil": "திருமுன் விண்ணப்பம்",
+       "count": 12
+      },
+      {
+       "id": "34",
+       "number": "034",
+       "title": "Marveling at the Lord's Accessibility",
+       "translit": "Iṟai Eḷimaiyai Viyattal",
+       "tamil": "இறை எளிமையை வியத்தல்",
+       "count": 10
+      },
+      {
+       "id": "35",
+       "number": "035",
+       "title": "Pleading for Refuge",
+       "translit": "Apayam Iṭutal",
+       "tamil": "அபயம் இடுதல்",
+       "count": 11
+      },
+      {
+       "id": "36",
+       "number": "036",
+       "title": "Speaking the Truth",
+       "translit": "Uṇmai Kūṟal",
+       "tamil": "உண்மை கூறல்",
+       "count": 10
+      },
+      {
+       "id": "37",
+       "number": "037",
+       "title": "Garland of the Light of Grace",
+       "translit": "Aruḷviḷakka Mālai",
+       "tamil": "அருள்விளக்க மாலை",
+       "count": 104
+      },
+      {
+       "id": "38",
+       "number": "038",
+       "title": "Boundless Wonder",
+       "translit": "Varampil Viyappu",
+       "tamil": "வரம்பில் வியப்பு",
+       "count": 10
+      },
+      {
+       "id": "39",
+       "number": "039",
+       "title": "Praise of the Sacred Feet",
+       "translit": "Tiruvaṭip Pukaḻchsi",
+       "tamil": "திருவடிப் புகழ்ச்சி",
+       "count": 12
+      },
+      {
+       "id": "40",
+       "number": "040",
+       "title": "A Sight the Eyes Cannot Contain",
+       "translit": "Kaṇkoḷāk Kāṭsi",
+       "tamil": "கண்கொளாக் காட்சி",
+       "count": 11
+      },
+      {
+       "id": "41",
+       "number": "041",
+       "title": "The Joy of the Vision",
+       "translit": "Kāṭsik Kaḷippu",
+       "tamil": "காட்சிக் களிப்பு",
+       "count": 11
+      },
+      {
+       "id": "42",
+       "number": "042",
+       "title": "Declaring: I Saw, I Ripened, I Merged",
+       "translit": "Kaṇṭēṉ Kaṉintēṉ Kalantēṉ Eṉal",
+       "tamil": "கண்டேன் கனிந்தேன் கலந்தேன் எனல்",
+       "count": 10
+      },
+      {
+       "id": "43",
+       "number": "043",
+       "title": "The Holy Vision of the Lord",
+       "translit": "Iṟai Tirukkāṭsi",
+       "tamil": "இறை திருக்காட்சி",
+       "count": 32
+      },
+      {
+       "id": "44",
+       "number": "044",
+       "title": "The State of the Divine Feet",
+       "translit": "Tiruvaṭi Nilai",
+       "tamil": "திருவடி நிலை",
+       "count": 10
+      },
+      {
+       "id": "45",
+       "number": "045",
+       "title": "The Ten of Wonder",
+       "translit": "Achsōp Pattu",
+       "tamil": "அச்சோப் பத்து",
+       "count": 12
+      },
+      {
+       "id": "46",
+       "number": "046",
+       "title": "The Nature of the Grace-light",
+       "translit": "Aruṭjōti Nilai",
+       "tamil": "அருட்ஜோதி நிலை",
+       "count": 11
+      },
+      {
+       "id": "47",
+       "number": "047",
+       "title": "The Supreme State of Great Bliss",
+       "translit": "Pērāṉantap Perunilai",
+       "tamil": "பேரானந்தப் பெருநிலை",
+       "count": 10
+      },
+      {
+       "id": "48",
+       "number": "048",
+       "title": "Marveling at the Wonder of His Gracious Rule",
+       "translit": "Āṇṭaruḷiya Arumaiyai Viyattal",
+       "tamil": "ஆண்டருளிய அருமையை வியத்தல்",
+       "count": 11
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "book-6-2",
+   "collection": "Thiru Arutpa",
+   "title": "Songs of Grace, Book VI, Volume 2",
+   "short": "Book VI, Vol. 2",
+   "tamilTitle": "ஆறாம் திருமுறை",
+   "romanTitle": "Aaram Thirumurai",
+   "page": "https://sanmarkkamlife.org/songs-of-grace-book-six/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 841,
+   "hasIntro": true,
+   "glossary": 95,
+   "toc": [
+    {
+     "id": "1",
+     "title": "The Hymn of the Vast Grace-light",
+     "translit": "Aruṭperuñjōti Akaval",
+     "tamil": "அருட்பெருஞ்ஜோதி அகவல்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "translit": "",
+       "tamil": "",
+       "count": 0
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "title": "Thiru Arutpa Sixth Thirumurai",
+     "translit": "TRANSLATION & COMMENTARY",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "049",
+       "title": "The Bliss of Praising the Lord",
+       "translit": "Iṟaivaṉai Ēttum Iṉpam",
+       "tamil": "இறைவனை ஏத்தும் இன்பம்",
+       "count": 12
+      },
+      {
+       "id": "2",
+       "number": "050",
+       "title": "Praise of the Sacred Dance",
+       "translit": "Tirunaṭap Pukaḻchsi",
+       "tamil": "திருநடப் புகழ்ச்சி",
+       "count": 11
+      },
+      {
+       "id": "3",
+       "number": "051",
+       "title": "The Unattainable Blessing",
+       "translit": "Peṟāp Pēṟu",
+       "tamil": "பெறாப் பேறு",
+       "count": 12
+      },
+      {
+       "id": "4",
+       "number": "052",
+       "title": "The Universal Dance",
+       "translit": "Potunaṭam",
+       "tamil": "பொதுநடம்",
+       "count": 26
+      },
+      {
+       "id": "5",
+       "number": "053",
+       "title": "The Greatness of Divine Grace",
+       "translit": "Tiruvaruṭ Perumai",
+       "tamil": "திருவருட் பெருமை",
+       "count": 11
+      },
+      {
+       "id": "6",
+       "number": "054",
+       "title": "Attaining the Rare Nectar of Grace",
+       "translit": "Aruḷ Āramutap Pēṟu",
+       "tamil": "அருள் ஆரமுதப் பேறு",
+       "count": 13
+      },
+      {
+       "id": "7",
+       "number": "055",
+       "title": "The Truth of the Teaching",
+       "translit": "Upatēsa Uṇmai",
+       "tamil": "உபதேச உண்மை",
+       "count": 10
+      },
+      {
+       "id": "8",
+       "number": "056",
+       "title": "Melting in the Bliss of God",
+       "translit": "Iṟai Iṉpak Kuḻaivu",
+       "tamil": "இறை இன்பக் குழைவு",
+       "count": 12
+      },
+      {
+       "id": "9",
+       "number": "057",
+       "title": "The State of Direct Experience",
+       "translit": "Aṉupava Nilai",
+       "tamil": "அனுபவ நிலை",
+       "count": 8
+      },
+      {
+       "id": "10",
+       "number": "058",
+       "title": "Having Nothing to Give in Return",
+       "translit": "Kaimmāṟiṉmai",
+       "tamil": "கைம்மாறின்மை",
+       "count": 10
+      },
+      {
+       "id": "11",
+       "number": "059",
+       "title": "An Appeal",
+       "translit": "Vēṇṭukōḷ",
+       "tamil": "வேண்டுகோள்",
+       "count": 10
+      },
+      {
+       "id": "12",
+       "number": "060",
+       "title": "Limitless Bliss",
+       "translit": "Ulappil Iṉpam",
+       "tamil": "உலப்பில் இன்பம்",
+       "count": 10
+      },
+      {
+       "id": "13",
+       "number": "061",
+       "title": "Asking What Service to Perform",
+       "translit": "Seypaṇi Viṉaval",
+       "tamil": "செய்பணி வினவல்",
+       "count": 13
+      },
+      {
+       "id": "14",
+       "number": "062",
+       "title": "Inability to Endure",
+       "translit": "Āṟṟa Māṭṭāmai",
+       "tamil": "ஆற்ற மாட்டாமை",
+       "count": 10
+      },
+      {
+       "id": "15",
+       "number": "063",
+       "title": "The Sacred Awakening",
+       "translit": "Tiruppaḷḷi Eḻuchsi",
+       "tamil": "திருப்பள்ளி எழுச்சி",
+       "count": 10
+      },
+      {
+       "id": "16",
+       "number": "064",
+       "title": "The Sacred Song of Unti",
+       "translit": "Tiru Untiyār",
+       "tamil": "திரு உந்தியார்",
+       "count": 10
+      },
+      {
+       "id": "17",
+       "number": "065",
+       "title": "Taking Refuge",
+       "translit": "Aṭaikkalam Pukutal",
+       "tamil": "அடைக்கலம் புகுதல்",
+       "count": 11
+      },
+      {
+       "id": "18",
+       "number": "066",
+       "title": "Severing Attachment",
+       "translit": "Paṟṟaṟuttal",
+       "tamil": "பற்றறுத்தல்",
+       "count": 13
+      },
+      {
+       "id": "19",
+       "number": "067",
+       "title": "Hymn to the Power of Consciousness",
+       "translit": "Siṟsatti Tuti",
+       "tamil": "சிற்சத்தி துதி",
+       "count": 11
+      },
+      {
+       "id": "20",
+       "number": "068",
+       "title": "The Inability to Bear Separation",
+       "translit": "Pirivāṟṟāmai",
+       "tamil": "பிரிவாற்றாமை",
+       "count": 11
+      },
+      {
+       "id": "21",
+       "number": "069",
+       "title": "The Experience of Bliss",
+       "translit": "Āṉantāṉupavam",
+       "tamil": "ஆனந்தானுபவம்",
+       "count": 15
+      },
+      {
+       "id": "22",
+       "number": "070",
+       "title": "The Blessing of Divine Merit",
+       "translit": "Sivapuṇṇiyap Pēṟu",
+       "tamil": "சிவபுண்ணியப் பேறு",
+       "count": 10
+      },
+      {
+       "id": "23",
+       "number": "071",
+       "title": "The Ten of Wonder",
+       "translit": "Antō Pattu",
+       "tamil": "அந்தோ பத்து",
+       "count": 12
+      },
+      {
+       "id": "24",
+       "number": "072",
+       "title": "The State of Sanmarkkam",
+       "translit": "Saṉmārkka Nilai",
+       "tamil": "சன்மார்க்க நிலை",
+       "count": 11
+      },
+      {
+       "id": "25",
+       "number": "073",
+       "title": "Devotion to Divine Bliss",
+       "translit": "Sivāṉantap Paṟṟu",
+       "tamil": "சிவானந்தப் பற்று",
+       "count": 11
+      },
+      {
+       "id": "26",
+       "number": "074",
+       "title": "The Lady Speaks to Her Friend",
+       "translit": "Talaivi Tōḻikku Uraittal",
+       "tamil": "தலைவி தோழிக்கு உரைத்தல்",
+       "count": 14
+      },
+      {
+       "id": "27",
+       "number": "075",
+       "title": "The Foster-mother's Speech",
+       "translit": "Naṟṟāy Kūṟal",
+       "tamil": "நற்றாய் கூறல்",
+       "count": 10
+      },
+      {
+       "id": "28",
+       "number": "076",
+       "title": "The Friend Describes the Heroine's State",
+       "translit": "Pāṅki Talaivipeṟṟi Uraittal",
+       "tamil": "பாங்கி தலைவிபெற்றி உரைத்தல்",
+       "count": 11
+      },
+      {
+       "id": "29",
+       "number": "077",
+       "title": "The Heroine Tells Her Mother About the Hero's Actions",
+       "translit": "Talaivi Talaivaṉ Seyalait Tāyk Kuraittal",
+       "tamil": "தலைவி தலைவன் செயலைத் தாய்க் குரைத்தல்",
+       "count": 12
+      },
+      {
+       "id": "30",
+       "number": "078",
+       "title": "The Maiden's Lament",
+       "translit": "Talaivi Varuntal",
+       "tamil": "தலைவி வருந்தல்",
+       "count": 24
+      },
+      {
+       "id": "31",
+       "number": "079",
+       "title": "The Mother's Report to the Foster Mother",
+       "translit": "Naṟṟāy Sevilikkuk Kūṟal",
+       "tamil": "நற்றாய் செவிலிக்குக் கூறல்",
+       "count": 10
+      },
+      {
+       "id": "32",
+       "number": "080",
+       "title": "The Greatness of the Sacred Feet",
+       "translit": "Tiruvaṭip Perumai",
+       "tamil": "திருவடிப் பெருமை",
+       "count": 50
+      },
+      {
+       "id": "33",
+       "number": "081",
+       "title": "Asserting Her Exclusive Bond to Her Friend",
+       "translit": "Tōḻik Kurimai Kiḷattal",
+       "tamil": "தோழிக் குரிமை கிளத்தல்",
+       "count": 14
+      },
+      {
+       "id": "34",
+       "number": "082",
+       "title": "Attaining the Vast Grace-light",
+       "translit": "Aruṭperuñsōti Aṭaivu",
+       "tamil": "அருட்பெருஞ்சோதி அடைவு",
+       "count": 13
+      },
+      {
+       "id": "35",
+       "number": "083",
+       "title": "The Blessing of Servitude",
+       "translit": "Aṭimaip Pēṟu",
+       "tamil": "அடிமைப் பேறு",
+       "count": 10
+      },
+      {
+       "id": "36",
+       "number": "084",
+       "title": "Garland for the Northern Chidambaram of Gnosis",
+       "translit": "Uttirañāṉasitampara Mālai",
+       "tamil": "உத்திரஞானசிதம்பர மாலை",
+       "count": 11
+      },
+      {
+       "id": "37",
+       "number": "085",
+       "title": "The Attainment of Divine Grace",
+       "translit": "Tiruvaruṭpēṟu",
+       "tamil": "திருவருட்பேறு",
+       "count": 10
+      },
+      {
+       "id": "38",
+       "number": "086",
+       "title": "Confronting the Heart (At Tillai and Parvatipuram)",
+       "translit": "Neñsōṭu Nērtal (Tillaiyum Pārvatipuramum)",
+       "tamil": "நெஞ்சோடு நேர்தல் (தில்லையும் பார்வதிபுரமும்)",
+       "count": 11
+      },
+      {
+       "id": "39",
+       "number": "087",
+       "title": "Having Nothing to Give in Return",
+       "translit": "Kaimmāṟiṉmai",
+       "tamil": "கைம்மாறின்மை",
+       "count": 21
+      },
+      {
+       "id": "40",
+       "number": "088",
+       "title": "Accepting the Garland of Poems",
+       "translit": "Pāmālai Ēṟṟal",
+       "tamil": "பாமாலை ஏற்றல்",
+       "count": 12
+      },
+      {
+       "id": "41",
+       "number": "089",
+       "title": "The Bestowal of Divine Grace",
+       "translit": "Tiruvaruṭ Koṭai",
+       "tamil": "திருவருட் கொடை",
+       "count": 10
+      },
+      {
+       "id": "42",
+       "number": "090",
+       "title": "Declaring What Has Befallen Me",
+       "translit": "Uṟṟa Turaittal",
+       "tamil": "உற்ற துரைத்தல்",
+       "count": 10
+      },
+      {
+       "id": "43",
+       "number": "091",
+       "title": "The Attainment of Direct Experience",
+       "translit": "Aṉupava Sitti",
+       "tamil": "அனுபவ சித்தி",
+       "count": 11
+      },
+      {
+       "id": "44",
+       "number": "092",
+       "title": "The Nature of Bliss",
+       "translit": "Iṉpattiṟaṉ",
+       "tamil": "இன்பத்திறன்",
+       "count": 11
+      },
+      {
+       "id": "45",
+       "number": "093",
+       "title": "The State of Siva Yoga",
+       "translit": "Sivayōka Nilai",
+       "tamil": "சிவயோக நிலை",
+       "count": 10
+      },
+      {
+       "id": "46",
+       "number": "094",
+       "title": "The Blessing of the Imperishable Form of Grace",
+       "translit": "Aḻivuṟā Aruḷvaṭivap Pēṟu",
+       "tamil": "அழிவுறா அருள்வடிவப் பேறு",
+       "count": 10
+      },
+      {
+       "id": "47",
+       "number": "095",
+       "title": "Marveling at the Truth of Great Grace",
+       "translit": "Pēraruḷ Vāymaiyai Viyattal",
+       "tamil": "பேரருள் வாய்மையை வியத்தல்",
+       "count": 10
+      },
+      {
+       "id": "48",
+       "number": "096",
+       "title": "The Blessing of the Golden Form",
+       "translit": "Poṉvaṭivap Pēṟu",
+       "tamil": "பொன்வடிவப் பேறு",
+       "count": 17
+      },
+      {
+       "id": "49",
+       "number": "097",
+       "title": "A Garland for Lord Nataraja",
+       "translit": "Naṭarājapati Mālai",
+       "tamil": "நடராஜபதி மாலை",
+       "count": 34
+      },
+      {
+       "id": "50",
+       "number": "098",
+       "title": "The Garland of the Guru Gem",
+       "translit": "Saṟkurumaṇi Mālai",
+       "tamil": "சற்குருமணி மாலை",
+       "count": 27
+      },
+      {
+       "id": "51",
+       "number": "099",
+       "title": "The Victory Over the Tattvas",
+       "translit": "Tattuva Veṟṟi",
+       "tamil": "தத்துவ வெற்றி",
+       "count": 22
+      },
+      {
+       "id": "52",
+       "number": "100",
+       "title": "Attainment of the Reward",
+       "translit": "Pēṟaṭaivu",
+       "tamil": "பேறடைவு",
+       "count": 11
+      },
+      {
+       "id": "53",
+       "number": "101",
+       "title": "Stating the Way to Salvation",
+       "translit": "Uyvakai Kūṟal",
+       "tamil": "உய்வகை கூறல்",
+       "count": 13
+      },
+      {
+       "id": "54",
+       "number": "102",
+       "title": "Announcing the Lord's Arrival",
+       "translit": "Iṟaivaravu Iyampal",
+       "tamil": "இறைவரவு இயம்பல்",
+       "count": 10
+      },
+      {
+       "id": "55",
+       "number": "103",
+       "title": "The Heroine Speaks",
+       "translit": "Talaivi Kūṟal",
+       "tamil": "தலைவி கூறல்",
+       "count": 10
+      },
+      {
+       "id": "56",
+       "number": "104",
+       "title": "Telling the People of the World the Way to Salvation",
+       "translit": "Ulakarkku Uyvakai Kūṟal",
+       "tamil": "உலகர்க்கு உய்வகை கூறல்",
+       "count": 10
+      },
+      {
+       "id": "57",
+       "number": "105",
+       "title": "Declaring the Way to Attain the Sacred Community",
+       "translit": "Puṉita Kulam Peṟumāṟu Pukalal",
+       "tamil": "புனித குலம் பெறுமாறு புகலல்",
+       "count": 13
+      },
+      {
+       "id": "58",
+       "number": "106",
+       "title": "The Pure Shiva-state",
+       "translit": "Sutta Sivanilai",
+       "tamil": "சுத்த சிவநிலை",
+       "count": 47
+      },
+      {
+       "id": "59",
+       "number": "107",
+       "title": "The Practice of Wisdom (Beating the Mouth-drum)",
+       "translit": "Ñāṉasariyai (Vāypaṟai Ārttal)",
+       "tamil": "ஞானசரியை (வாய்பறை ஆர்த்தல்)",
+       "count": 29
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "book-6-3",
+   "collection": "Thiru Arutpa",
+   "title": "Songs of Grace, Book VI, Volume 3",
+   "short": "Book VI, Vol. 3",
+   "tamilTitle": "ஆறாம் திருமுறை",
+   "romanTitle": "Aaram Thirumurai",
+   "page": "https://sanmarkkamlife.org/songs-of-grace-book-six/",
+   "edition": "Edition 1.0, November 2026",
+   "passages": 1127,
+   "hasIntro": true,
+   "glossary": 95,
+   "toc": [
+    {
+     "id": "1",
+     "title": "The Hymn of the Vast Grace-light",
+     "translit": "Aruṭperuñjōti Akaval",
+     "tamil": "அருட்பெருஞ்ஜோதி அகவல்",
+     "sections": [
+      {
+       "id": "1",
+       "number": "",
+       "title": "",
+       "translit": "",
+       "tamil": "",
+       "count": 0
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "title": "Thiru Arutpa Sixth Thirumurai",
+     "translit": "TRANSLATION & COMMENTARY",
+     "tamil": "",
+     "sections": [
+      {
+       "id": "1",
+       "number": "108",
+       "title": "The Insistence on Samadhi",
+       "translit": "Samāti Vaṟpuṟuttal",
+       "tamil": "சமாதி வற்புறுத்தல்",
+       "count": 10
+      },
+      {
+       "id": "2",
+       "number": "109",
+       "title": "The World's Blessing",
+       "translit": "Ulakappēṟu",
+       "tamil": "உலகப்பேறு",
+       "count": 10
+      },
+      {
+       "id": "3",
+       "number": "110",
+       "title": "The Unique Sacred Garland",
+       "translit": "Taṉit Tirualaṅkal",
+       "tamil": "தனித் திருஅலங்கல்",
+       "count": 214
+      },
+      {
+       "id": "4",
+       "number": "111",
+       "title": "An Address to the Heart",
+       "translit": "Neñsoṭu Kiḷattal",
+       "tamil": "நெஞ்சொடு கிளத்தல்",
+       "count": 11
+      },
+      {
+       "id": "5",
+       "number": "112",
+       "title": "The Wonder of True Grace",
+       "translit": "Meyyaruḷ Viyappu",
+       "tamil": "மெய்யருள் வியப்பு",
+       "count": 106
+      },
+      {
+       "id": "6",
+       "number": "113",
+       "title": "The Coming of the Lord of the Stage",
+       "translit": "Ampalavāṇar Varukai",
+       "tamil": "அம்பலவாணர் வருகை",
+       "count": 119
+      },
+      {
+       "id": "7",
+       "number": "114",
+       "title": "The Coming of the Dancer of the Hall to Embrace",
+       "translit": "Ampalavāṇar Aṇaiyavarukai",
+       "tamil": "அம்பலவாணர் அணையவருகை",
+       "count": 16
+      },
+      {
+       "id": "8",
+       "number": "115",
+       "title": "The Dancer of the Hall Comes to Dance",
+       "translit": "Ampalavāṇar Āṭavarukai",
+       "tamil": "அம்பலவாணர் ஆடவருகை",
+       "count": 14
+      },
+      {
+       "id": "9",
+       "number": "116",
+       "title": "Play the Ball Game, My Friend",
+       "translit": "Āṭēṭi Pantu",
+       "tamil": "ஆடேடி பந்து",
+       "count": 15
+      },
+      {
+       "id": "10",
+       "number": "117",
+       "title": "The Medicine of Gnosis",
+       "translit": "Ñāṉa Maruntu",
+       "tamil": "ஞான மருந்து",
+       "count": 36
+      },
+      {
+       "id": "11",
+       "number": "118",
+       "title": "The Siva-siva Light",
+       "translit": "Sivasiva Jōti",
+       "tamil": "சிவசிவ ஜோதி",
+       "count": 36
+      },
+      {
+       "id": "12",
+       "number": "119",
+       "title": "Light Within Light",
+       "translit": "Jōtiyuḷ Jōti",
+       "tamil": "ஜோதியுள் ஜோதி",
+       "count": 33
+      },
+      {
+       "id": "13",
+       "number": "120",
+       "title": "Do not Fear, O Heart",
+       "translit": "Añsātē Neñsē",
+       "tamil": "அஞ்சாதே நெஞ்சே",
+       "count": 25
+      },
+      {
+       "id": "14",
+       "number": "121",
+       "title": "This Is the Right Moment",
+       "translit": "Itu Nalla Taruṇam",
+       "tamil": "இது நல்ல தருணம்",
+       "count": 10
+      },
+      {
+       "id": "15",
+       "number": "122",
+       "title": "What Merit Have I Earned?",
+       "translit": "Eṉṉa Puṇṇiyam Seytēṉō",
+       "tamil": "என்ன புண்ணியம் செய்தேனோ",
+       "count": 12
+      },
+      {
+       "id": "16",
+       "number": "123",
+       "title": "Go Bring Him Here",
+       "translit": "Varuvār Aḻaittuvāṭi",
+       "tamil": "வருவார் அழைத்துவாடி",
+       "count": 8
+      },
+      {
+       "id": "17",
+       "number": "124",
+       "title": "The Great Dispute",
+       "translit": "Peru Vaḻakku",
+       "tamil": "பெரு வழக்கு",
+       "count": 8
+      },
+      {
+       "id": "18",
+       "number": "125",
+       "title": "The Dancing Feet",
+       "translit": "Āṭiya Pātam",
+       "tamil": "ஆடிய பாதம்",
+       "count": 21
+      },
+      {
+       "id": "19",
+       "number": "126",
+       "title": "Refuge, Refuge, Refuge",
+       "translit": "Apayam Apayam Apayam",
+       "tamil": "அபயம் அபயம் அபயம்",
+       "count": 20
+      },
+      {
+       "id": "20",
+       "number": "127",
+       "title": "A Miracle! a Miracle!",
+       "translit": "Aṟputam Aṟputamē",
+       "tamil": "அற்புதம் அற்புதமே",
+       "count": 11
+      },
+      {
+       "id": "21",
+       "number": "128",
+       "title": "The Vision of the Hall of Pure Gold",
+       "translit": "Āṇippoṉṉampalak Kāṭsi",
+       "tamil": "ஆணிப்பொன்னம்பலக் காட்சி",
+       "count": 35
+      },
+      {
+       "id": "22",
+       "number": "129",
+       "title": "To My Sister",
+       "translit": "Akkachsi",
+       "tamil": "அக்கச்சி",
+       "count": 5
+      },
+      {
+       "id": "23",
+       "number": "130",
+       "title": "Blow, Blow, O Conch",
+       "translit": "Ūtūtu Saṅkē",
+       "tamil": "ஊதூது சங்கே",
+       "count": 16
+      },
+      {
+       "id": "24",
+       "number": "131",
+       "title": "Sound the Trumpet",
+       "translit": "Siṉṉam Piṭi",
+       "tamil": "சின்னம் பிடி",
+       "count": 10
+      },
+      {
+       "id": "25",
+       "number": "132",
+       "title": "The Lock Between the Eyebrows",
+       "translit": "Kaṇpuruvap Pūṭṭu",
+       "tamil": "கண்புருவப் பூட்டு",
+       "count": 12
+      },
+      {
+       "id": "26",
+       "number": "133",
+       "title": "Cosmic Victory",
+       "translit": "Pirapañsa Veṟṟi",
+       "tamil": "பிரபஞ்ச வெற்றி",
+       "count": 1
+      },
+      {
+       "id": "27",
+       "number": "134",
+       "title": "O King of the Sacred Hall",
+       "translit": "Ampalattarasē",
+       "tamil": "அம்பலத்தரசே",
+       "count": 95
+      },
+      {
+       "id": "28",
+       "number": "135",
+       "title": "Enjoyment, Blissful Enjoyment",
+       "translit": "Pōkam Sukapōkam",
+       "tamil": "போகம் சுகபோகம்",
+       "count": 41
+      },
+      {
+       "id": "29",
+       "number": "138",
+       "title": "The Prevailing Slander",
+       "translit": "Taṅkuṟuvampu",
+       "tamil": "தங்குறுவம்பு",
+       "count": 22
+      },
+      {
+       "id": "30",
+       "number": "142",
+       "title": "O One with Fragrant Matted Locks",
+       "translit": "Viraisēr Saṭaiyāy",
+       "tamil": "விரைசேர் சடையாய்",
+       "count": 6
+      },
+      {
+       "id": "31",
+       "number": "143",
+       "title": "The Nectar That Quells Hunger",
+       "translit": "Pasiyāta Amutē",
+       "tamil": "பசியாத அமுதே",
+       "count": 15
+      },
+      {
+       "id": "32",
+       "number": "144",
+       "title": "The Enduring Veda",
+       "translit": "Nīṭiya Vētam",
+       "tamil": "நீடிய வேதம்",
+       "count": 8
+      },
+      {
+       "id": "33",
+       "number": "145",
+       "title": "O Crest-jewel of the Vedas",
+       "translit": "Vēta Sikāmaṇiyē",
+       "tamil": "வேத சிகாமணியே",
+       "count": 10
+      },
+      {
+       "id": "34",
+       "number": "147",
+       "title": "The Garland of Experience",
+       "translit": "Aṉupava Mālai",
+       "tamil": "அனுபவ மாலை",
+       "count": 106
+      },
+      {
+       "id": "35",
+       "number": "148",
+       "title": "The Word of Truth",
+       "translit": "Sattiya Vārttai",
+       "tamil": "சத்திய வார்த்தை",
+       "count": 1
+      },
+      {
+       "id": "36",
+       "number": "149",
+       "title": "The Declaration of Truth",
+       "translit": "Sattiya Aṟivippu",
+       "tamil": "சத்திய அறிவிப்பு",
+       "count": 6
+      },
+      {
+       "id": "37",
+       "number": "150",
+       "title": "Jothi, Jothi",
+       "translit": "Jōti Jōti",
+       "tamil": "ஜோதி ஜோதி",
+       "count": 3
       }
      ]
     }

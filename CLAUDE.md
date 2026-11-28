@@ -1,10 +1,10 @@
 # Pocket Sanmarkkam: handover notes for Claude
 
-Last updated: 2026-11-22. Start here in every session about the app. The agreed plan is `PLAN.md` (phases, decisions); this file says how the code works and the rules.
+Last updated: 2026-11-28. Start here in every session about the app. The agreed plan is `PLAN.md` (phases, decisions); this file says how the code works and the rules.
 
 ## What it is
 - A free phone app (Next.js 14 PWA, installs to the home screen) with Vallalar's **published** books: Tamil, transliteration, English translation, commentary. Plus verse of the day, audio, resources and support links.
-- **Phase 1 is built** (reader, search, bookmarks, offline, settings, links). From Phase 2, KarunAI in the app and chants (YouTube) are done (22 Nov); Book VI waits for approval. Phase 3 (app stores, languages) not started.
+- **Phase 1 is built** (reader, search, bookmarks, offline, settings, links). From Phase 2, KarunAI in the app and chants (YouTube) are done (22 Nov); Book VI added 28 Nov 2026 (three volumes). Phase 3 (app stores, languages) not started.
 - Write "Vallalar (Ramalinga Adigal)". Never "Swamigal" in new text.
 - Tone: as the org's voice: direct, warm, short. Donation asks are gentle, one place only (the Support tab and one footer line).
 
@@ -59,7 +59,8 @@ py scripts\export_books.py            # refresh book data (in the Drive folder)
 
 ## State on 2026-11-22
 - 16 books exported (6,342 passages): Agaval, Books I–V, Vinnappangal, Perupadesam, Upadesa Kurippugal, Jeeva Karunya Ozhukkam (1.3), Vyakhyanangal, Siru Vyakhyanangal, Thirumugangal, Azhaippugal, Maruthuva, Manu Murai Kanda Vasagam (user confirmed it approved on 2026-11-22; the book has translation only, no commentary).
-- Left out: Book VI (not finished), the old Agaval and old Nithya Karma Vidhi files. **Personal Conduct and Daily Discipline: added 22 Nov 2026 (user confirmed Edition 1.0)**; earlier it was `pending`: its Word file says Edition 1.0 but the publications notes only record 0.9. The publications session (2026-11-22) says exclude it for now; it asked the user. Remove `pending` only once the book is approved, then re-export. The session also confirmed the rest of the list, including Vinnappangal's -DRAFT-named file (the approved 1.0 text) and JKO 1.3.
+- **28 Nov 2026:** all Thiru Arutpa and prose works published as Edition 1.0. Book VI added as three entries `book-6-1/2/3` (one per published volume, same web page /songs-of-grace-book-six/). Now 19 entries, 9,288 passages. Every other entry checked against `04 Publicationsnnouncement-all-works-complete-2026-11-28.md`: all point at the current 1.0 files (Maruthuva stays included).
+- Left out: the single-file Book VI DRAFT (superseded by the volumes), the old Agaval and old Nithya Karma Vidhi files. **Personal Conduct and Daily Discipline: added 22 Nov 2026 (user confirmed Edition 1.0)**; earlier it was `pending`: its Word file says Edition 1.0 but the publications notes only record 0.9. The publications session (2026-11-22) says exclude it for now; it asked the user. Remove `pending` only once the book is approved, then re-export. The session also confirmed the rest of the list, including Vinnappangal's -DRAFT-named file (the approved 1.0 text) and JKO 1.3.
 - **Live since 2026-11-22 (user's OK):** https://pocket-sanmarkkam.vercel.app . GitHub `Sanmarkkam-Life/pocket-sanmarkkam` (PUBLIC: keep PLAN.md, REVIEW-CHECKLIST.md, `.claude/` and `website/` out, see `.gitignore`). Vercel team `sanmarkkam-life`, project `pocket-sanmarkkam`, deploys `main` automatically. The Vercel connector here has no team grant (403): use Chrome for Vercel settings. First import needed an emailed code (the user enters it).
 - **Website:** page 3442 https://sanmarkkamlife.org/mobile-app/ (the old "Coming soon" Mobile App page) now holds the Pocket Sanmarkkam page, edited in place via `%USERPROFILE%\ClaudeSetup\wordpress\wp_api.py`. Source: `website\mobile-app-3442-pocket-sanmarkkam.html`. Backup of the old content: `%USERPROFILE%\ClaudeSetupackups\mobile-app-page-3442-before-pocket-sanmarkkam-2026-11-22.html` (it had a Sanmarkkam Journey sign-up form). Menu "2026 Menu EN" (205): item 3444 under 📲 Apps renamed "🪔 Pocket Sanmarkkam". After menu or page edits, the user purges the Aerowave cache in the hosting panel. Italian menu/page not done.
 - **To deploy a change:** edit here, `.\scripts

@@ -62,6 +62,36 @@
       "source": "Thiru Arutpa/Fifth Thirumurai/Songs-of-Grace-Book-V-Thiru-Arutpa-Aintham-Thirumurai-en.docx"
     },
     {
+      "id": "book-6-1",
+      "collection": "Thiru Arutpa",
+      "short": "Book VI, Vol. 1",
+      "title": "Songs of Grace, Book VI, Volume 1",
+      "tamilTitle": "ஆறாம் திருமுறை",
+      "romanTitle": "Aaram Thirumurai",
+      "page": "https://sanmarkkamlife.org/songs-of-grace-book-six/",
+      "source": "Thiru Arutpa/Sixth Thirumurai/Songs-of-Grace-Book-VI-Volume-1-Thiru-Arutpa-Aaram-Thirumurai-en.docx"
+    },
+    {
+      "id": "book-6-2",
+      "collection": "Thiru Arutpa",
+      "short": "Book VI, Vol. 2",
+      "title": "Songs of Grace, Book VI, Volume 2",
+      "tamilTitle": "ஆறாம் திருமுறை",
+      "romanTitle": "Aaram Thirumurai",
+      "page": "https://sanmarkkamlife.org/songs-of-grace-book-six/",
+      "source": "Thiru Arutpa/Sixth Thirumurai/Songs-of-Grace-Book-VI-Volume-2-Thiru-Arutpa-Aaram-Thirumurai-en.docx"
+    },
+    {
+      "id": "book-6-3",
+      "collection": "Thiru Arutpa",
+      "short": "Book VI, Vol. 3",
+      "title": "Songs of Grace, Book VI, Volume 3",
+      "tamilTitle": "ஆறாம் திருமுறை",
+      "romanTitle": "Aaram Thirumurai",
+      "page": "https://sanmarkkamlife.org/songs-of-grace-book-six/",
+      "source": "Thiru Arutpa/Sixth Thirumurai/Songs-of-Grace-Book-VI-Volume-3-Thiru-Arutpa-Aaram-Thirumurai-en.docx"
+    },
+    {
       "id": "vinnappangal",
       "collection": "Urainaidai Paguthi",
       "short": "The True Petitions",
@@ -176,8 +206,8 @@
     }
   ],
   "excluded": {
-    "Songs of Grace, Book VI": "Draft. Goes in when approved.",
     "Arutperunjothi-Akaval-en.docx (August 2026)": "Superseded by The Hymn of the Vast Grace-Light, Edition 1.0, November 2026.",
-    "Nithya_Karma_Vidhi_Daily_Discipline_Of_Conduct-en.docx": "Old edition with no edition line; superseded by Personal Conduct and Daily Discipline."
+    "Nithya_Karma_Vidhi_Daily_Discipline_Of_Conduct-en.docx": "Old edition with no edition line; superseded by Personal Conduct and Daily Discipline.",
+    "Songs-of-Grace-Book-VI-...-en-DRAFT.docx (single file)": "Superseded by the three published volumes (Edition 1.0, 28 Nov 2026)."
   }
 }
