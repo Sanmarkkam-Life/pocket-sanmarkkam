@@ -2,6 +2,7 @@
 
 import { useSearchParams } from "next/navigation";
 import { Suspense, useEffect, useState } from "react";
+import BookNotice from "@/components/BookNotice";
 import Header from "@/components/Header";
 import { catalogBook, loadBook } from "@/lib/data";
 import type { Book } from "@/lib/types";
@@ -18,6 +19,7 @@ function Intro() {
     <>
       <Header title="Introduction" back={`/book?b=${meta.id}`} sub={meta.title} />
       <main className="mx-auto max-w-2xl px-4 pb-8">
+        <BookNotice id={meta.id} />
         {error && <p className="py-8 text-muted">Connect to the internet once to save this book.</p>}
         {book?.intro.map((e, i) => (
           <section key={i} className="pt-6">

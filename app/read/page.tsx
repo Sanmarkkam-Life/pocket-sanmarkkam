@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { Suspense, useEffect, useMemo, useState } from "react";
+import BookNotice from "@/components/BookNotice";
 import Header from "@/components/Header";
 import Icon from "@/components/Icon";
 import LayerToggles from "@/components/LayerToggles";
@@ -83,6 +84,7 @@ function Reader() {
         </div>
       </div>
       <main className="mx-auto max-w-2xl px-4">
+        <BookNotice id={meta.id} />
         {error && <p className="py-8 text-muted">This book is not on your phone yet. Connect to the internet once and open it again.</p>}
         {!book && !error && <p className="py-8 text-muted">Opening the book…</p>}
         {book && !here && <p className="py-8 text-muted">This part of the book was not found.</p>}

@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { Suspense, useEffect, useState } from "react";
+import BookNotice from "@/components/BookNotice";
 import Header from "@/components/Header";
 import Icon from "@/components/Icon";
 import { catalogBook, loadBook, sectionHref } from "@/lib/data";
@@ -39,6 +40,7 @@ function BookContents() {
           {book.tamilTitle}
         </p>
         <p className="text-sm text-muted">Vallalar (Ramalinga Adigal)</p>
+        <BookNotice id={book.id} />
 
         <div className="mt-4 flex flex-wrap gap-2">
           {book.hasIntro && (
